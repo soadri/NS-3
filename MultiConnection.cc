@@ -158,7 +158,7 @@ void DashServerApp::AcceptCallback(Ptr<Socket> socket, const Address &ads)
 {
     // Multi-Socket Accept
 
-    //NS_LOG_UNCOND("Server : accept callback");
+    // NS_LOG_UNCOND("Server : accept callback");
     m_peer_address = ads;
     m_peer_socket = socket;
 
