@@ -1,0 +1,1670 @@
+Waf: Entering directory `/home/min3/ns-allinone-3.26/ns-3.26/build'
+[  6/871] Compiling PANDA_DEFAULT.cc
+[866/871] Linking ../build/scratch/PANDA_DEFAULT
+Waf: Leaving directory `/home/min3/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (3.984s)
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 0 bufferSize_panda: 0 hasThroughput_panda: 0 estimatedBW_panda: 0 videoLevel_panda: 450
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 645 target_panda: 1.395e+06 bpsAverage_panda: 1.395e+06 bpsLastChunk_panda: 1395 lastBitrate_panda: 450000 chunkCount_panda: 1 totalChunks_panda: 512 downloadDuration_panda: 0.645 requestInterval_panda: 0.645
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 792 target_panda: 1.50336e+06 bpsAverage_panda: 1.41667e+06 bpsLastChunk_panda: 6122 lastBitrate_panda: 450000 chunkCount_panda: 2 totalChunks_panda: 512 downloadDuration_panda: 0.147 requestInterval_panda: 0.147
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 1 bufferSize_panda: 3 hasThroughput_panda: 1446 estimatedBW_panda: 1416.67 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 1105 target_panda: 1.52806e+06 bpsAverage_panda: 1.43895e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 3 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 1418 target_panda: 1.58064e+06 bpsAverage_panda: 1.46729e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 4 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 1731 target_panda: 1.63322e+06 bpsAverage_panda: 1.50047e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 5 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 2 bufferSize_panda: 8 hasThroughput_panda: 1998 estimatedBW_panda: 1500.47 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 2044 target_panda: 1.68581e+06 bpsAverage_panda: 1.53754e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 6 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 2357 target_panda: 1.73839e+06 bpsAverage_panda: 1.57771e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 7 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 2670 target_panda: 1.79098e+06 bpsAverage_panda: 1.62036e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 8 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 2983 target_panda: 1.84356e+06 bpsAverage_panda: 1.665e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 9 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 3 bufferSize_panda: 15 hasThroughput_panda: 0 estimatedBW_panda: 1665 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 3296 target_panda: 1.89614e+06 bpsAverage_panda: 1.71123e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 10 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 3609 target_panda: 1.94873e+06 bpsAverage_panda: 1.75873e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 11 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 4 bufferSize_panda: 18 hasThroughput_panda: 1613 estimatedBW_panda: 1758.73 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 4086 target_panda: 2.00131e+06 bpsAverage_panda: 1.80725e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 12 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 4727 target_panda: 2.0539e+06 bpsAverage_panda: 1.85658e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 13 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 5 bufferSize_panda: 21 hasThroughput_panda: 0 estimatedBW_panda: 1856.58 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 5533 target_panda: 2.10648e+06 bpsAverage_panda: 1.90656e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 14 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 6 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 1906.56 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 6705 target_panda: 2.15906e+06 bpsAverage_panda: 1.95706e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 15 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 7 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 1957.06 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 7844 target_panda: 2.21165e+06 bpsAverage_panda: 2.00798e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 16 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 8 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 2007.98 videoLevel_panda: 1200
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 9 bufferSize_panda: 23 hasThroughput_panda: 1016 estimatedBW_panda: 2007.98 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 9152 target_panda: 2.26423e+06 bpsAverage_panda: 2.05923e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 17 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 10 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 2059.23 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 10631 target_panda: 2.31682e+06 bpsAverage_panda: 2.11075e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 18 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 11 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 2110.75 videoLevel_panda: 1200
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 12 bufferSize_panda: 24 hasThroughput_panda: 1662 estimatedBW_panda: 2110.75 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 12081 target_panda: 2.3694e+06 bpsAverage_panda: 2.16248e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 19 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 13 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 2162.48 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 13504 target_panda: 2.42198e+06 bpsAverage_panda: 2.21438e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 20 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 14 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2214.38 videoLevel_panda: 1200
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 15 bufferSize_panda: 25 hasThroughput_panda: 1482 estimatedBW_panda: 2214.38 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 15100 target_panda: 2.47457e+06 bpsAverage_panda: 2.26642e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 21 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 16 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2266.42 videoLevel_panda: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 16672 target_panda: 2.52715e+06 bpsAverage_panda: 2.31856e+06 bpsLastChunk_panda: 7667 lastBitrate_panda: 1200000 chunkCount_panda: 22 totalChunks_panda: 512 downloadDuration_panda: 0.313 requestInterval_panda: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 17 bufferSize_panda: 27 hasThroughput_panda: 0 estimatedBW_panda: 2318.56 videoLevel_panda: 1200
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 18 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2318.56 videoLevel_panda: 1200
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 19 bufferSize_panda: 25 hasThroughput_panda: 3592 estimatedBW_panda: 2318.56 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 19033 target_panda: 2.57974e+06 bpsAverage_panda: 2.3708e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 23 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 20 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2370.8 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 21 bufferSize_panda: 25 hasThroughput_panda: 660 estimatedBW_panda: 2370.8 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 21357 target_panda: 2.66021e+06 bpsAverage_panda: 2.42868e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 24 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 22 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2428.68 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 23 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 2428.68 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 23642 target_panda: 2.74068e+06 bpsAverage_panda: 2.49108e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 25 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 24 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2491.08 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 25 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 2491.08 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 25886 target_panda: 2.82115e+06 bpsAverage_panda: 2.55709e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 26 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 26 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2557.09 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 27 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 2557.09 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 27890 target_panda: 2.90162e+06 bpsAverage_panda: 2.626e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 27 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 28 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2626 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 29 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 2626 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 29854 target_panda: 2.9821e+06 bpsAverage_panda: 2.69722e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 28 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 30 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2697.22 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 31 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 2697.22 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 31779 target_panda: 3.06257e+06 bpsAverage_panda: 2.77029e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 29 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 32 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2770.29 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 33 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 2770.29 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 33665 target_panda: 3.14304e+06 bpsAverage_panda: 2.84484e+06 bpsLastChunk_panda: 8158 lastBitrate_panda: 1950000 chunkCount_panda: 30 totalChunks_panda: 512 downloadDuration_panda: 0.478 requestInterval_panda: 0.478
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 34 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2844.84 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 35 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 2844.84 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 35515 target_panda: 3.22334e+06 bpsAverage_panda: 2.92054e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 31 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 36 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2920.54 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 37 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 2920.54 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 37529 target_panda: 3.30382e+06 bpsAverage_panda: 2.9972e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 32 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 38 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 2997.2 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 39 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 2997.2 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 39509 target_panda: 3.38429e+06 bpsAverage_panda: 3.07461e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 33 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 40 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 3074.61 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 41 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 3074.61 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 41457 target_panda: 3.46476e+06 bpsAverage_panda: 3.15264e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 34 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 42 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 3152.64 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 43 bufferSize_panda: 25 hasThroughput_panda: 523 estimatedBW_panda: 3152.64 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 43372 target_panda: 3.54523e+06 bpsAverage_panda: 3.23116e+06 bpsLastChunk_panda: 8158 lastBitrate_panda: 1950000 chunkCount_panda: 35 totalChunks_panda: 512 downloadDuration_panda: 0.478 requestInterval_panda: 0.478
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 44 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 3231.16 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 45 bufferSize_panda: 25 hasThroughput_panda: 1556 estimatedBW_panda: 3231.16 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 45258 target_panda: 3.62554e+06 bpsAverage_panda: 3.31004e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 36 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 46 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 3310.04 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 47 bufferSize_panda: 25 hasThroughput_panda: 2851 estimatedBW_panda: 3310.04 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 47115 target_panda: 3.70601e+06 bpsAverage_panda: 3.38923e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 37 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 48 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 3389.23 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 48945 target_panda: 3.78648e+06 bpsAverage_panda: 3.46868e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 38 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 49 bufferSize_panda: 27 hasThroughput_panda: 0 estimatedBW_panda: 3468.68 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 50 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 3468.68 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 50748 target_panda: 3.86695e+06 bpsAverage_panda: 3.54833e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 39 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 51 bufferSize_panda: 27 hasThroughput_panda: 0 estimatedBW_panda: 3548.33 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 52 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 3548.33 videoLevel_panda: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 52526 target_panda: 3.94742e+06 bpsAverage_panda: 3.62815e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 40 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 53 bufferSize_panda: 27 hasThroughput_panda: 0 estimatedBW_panda: 3628.15 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 54 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 3628.15 videoLevel_panda: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 55 bufferSize_panda: 25 hasThroughput_panda: 3117 estimatedBW_panda: 3628.15 videoLevel_panda: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 55329 target_panda: 4.0279e+06 bpsAverage_panda: 3.7081e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 41 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 56 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 3708.1 videoLevel_panda: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 57 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 3708.1 videoLevel_panda: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 57896 target_panda: 4.14919e+06 bpsAverage_panda: 3.79632e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 42 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 58 bufferSize_panda: 26 hasThroughput_panda: 0 estimatedBW_panda: 3796.32 videoLevel_panda: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 59 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 3796.32 videoLevel_panda: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 60 bufferSize_panda: 24 hasThroughput_panda: 4059 estimatedBW_panda: 3796.32 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 60 bufferSize_panda2: 0 hasThroughput_panda2: 0 estimatedBW_panda2: 0 videoLevel_panda2: 450
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 60225 target_panda: 4.27049e+06 bpsAverage_panda: 3.89115e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 43 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 60774 target_panda2: 1.162e+06 bpsAverage_panda2: 1.162e+06 bpsLastChunk_panda2: 1162 lastBitrate_panda2: 450000 chunkCount_panda2: 1 totalChunks_panda2: 512 downloadDuration_panda2: 0.774 requestInterval_panda2: 0.774
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 60976 target_panda2: 1.29203e+06 bpsAverage_panda2: 1.18801e+06 bpsLastChunk_panda2: 6930 lastBitrate_panda2: 700000 chunkCount_panda2: 2 totalChunks_panda2: 512 downloadDuration_panda2: 0.202 requestInterval_panda2: 0.202
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 61 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 3891.15 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 61 bufferSize_panda2: 3 hasThroughput_panda2: 0 estimatedBW_panda2: 1188.01 videoLevel_panda2: 700
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 61179 target_panda2: 1.32597e+06 bpsAverage_panda2: 1.2156e+06 bpsLastChunk_panda2: 6896 lastBitrate_panda2: 700000 chunkCount_panda2: 3 totalChunks_panda2: 512 downloadDuration_panda2: 0.203 requestInterval_panda2: 0.203
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 61381 target_panda2: 1.36007e+06 bpsAverage_panda2: 1.24449e+06 bpsLastChunk_panda2: 6930 lastBitrate_panda2: 700000 chunkCount_panda2: 4 totalChunks_panda2: 512 downloadDuration_panda2: 0.202 requestInterval_panda2: 0.202
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 61584 target_panda2: 1.39401e+06 bpsAverage_panda2: 1.2744e+06 bpsLastChunk_panda2: 6896 lastBitrate_panda2: 700000 chunkCount_panda2: 5 totalChunks_panda2: 512 downloadDuration_panda2: 0.203 requestInterval_panda2: 0.203
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 61786 target_panda2: 1.42811e+06 bpsAverage_panda2: 1.30514e+06 bpsLastChunk_panda2: 6930 lastBitrate_panda2: 700000 chunkCount_panda2: 6 totalChunks_panda2: 512 downloadDuration_panda2: 0.202 requestInterval_panda2: 0.202
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 62 bufferSize_panda: 24 hasThroughput_panda: 450 estimatedBW_panda: 3891.15 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 62 bufferSize_panda2: 10 hasThroughput_panda2: 1048 estimatedBW_panda2: 1305.14 videoLevel_panda2: 700
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 62104 target_panda2: 1.46205e+06 bpsAverage_panda2: 1.33652e+06 bpsLastChunk_panda2: 4402 lastBitrate_panda2: 700000 chunkCount_panda2: 7 totalChunks_panda2: 512 downloadDuration_panda2: 0.318 requestInterval_panda2: 0.318
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 62493 target_panda2: 1.51547e+06 bpsAverage_panda2: 1.37231e+06 bpsLastChunk_panda2: 3598 lastBitrate_panda2: 700000 chunkCount_panda2: 8 totalChunks_panda2: 512 downloadDuration_panda2: 0.389 requestInterval_panda2: 0.389
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 62883 target_panda2: 1.58082e+06 bpsAverage_panda2: 1.41401e+06 bpsLastChunk_panda2: 3589 lastBitrate_panda2: 700000 chunkCount_panda2: 9 totalChunks_panda2: 512 downloadDuration_panda2: 0.39 requestInterval_panda2: 0.39
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 62971 target_panda: 4.39178e+06 bpsAverage_panda: 3.99128e+06 bpsLastChunk_panda: 5178 lastBitrate_panda: 3050000 chunkCount_panda: 44 totalChunks_panda: 512 downloadDuration_panda: 1.178 requestInterval_panda: 1.178
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 63 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 3991.28 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 63 bufferSize_panda2: 15 hasThroughput_panda2: 257 estimatedBW_panda2: 1414.01 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 63236 target_panda2: 1.64634e+06 bpsAverage_panda2: 1.46048e+06 bpsLastChunk_panda2: 6798 lastBitrate_panda2: 1200000 chunkCount_panda2: 10 totalChunks_panda2: 512 downloadDuration_panda2: 0.353 requestInterval_panda2: 0.353
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 63592 target_panda2: 1.70565e+06 bpsAverage_panda2: 1.50951e+06 bpsLastChunk_panda2: 7667 lastBitrate_panda2: 1200000 chunkCount_panda2: 11 totalChunks_panda2: 512 downloadDuration_panda2: 0.313 requestInterval_panda2: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 64 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 3991.28 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 64 bufferSize_panda2: 18 hasThroughput_panda2: 0 estimatedBW_panda2: 1509.51 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 64295 target_panda2: 1.75823e+06 bpsAverage_panda2: 1.55926e+06 bpsLastChunk_panda2: 7667 lastBitrate_panda2: 1200000 chunkCount_panda2: 12 totalChunks_panda2: 512 downloadDuration_panda2: 0.313 requestInterval_panda2: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 65 bufferSize_panda: 23 hasThroughput_panda: 3682 estimatedBW_panda: 3991.28 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 65 bufferSize_panda2: 19 hasThroughput_panda2: 411 estimatedBW_panda2: 1559.26 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 65450 target_panda2: 1.81082e+06 bpsAverage_panda2: 1.60957e+06 bpsLastChunk_panda2: 3896 lastBitrate_panda2: 1200000 chunkCount_panda2: 13 totalChunks_panda2: 512 downloadDuration_panda2: 0.616 requestInterval_panda2: 0.616
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 65486 target_panda: 4.58969e+06 bpsAverage_panda: 4.11096e+06 bpsLastChunk_panda: 6180 lastBitrate_panda: 3050000 chunkCount_panda: 45 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 66 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 4110.96 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 66 bufferSize_panda2: 20 hasThroughput_panda2: 0 estimatedBW_panda2: 1609.57 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 66454 target_panda2: 1.9143e+06 bpsAverage_panda2: 1.67052e+06 bpsLastChunk_panda2: 7667 lastBitrate_panda2: 1200000 chunkCount_panda2: 14 totalChunks_panda2: 512 downloadDuration_panda2: 0.313 requestInterval_panda2: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 67 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4110.96 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 67 bufferSize_panda2: 21 hasThroughput_panda2: 0 estimatedBW_panda2: 1670.52 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 67906 target_panda2: 1.96689e+06 bpsAverage_panda2: 1.72979e+06 bpsLastChunk_panda2: 3902 lastBitrate_panda2: 1200000 chunkCount_panda2: 15 totalChunks_panda2: 512 downloadDuration_panda2: 0.615 requestInterval_panda2: 0.615
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 67957 target_panda: 4.7555e+06 bpsAverage_panda: 4.23987e+06 bpsLastChunk_panda: 6180 lastBitrate_panda: 3050000 chunkCount_panda: 46 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 68 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 4239.87 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 68 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 1729.79 videoLevel_panda2: 1200
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 69 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4239.87 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 69 bufferSize_panda2: 21 hasThroughput_panda2: 2334 estimatedBW_panda2: 1729.79 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 69006 target_panda2: 2.07021e+06 bpsAverage_panda2: 1.79787e+06 bpsLastChunk_panda2: 7667 lastBitrate_panda2: 1200000 chunkCount_panda2: 16 totalChunks_panda2: 512 downloadDuration_panda2: 0.313 requestInterval_panda2: 0.313
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 69918 target_panda: 4.92132e+06 bpsAverage_panda: 4.37616e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 47 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 70 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 4376.16 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 70 bufferSize_panda2: 22 hasThroughput_panda2: 90 estimatedBW_panda2: 1797.87 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 70254 target_panda2: 2.12279e+06 bpsAverage_panda2: 1.86286e+06 bpsLastChunk_panda2: 7667 lastBitrate_panda2: 1200000 chunkCount_panda2: 17 totalChunks_panda2: 512 downloadDuration_panda2: 0.313 requestInterval_panda2: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 71 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4376.16 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 71 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 1862.86 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 71958 target_panda2: 2.17538e+06 bpsAverage_panda2: 1.92536e+06 bpsLastChunk_panda2: 3902 lastBitrate_panda2: 1200000 chunkCount_panda2: 18 totalChunks_panda2: 512 downloadDuration_panda2: 0.615 requestInterval_panda2: 0.615
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 72 bufferSize_panda: 22 hasThroughput_panda: 5206 estimatedBW_panda: 4376.16 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 72 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 1925.36 videoLevel_panda2: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 72098 target_panda: 5.04262e+06 bpsAverage_panda: 4.50945e+06 bpsLastChunk_panda: 6180 lastBitrate_panda: 3050000 chunkCount_panda: 48 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 73 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4509.45 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 73 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 1925.36 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 73317 target_panda2: 2.2787e+06 bpsAverage_panda2: 1.99603e+06 bpsLastChunk_panda2: 7667 lastBitrate_panda2: 1200000 chunkCount_panda2: 19 totalChunks_panda2: 512 downloadDuration_panda2: 0.313 requestInterval_panda2: 0.313
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 73991 target_panda: 5.20843e+06 bpsAverage_panda: 4.64925e+06 bpsLastChunk_panda: 8243 lastBitrate_panda: 3050000 chunkCount_panda: 49 totalChunks_panda: 512 downloadDuration_panda: 0.74 requestInterval_panda: 0.74
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 74 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 4649.25 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 74 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 1996.03 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 74833 target_panda2: 2.33128e+06 bpsAverage_panda2: 2.06308e+06 bpsLastChunk_panda2: 7667 lastBitrate_panda2: 1200000 chunkCount_panda2: 20 totalChunks_panda2: 512 downloadDuration_panda2: 0.313 requestInterval_panda2: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 75 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4649.25 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 75 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2063.08 videoLevel_panda2: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 75825 target_panda: 5.33275e+06 bpsAverage_panda: 4.78595e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 50 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 76 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 4785.95 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 76 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 2063.08 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 76309 target_panda2: 2.38386e+06 bpsAverage_panda2: 2.12724e+06 bpsLastChunk_panda2: 7667 lastBitrate_panda2: 1200000 chunkCount_panda2: 21 totalChunks_panda2: 512 downloadDuration_panda2: 0.313 requestInterval_panda2: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 77 bufferSize_panda: 23 hasThroughput_panda: 467 estimatedBW_panda: 4785.95 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 77 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2127.24 videoLevel_panda2: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 77737 target_panda: 5.45405e+06 bpsAverage_panda: 4.91957e+06 bpsLastChunk_panda: 7287 lastBitrate_panda: 3050000 chunkCount_panda: 51 totalChunks_panda: 512 downloadDuration_panda: 0.837 requestInterval_panda: 0.837
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 77887 target_panda2: 2.43645e+06 bpsAverage_panda2: 2.18908e+06 bpsLastChunk_panda2: 5333 lastBitrate_panda2: 1200000 chunkCount_panda2: 22 totalChunks_panda2: 512 downloadDuration_panda2: 0.45 requestInterval_panda2: 0.45
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 78 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 4919.57 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 78 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2189.08 videoLevel_panda2: 1200
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 79 bufferSize_panda: 23 hasThroughput_panda: 1576 estimatedBW_panda: 4919.57 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 79 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2189.08 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 79598 target_panda2: 2.51205e+06 bpsAverage_panda2: 2.25367e+06 bpsLastChunk_panda2: 3902 lastBitrate_panda2: 1200000 chunkCount_panda2: 23 totalChunks_panda2: 512 downloadDuration_panda2: 0.615 requestInterval_panda2: 0.615
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 79764 target_panda: 5.59466e+06 bpsAverage_panda: 5.05459e+06 bpsLastChunk_panda: 6180 lastBitrate_panda: 3050000 chunkCount_panda: 52 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 80 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 5054.59 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 80 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2253.67 videoLevel_panda2: 1200
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 81 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 5054.59 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 81 bufferSize_panda2: 25 hasThroughput_panda2: 797 estimatedBW_panda2: 2253.67 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 81176 target_panda2: 2.61537e+06 bpsAverage_panda2: 2.32601e+06 bpsLastChunk_panda2: 7667 lastBitrate_panda2: 1200000 chunkCount_panda2: 24 totalChunks_panda2: 512 downloadDuration_panda2: 0.313 requestInterval_panda2: 0.313
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 82 bufferSize_panda: 22 hasThroughput_panda: 6385 estimatedBW_panda: 5054.59 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 82 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2326.01 videoLevel_panda2: 1200
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 82233 target_panda: 5.76048e+06 bpsAverage_panda: 5.19577e+06 bpsLastChunk_panda: 8611 lastBitrate_panda: 4250000 chunkCount_panda: 53 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 83 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 5195.77 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 83 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2326.01 videoLevel_panda2: 1200
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 83532 target_panda2: 2.66795e+06 bpsAverage_panda2: 2.3944e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 25 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 84 bufferSize_panda: 22 hasThroughput_panda: 2556 estimatedBW_panda: 5195.77 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 84 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2394.4 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 84656 target_panda: 5.9263e+06 bpsAverage_panda: 5.34187e+06 bpsLastChunk_panda: 8611 lastBitrate_panda: 4250000 chunkCount_panda: 54 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 85 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 5341.87 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 85 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2394.4 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 85839 target_panda2: 2.74842e+06 bpsAverage_panda2: 2.4652e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 26 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 86 bufferSize_panda: 22 hasThroughput_panda: 943 estimatedBW_panda: 5341.87 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 86 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2465.2 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 86835 target_panda: 6.09211e+06 bpsAverage_panda: 5.49192e+06 bpsLastChunk_panda: 8603 lastBitrate_panda: 4250000 chunkCount_panda: 55 totalChunks_panda: 512 downloadDuration_panda: 0.988 requestInterval_panda: 0.988
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 87 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 5491.92 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 87 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2465.2 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 87900 target_panda2: 2.8289e+06 bpsAverage_panda2: 2.53794e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 27 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 88 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 5491.92 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 88 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2537.94 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 88970 target_panda: 6.2581e+06 bpsAverage_panda: 5.64516e+06 bpsLastChunk_panda: 8611 lastBitrate_panda: 4250000 chunkCount_panda: 56 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 89 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 5645.16 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 89 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2537.94 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 89916 target_panda2: 2.90937e+06 bpsAverage_panda2: 2.61223e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 28 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 90 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 5645.16 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 90 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2612.23 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 91 bufferSize_panda: 21 hasThroughput_panda: 7925 estimatedBW_panda: 5645.16 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 91 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2612.23 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 91063 target_panda: 6.42391e+06 bpsAverage_panda: 5.80091e+06 bpsLastChunk_panda: 8611 lastBitrate_panda: 4250000 chunkCount_panda: 57 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 91887 target_panda2: 2.98984e+06 bpsAverage_panda2: 2.68775e+06 bpsLastChunk_panda2: 8158 lastBitrate_panda2: 1950000 chunkCount_panda2: 29 totalChunks_panda2: 512 downloadDuration_panda2: 0.478 requestInterval_panda2: 0.478
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 92 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 5800.91 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 92 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2687.75 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 93 bufferSize_panda: 21 hasThroughput_panda: 7450 estimatedBW_panda: 5800.91 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 93 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2687.75 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 93116 target_panda: 6.58973e+06 bpsAverage_panda: 5.95867e+06 bpsLastChunk_panda: 8603 lastBitrate_panda: 4250000 chunkCount_panda: 58 totalChunks_panda: 512 downloadDuration_panda: 0.988 requestInterval_panda: 0.988
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 93817 target_panda2: 3.07014e+06 bpsAverage_panda2: 2.76423e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 30 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 94 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 5958.67 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 94 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2764.23 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 95 bufferSize_panda: 21 hasThroughput_panda: 7323 estimatedBW_panda: 5958.67 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 95 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2764.23 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 95129 target_panda: 6.75571e+06 bpsAverage_panda: 6.11808e+06 bpsLastChunk_panda: 8611 lastBitrate_panda: 4250000 chunkCount_panda: 59 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 95707 target_panda2: 3.15062e+06 bpsAverage_panda2: 2.84151e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 31 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 96 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 6118.08 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 96 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2841.51 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 97 bufferSize_panda: 21 hasThroughput_panda: 7536 estimatedBW_panda: 6118.08 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 97 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2841.51 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 97106 target_panda: 6.92153e+06 bpsAverage_panda: 6.27877e+06 bpsLastChunk_panda: 8611 lastBitrate_panda: 4250000 chunkCount_panda: 60 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 97758 target_panda2: 3.23109e+06 bpsAverage_panda2: 2.91942e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 32 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 98 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 6278.77 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 98 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2919.42 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 99 bufferSize_panda: 21 hasThroughput_panda: 8069 estimatedBW_panda: 6278.77 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 99 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2919.42 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 99047 target_panda: 7.08734e+06 bpsAverage_panda: 6.44048e+06 bpsLastChunk_panda: 8611 lastBitrate_panda: 4250000 chunkCount_panda: 61 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 99773 target_panda2: 3.31156e+06 bpsAverage_panda2: 2.99785e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 33 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 100 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 6440.48 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 100 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 2997.85 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 100954 target_panda: 7.25316e+06 bpsAverage_panda: 6.60302e+06 bpsLastChunk_panda: 8611 lastBitrate_panda: 4250000 chunkCount_panda: 62 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 101 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 6603.02 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 101 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 2997.85 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 101753 target_panda2: 3.39203e+06 bpsAverage_panda2: 3.07669e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 34 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 102 bufferSize_panda: 22 hasThroughput_panda: 994 estimatedBW_panda: 6603.02 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 102 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 3076.69 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 102829 target_panda: 7.41898e+06 bpsAverage_panda: 6.76621e+06 bpsLastChunk_panda: 8603 lastBitrate_panda: 4250000 chunkCount_panda: 63 totalChunks_panda: 512 downloadDuration_panda: 0.988 requestInterval_panda: 0.988
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 103 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 6766.21 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 103 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3076.69 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 103699 target_panda2: 3.4725e+06 bpsAverage_panda2: 3.15585e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 35 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 104 bufferSize_panda: 22 hasThroughput_panda: 2412 estimatedBW_panda: 6766.21 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 104 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 3155.85 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 104672 target_panda: 7.58496e+06 bpsAverage_panda: 6.92996e+06 bpsLastChunk_panda: 8611 lastBitrate_panda: 4250000 chunkCount_panda: 64 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 105 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 6929.96 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 105 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3155.85 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 105614 target_panda2: 3.55298e+06 bpsAverage_panda2: 3.23528e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 36 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 106 bufferSize_panda: 22 hasThroughput_panda: 3493 estimatedBW_panda: 6929.96 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 106 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 3235.28 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 106553 target_panda: 7.75078e+06 bpsAverage_panda: 7.09412e+06 bpsLastChunk_panda: 8064 lastBitrate_panda: 4250000 chunkCount_panda: 65 totalChunks_panda: 512 downloadDuration_panda: 1.054 requestInterval_panda: 1.054
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 107 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 7094.12 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 107 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3235.28 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 107498 target_panda2: 3.63345e+06 bpsAverage_panda2: 3.31491e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 37 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 108 bufferSize_panda: 22 hasThroughput_panda: 3624 estimatedBW_panda: 7094.12 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 108 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 3314.91 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 108538 target_panda: 7.92785e+06 bpsAverage_panda: 7.26087e+06 bpsLastChunk_panda: 8611 lastBitrate_panda: 4250000 chunkCount_panda: 66 totalChunks_panda: 512 downloadDuration_panda: 0.987 requestInterval_panda: 0.987
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 109 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 7260.87 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 109 bufferSize_panda2: 25 hasThroughput_panda2: 698 estimatedBW_panda2: 3314.91 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 109353 target_panda2: 3.71392e+06 bpsAverage_panda2: 3.39471e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 38 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 110 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 7260.87 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 110 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 3394.71 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 111 bufferSize_panda: 21 hasThroughput_panda: 7520 estimatedBW_panda: 7260.87 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 111 bufferSize_panda2: 25 hasThroughput_panda2: 1048 estimatedBW_panda2: 3394.71 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 111604 target_panda2: 3.79439e+06 bpsAverage_panda2: 3.47465e+06 bpsLastChunk_panda2: 4323 lastBitrate_panda2: 1950000 chunkCount_panda2: 39 totalChunks_panda2: 512 downloadDuration_panda2: 0.902 requestInterval_panda2: 0.902
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 111821 target_panda: 7.22819e+06 bpsAverage_panda: 7.25433e+06 bpsLastChunk_panda: 6662 lastBitrate_panda: 6050000 chunkCount_panda: 67 totalChunks_panda: 512 downloadDuration_panda: 1.816 requestInterval_panda: 1.816
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 112 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 7254.33 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 112 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 3474.65 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 113 bufferSize_panda: 21 hasThroughput_panda: 566 estimatedBW_panda: 7254.33 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 113 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3474.65 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 113830 target_panda2: 3.94593e+06 bpsAverage_panda2: 3.5689e+06 bpsLastChunk_panda2: 4314 lastBitrate_panda2: 1950000 chunkCount_panda2: 40 totalChunks_panda2: 512 downloadDuration_panda2: 0.904 requestInterval_panda2: 0.904
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 114 bufferSize_panda: 20 hasThroughput_panda: 5718 estimatedBW_panda: 7254.33 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 114 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 3568.9 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 114705 target_panda: 6.6524e+06 bpsAverage_panda: 7.13395e+06 bpsLastChunk_panda: 6662 lastBitrate_panda: 6050000 chunkCount_panda: 68 totalChunks_panda: 512 downloadDuration_panda: 1.816 requestInterval_panda: 1.816
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 115 bufferSize_panda: 21 hasThroughput_panda: 0 estimatedBW_panda: 7133.95 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 115 bufferSize_panda2: 25 hasThroughput_panda2: 257 estimatedBW_panda2: 3568.9 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 115402 target_panda2: 4.0978e+06 bpsAverage_panda2: 3.67468e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 41 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 116 bufferSize_panda: 20 hasThroughput_panda: 3174 estimatedBW_panda: 7133.95 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 116 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 3674.68 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 116986 target_panda: 6.95749e+06 bpsAverage_panda: 7.09865e+06 bpsLastChunk_panda: 8736 lastBitrate_panda: 6050000 chunkCount_panda: 69 totalChunks_panda: 512 downloadDuration_panda: 1.385 requestInterval_panda: 1.385
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 117 bufferSize_panda: 21 hasThroughput_panda: 0 estimatedBW_panda: 7098.65 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 117 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3674.68 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 117984 target_panda2: 4.17827e+06 bpsAverage_panda2: 3.7754e+06 bpsLastChunk_panda2: 8448 lastBitrate_panda2: 3050000 chunkCount_panda2: 42 totalChunks_panda2: 512 downloadDuration_panda2: 0.722 requestInterval_panda2: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 118 bufferSize_panda: 20 hasThroughput_panda: 141 estimatedBW_panda: 7098.65 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 118 bufferSize_panda2: 26 hasThroughput_panda2: 0 estimatedBW_panda2: 3775.4 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 119 bufferSize_panda: 19 hasThroughput_panda: 9187 estimatedBW_panda: 7098.65 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 119 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3775.4 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 119321 target_panda: 7.19017e+06 bpsAverage_panda: 7.11696e+06 bpsLastChunk_panda: 8461 lastBitrate_panda: 6050000 chunkCount_panda: 70 totalChunks_panda: 512 downloadDuration_panda: 1.43 requestInterval_panda: 1.43
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 120 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 7116.96 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 120 bufferSize_panda2: 24 hasThroughput_panda2: 3182 estimatedBW_panda2: 3775.4 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 120591 target_panda2: 4.29957e+06 bpsAverage_panda2: 3.88023e+06 bpsLastChunk_panda2: 6155 lastBitrate_panda2: 3050000 chunkCount_panda2: 43 totalChunks_panda2: 512 downloadDuration_panda2: 0.991 requestInterval_panda2: 0.991
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 121 bufferSize_panda: 19 hasThroughput_panda: 2474 estimatedBW_panda: 7116.96 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 121 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3880.23 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 122 bufferSize_panda: 18 hasThroughput_panda: 6672 estimatedBW_panda: 7116.96 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 122 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 3880.23 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 123 bufferSize_panda: 17 hasThroughput_panda: 9683 estimatedBW_panda: 7116.96 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 123 bufferSize_panda2: 23 hasThroughput_panda2: 2093 estimatedBW_panda2: 3880.23 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 124 bufferSize_panda: 16 hasThroughput_panda: 12087 estimatedBW_panda: 7116.96 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 124 bufferSize_panda2: 22 hasThroughput_panda2: 4182 estimatedBW_panda2: 3880.23 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 124002 target_panda: 3.99484e+06 bpsAverage_panda: 6.49253e+06 bpsLastChunk_panda: 3200 lastBitrate_panda: 6050000 chunkCount_panda: 71 totalChunks_panda: 512 downloadDuration_panda: 3.781 requestInterval_panda: 3.781
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 124603 target_panda2: 3.30088e+06 bpsAverage_panda2: 3.76436e+06 bpsLastChunk_panda2: 2500 lastBitrate_panda2: 3050000 chunkCount_panda2: 44 totalChunks_panda2: 512 downloadDuration_panda2: 2.44 requestInterval_panda2: 2.44
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 125 bufferSize_panda: 17 hasThroughput_panda: 1310 estimatedBW_panda: 6492.53 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 125 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 3764.36 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 126 bufferSize_panda: 16 hasThroughput_panda: 5517 estimatedBW_panda: 6492.53 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 126 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3764.36 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 127 bufferSize_panda: 15 hasThroughput_panda: 8523 estimatedBW_panda: 6492.53 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 127 bufferSize_panda2: 21 hasThroughput_panda2: 2093 estimatedBW_panda2: 3764.36 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 128 bufferSize_panda: 14 hasThroughput_panda: 10866 estimatedBW_panda: 6492.53 videoLevel_panda: 6050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 128 bufferSize_panda2: 20 hasThroughput_panda2: 4251 estimatedBW_panda2: 3764.36 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 128673 target_panda2: 1.93601e+06 bpsAverage_panda2: 3.39869e+06 bpsLastChunk_panda2: 2302 lastBitrate_panda2: 3050000 chunkCount_panda2: 45 totalChunks_panda2: 512 downloadDuration_panda2: 2.649 requestInterval_panda2: 2.649
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 128731 target_panda: 1.54116e+06 bpsAverage_panda: 5.50226e+06 bpsLastChunk_panda: 2836 lastBitrate_panda: 6050000 chunkCount_panda: 72 totalChunks_panda: 512 downloadDuration_panda: 4.266 requestInterval_panda: 4.266
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 129 bufferSize_panda: 15 hasThroughput_panda: 184 estimatedBW_panda: 5502.26 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 129 bufferSize_panda2: 21 hasThroughput_panda2: 0 estimatedBW_panda2: 3398.69 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 130 bufferSize_panda: 14 hasThroughput_panda: 4354 estimatedBW_panda: 5502.26 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 130 bufferSize_panda2: 20 hasThroughput_panda2: 0 estimatedBW_panda2: 3398.69 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 131 bufferSize_panda: 13 hasThroughput_panda: 7008 estimatedBW_panda: 5502.26 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 131 bufferSize_panda2: 19 hasThroughput_panda2: 2523 estimatedBW_panda2: 3398.69 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 131702 target_panda: 2.25785e+06 bpsAverage_panda: 4.85338e+06 bpsLastChunk_panda: 2860 lastBitrate_panda: 4250000 chunkCount_panda: 73 totalChunks_panda: 512 downloadDuration_panda: 2.971 requestInterval_panda: 2.971
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 132 bufferSize_panda: 14 hasThroughput_panda: 0 estimatedBW_panda: 4853.38 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 132 bufferSize_panda2: 18 hasThroughput_panda2: 5165 estimatedBW_panda2: 3398.69 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 132423 target_panda2: 2.38104e+06 bpsAverage_panda2: 3.19516e+06 bpsLastChunk_panda2: 2387 lastBitrate_panda2: 3050000 chunkCount_panda2: 46 totalChunks_panda2: 512 downloadDuration_panda2: 2.555 requestInterval_panda2: 2.555
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 133 bufferSize_panda: 13 hasThroughput_panda: 3072 estimatedBW_panda: 4853.38 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 133 bufferSize_panda2: 19 hasThroughput_panda2: 0 estimatedBW_panda2: 3195.16 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 134 bufferSize_panda: 12 hasThroughput_panda: 6283 estimatedBW_panda: 4853.38 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 134 bufferSize_panda2: 18 hasThroughput_panda2: 1159 estimatedBW_panda2: 3195.16 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 135 bufferSize_panda: 11 hasThroughput_panda: 8380 estimatedBW_panda: 4853.38 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 135 bufferSize_panda2: 17 hasThroughput_panda2: 3735 estimatedBW_panda2: 3195.16 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 135126 target_panda: 2.63078e+06 bpsAverage_panda: 4.40886e+06 bpsLastChunk_panda: 2482 lastBitrate_panda: 4250000 chunkCount_panda: 74 totalChunks_panda: 512 downloadDuration_panda: 3.424 requestInterval_panda: 3.424
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 135869 target_panda2: 2.41389e+06 bpsAverage_panda2: 3.03891e+06 bpsLastChunk_panda2: 2404 lastBitrate_panda2: 3050000 chunkCount_panda2: 47 totalChunks_panda2: 512 downloadDuration_panda2: 2.537 requestInterval_panda2: 2.537
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 136 bufferSize_panda: 12 hasThroughput_panda: 1630 estimatedBW_panda: 4408.86 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 136 bufferSize_panda2: 18 hasThroughput_panda2: 0 estimatedBW_panda2: 3038.91 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 137 bufferSize_panda: 11 hasThroughput_panda: 4005 estimatedBW_panda: 4408.86 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 137 bufferSize_panda2: 17 hasThroughput_panda2: 2093 estimatedBW_panda2: 3038.91 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 137713 target_panda2: 1.98783e+06 bpsAverage_panda2: 2.82869e+06 bpsLastChunk_panda2: 2114 lastBitrate_panda2: 1950000 chunkCount_panda2: 48 totalChunks_panda2: 512 downloadDuration_panda2: 1.844 requestInterval_panda2: 1.844
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 138 bufferSize_panda: 10 hasThroughput_panda: 6291 estimatedBW_panda: 4408.86 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 138 bufferSize_panda2: 18 hasThroughput_panda2: 0 estimatedBW_panda2: 2828.69 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 139 bufferSize_panda: 9 hasThroughput_panda: 8495 estimatedBW_panda: 4408.86 videoLevel_panda: 4250
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 139 bufferSize_panda2: 17 hasThroughput_panda2: 2093 estimatedBW_panda2: 2828.69 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 139000 target_panda: 1.79328e+06 bpsAverage_panda: 3.88574e+06 bpsLastChunk_panda: 2194 lastBitrate_panda: 4250000 chunkCount_panda: 75 totalChunks_panda: 512 downloadDuration_panda: 3.874 requestInterval_panda: 3.874
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 139673 target_panda2: 2.19453e+06 bpsAverage_panda2: 2.70186e+06 bpsLastChunk_panda2: 2188 lastBitrate_panda2: 1950000 chunkCount_panda2: 49 totalChunks_panda2: 512 downloadDuration_panda2: 1.782 requestInterval_panda2: 1.782
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 140 bufferSize_panda: 10 hasThroughput_panda: 2093 estimatedBW_panda: 3885.74 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 140 bufferSize_panda2: 18 hasThroughput_panda2: 0 estimatedBW_panda2: 2701.86 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 140977 target_panda: 2.44411e+06 bpsAverage_panda: 3.59741e+06 bpsLastChunk_panda: 3085 lastBitrate_panda: 3050000 chunkCount_panda: 76 totalChunks_panda: 512 downloadDuration_panda: 1.977 requestInterval_panda: 1.977
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 141 bufferSize_panda: 11 hasThroughput_panda: 0 estimatedBW_panda: 3597.41 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 141 bufferSize_panda2: 17 hasThroughput_panda2: 3342 estimatedBW_panda2: 2701.86 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 141061 target_panda2: 2.49391e+06 bpsAverage_panda2: 2.66027e+06 bpsLastChunk_panda2: 3409 lastBitrate_panda2: 1950000 chunkCount_panda2: 50 totalChunks_panda2: 512 downloadDuration_panda2: 1.144 requestInterval_panda2: 1.144
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 142 bufferSize_panda: 10 hasThroughput_panda: 5632 estimatedBW_panda: 3597.41 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 142 bufferSize_panda2: 18 hasThroughput_panda2: 2863 estimatedBW_panda2: 2660.27 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 142082 target_panda: 2.77624e+06 bpsAverage_panda: 3.43318e+06 bpsLastChunk_panda: 5520 lastBitrate_panda: 3050000 chunkCount_panda: 77 totalChunks_panda: 512 downloadDuration_panda: 1.105 requestInterval_panda: 1.105
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 142166 target_panda2: 2.6861e+06 bpsAverage_panda2: 2.66544e+06 bpsLastChunk_panda2: 4648 lastBitrate_panda2: 1950000 chunkCount_panda2: 51 totalChunks_panda2: 512 downloadDuration_panda2: 0.839 requestInterval_panda2: 0.839
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 142955 target_panda: 2.96188e+06 bpsAverage_panda: 3.33892e+06 bpsLastChunk_panda: 6987 lastBitrate_panda: 3050000 chunkCount_panda: 78 totalChunks_panda: 512 downloadDuration_panda: 0.873 requestInterval_panda: 0.873
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 143 bufferSize_panda: 13 hasThroughput_panda: 0 estimatedBW_panda: 3338.92 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 143 bufferSize_panda2: 19 hasThroughput_panda2: 1449 estimatedBW_panda2: 2665.44 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 143501 target_panda2: 2.82705e+06 bpsAverage_panda2: 2.69776e+06 bpsLastChunk_panda2: 4472 lastBitrate_panda2: 1950000 chunkCount_panda2: 52 totalChunks_panda2: 512 downloadDuration_panda2: 0.872 requestInterval_panda2: 0.872
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 143944 target_panda: 3.10855e+06 bpsAverage_panda: 3.29285e+06 bpsLastChunk_panda: 6167 lastBitrate_panda: 3050000 chunkCount_panda: 79 totalChunks_panda: 512 downloadDuration_panda: 0.989 requestInterval_panda: 0.989
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 144 bufferSize_panda: 14 hasThroughput_panda: 64 estimatedBW_panda: 3292.85 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 144 bufferSize_panda2: 20 hasThroughput_panda2: 0 estimatedBW_panda2: 2697.76 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 145 bufferSize_panda: 13 hasThroughput_panda: 5623 estimatedBW_panda: 3292.85 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 145 bufferSize_panda2: 19 hasThroughput_panda2: 3493 estimatedBW_panda2: 2697.76 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 145049 target_panda2: 2.97355e+06 bpsAverage_panda2: 2.75292e+06 bpsLastChunk_panda2: 4323 lastBitrate_panda2: 1950000 chunkCount_panda2: 53 totalChunks_panda2: 512 downloadDuration_panda2: 0.902 requestInterval_panda2: 0.902
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 145097 target_panda: 3.2747e+06 bpsAverage_panda: 3.28922e+06 bpsLastChunk_panda: 5290 lastBitrate_panda: 3050000 chunkCount_panda: 80 totalChunks_panda: 512 downloadDuration_panda: 1.153 requestInterval_panda: 1.153
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 145934 target_panda: 3.4684e+06 bpsAverage_panda: 3.32505e+06 bpsLastChunk_panda: 7287 lastBitrate_panda: 3050000 chunkCount_panda: 81 totalChunks_panda: 512 downloadDuration_panda: 0.837 requestInterval_panda: 0.837
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 146 bufferSize_panda: 16 hasThroughput_panda: 0 estimatedBW_panda: 3325.05 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 146 bufferSize_panda2: 20 hasThroughput_panda2: 1638 estimatedBW_panda2: 2752.92 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 146480 target_panda2: 3.12509e+06 bpsAverage_panda2: 2.82735e+06 bpsLastChunk_panda2: 4785 lastBitrate_panda2: 1950000 chunkCount_panda2: 54 totalChunks_panda2: 512 downloadDuration_panda2: 0.815 requestInterval_panda2: 0.815
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 146923 target_panda: 3.60902e+06 bpsAverage_panda: 3.38185e+06 bpsLastChunk_panda: 6394 lastBitrate_panda: 3050000 chunkCount_panda: 82 totalChunks_panda: 512 downloadDuration_panda: 0.954 requestInterval_panda: 0.954
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 147 bufferSize_panda: 17 hasThroughput_panda: 0 estimatedBW_panda: 3381.85 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 147 bufferSize_panda2: 21 hasThroughput_panda2: 0 estimatedBW_panda2: 2827.35 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 148 bufferSize_panda: 16 hasThroughput_panda: 4321 estimatedBW_panda: 3381.85 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 148 bufferSize_panda2: 20 hasThroughput_panda2: 3141 estimatedBW_panda2: 2827.35 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 148162 target_panda2: 3.26201e+06 bpsAverage_panda2: 2.91428e+06 bpsLastChunk_panda2: 4323 lastBitrate_panda2: 1950000 chunkCount_panda2: 55 totalChunks_panda2: 512 downloadDuration_panda2: 0.902 requestInterval_panda2: 0.902
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 148280 target_panda: 3.76929e+06 bpsAverage_panda: 3.45934e+06 bpsLastChunk_panda: 5290 lastBitrate_panda: 3050000 chunkCount_panda: 83 totalChunks_panda: 512 downloadDuration_panda: 1.153 requestInterval_panda: 1.153
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 149 bufferSize_panda: 17 hasThroughput_panda: 2789 estimatedBW_panda: 3459.34 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 149 bufferSize_panda2: 21 hasThroughput_panda2: 0 estimatedBW_panda2: 2914.28 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 149734 target_panda: 3.963e+06 bpsAverage_panda: 3.56007e+06 bpsLastChunk_panda: 5591 lastBitrate_panda: 3050000 chunkCount_panda: 84 totalChunks_panda: 512 downloadDuration_panda: 1.091 requestInterval_panda: 1.091
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 149796 target_panda2: 3.41354e+06 bpsAverage_panda2: 3.01413e+06 bpsLastChunk_panda2: 4352 lastBitrate_panda2: 1950000 chunkCount_panda2: 56 totalChunks_panda2: 512 downloadDuration_panda2: 0.896 requestInterval_panda2: 0.896
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 150 bufferSize_panda: 18 hasThroughput_panda: 0 estimatedBW_panda: 3560.07 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 150 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3014.13 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 151 bufferSize_panda: 17 hasThroughput_panda: 6090 estimatedBW_panda: 3560.07 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 151 bufferSize_panda2: 21 hasThroughput_panda2: 2093 estimatedBW_panda2: 3014.13 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 151000 target_panda: 4.14628e+06 bpsAverage_panda: 3.67731e+06 bpsLastChunk_panda: 6400 lastBitrate_panda: 3050000 chunkCount_panda: 85 totalChunks_panda: 512 downloadDuration_panda: 0.953 requestInterval_panda: 0.953
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 151200 target_panda2: 3.56407e+06 bpsAverage_panda2: 3.12412e+06 bpsLastChunk_panda2: 5492 lastBitrate_panda2: 1950000 chunkCount_panda2: 57 totalChunks_panda2: 512 downloadDuration_panda2: 0.71 requestInterval_panda2: 0.71
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 152 bufferSize_panda: 18 hasThroughput_panda: 4456 estimatedBW_panda: 3677.31 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 152 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3124.12 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 152296 target_panda: 4.30639e+06 bpsAverage_panda: 3.80313e+06 bpsLastChunk_panda: 7287 lastBitrate_panda: 3050000 chunkCount_panda: 86 totalChunks_panda: 512 downloadDuration_panda: 0.837 requestInterval_panda: 0.837
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 152612 target_panda2: 3.68335e+06 bpsAverage_panda2: 3.23597e+06 bpsLastChunk_panda2: 6914 lastBitrate_panda2: 1950000 chunkCount_panda2: 58 totalChunks_panda2: 512 downloadDuration_panda2: 0.564 requestInterval_panda2: 0.564
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 153 bufferSize_panda: 19 hasThroughput_panda: 463 estimatedBW_panda: 3803.13 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 153 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 3235.97 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 153622 target_panda: 4.447e+06 bpsAverage_panda: 3.9319e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 87 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 154 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 3931.9 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 154 bufferSize_panda2: 22 hasThroughput_panda2: 3026 estimatedBW_panda2: 3235.97 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 154096 target_panda2: 3.7781e+06 bpsAverage_panda2: 3.34439e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 59 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 155 bufferSize_panda: 19 hasThroughput_panda: 5226 estimatedBW_panda: 3931.9 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 155 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 3344.39 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 155096 target_panda: 4.5683e+06 bpsAverage_panda: 4.05918e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 88 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 155541 target_panda2: 3.85857e+06 bpsAverage_panda2: 3.44723e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 60 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 156 bufferSize_panda: 20 hasThroughput_panda: 1384 estimatedBW_panda: 4059.18 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 156 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 3447.23 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 156521 target_panda: 4.6896e+06 bpsAverage_panda: 4.18526e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 89 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 157 bufferSize_panda: 21 hasThroughput_panda: 0 estimatedBW_panda: 4185.26 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 157 bufferSize_panda2: 23 hasThroughput_panda2: 2531 estimatedBW_panda2: 3447.23 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 157151 target_panda2: 3.93905e+06 bpsAverage_panda2: 3.54559e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 61 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 158 bufferSize_panda: 20 hasThroughput_panda: 5189 estimatedBW_panda: 4185.26 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 158 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 3545.59 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 158100 target_panda: 4.81089e+06 bpsAverage_panda: 4.31039e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 90 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 158729 target_panda2: 4.01952e+06 bpsAverage_panda2: 3.64038e+06 bpsLastChunk_panda2: 8158 lastBitrate_panda2: 1950000 chunkCount_panda2: 62 totalChunks_panda2: 512 downloadDuration_panda2: 0.478 requestInterval_panda2: 0.478
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 159 bufferSize_panda: 21 hasThroughput_panda: 325 estimatedBW_panda: 4310.39 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 159 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3640.38 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 159637 target_panda: 4.93219e+06 bpsAverage_panda: 4.43475e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 91 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 160 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 4434.75 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 160 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 3640.38 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 161 bufferSize_panda: 21 hasThroughput_panda: 1048 estimatedBW_panda: 4434.75 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 161 bufferSize_panda2: 23 hasThroughput_panda2: 2584 estimatedBW_panda2: 3640.38 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 162 bufferSize_panda: 20 hasThroughput_panda: 3158 estimatedBW_panda: 4434.75 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 162 bufferSize_panda2: 22 hasThroughput_panda2: 5345 estimatedBW_panda2: 3640.38 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 162395 target_panda2: 3.76401e+06 bpsAverage_panda2: 3.6651e+06 bpsLastChunk_panda2: 3065 lastBitrate_panda2: 3050000 chunkCount_panda2: 63 totalChunks_panda2: 512 downloadDuration_panda2: 1.99 requestInterval_panda2: 1.99
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 162980 target_panda: 3.97994e+06 bpsAverage_panda: 4.34379e+06 bpsLastChunk_panda: 2577 lastBitrate_panda: 3050000 chunkCount_panda: 92 totalChunks_panda: 512 downloadDuration_panda: 2.367 requestInterval_panda: 2.367
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 163 bufferSize_panda: 21 hasThroughput_panda: 0 estimatedBW_panda: 4343.79 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 163 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 3665.1 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 164 bufferSize_panda: 20 hasThroughput_panda: 2265 estimatedBW_panda: 4343.79 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 164 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3665.1 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 165 bufferSize_panda: 19 hasThroughput_panda: 4739 estimatedBW_panda: 4343.79 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 165 bufferSize_panda2: 21 hasThroughput_panda2: 2953 estimatedBW_panda2: 3665.1 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 165575 target_panda: 2.76717e+06 bpsAverage_panda: 4.02846e+06 bpsLastChunk_panda: 3065 lastBitrate_panda: 3050000 chunkCount_panda: 93 totalChunks_panda: 512 downloadDuration_panda: 1.99 requestInterval_panda: 1.99
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 166 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 4028.46 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 166 bufferSize_panda2: 20 hasThroughput_panda2: 5304 estimatedBW_panda2: 3665.1 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 166185 target_panda2: 2.49135e+06 bpsAverage_panda2: 3.43035e+06 bpsLastChunk_panda2: 2622 lastBitrate_panda2: 3050000 chunkCount_panda2: 64 totalChunks_panda2: 512 downloadDuration_panda2: 2.326 requestInterval_panda2: 2.326
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 167 bufferSize_panda: 19 hasThroughput_panda: 3059 estimatedBW_panda: 4028.46 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 167 bufferSize_panda2: 21 hasThroughput_panda2: 0 estimatedBW_panda2: 3430.35 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 167823 target_panda: 3.10149e+06 bpsAverage_panda: 3.84307e+06 bpsLastChunk_panda: 3976 lastBitrate_panda: 3050000 chunkCount_panda: 94 totalChunks_panda: 512 downloadDuration_panda: 1.534 requestInterval_panda: 1.534
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 168 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 3843.07 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 168 bufferSize_panda2: 20 hasThroughput_panda2: 1622 estimatedBW_panda2: 3430.35 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 169 bufferSize_panda: 19 hasThroughput_panda: 1048 estimatedBW_panda: 3843.07 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 169 bufferSize_panda2: 19 hasThroughput_panda2: 5087 estimatedBW_panda2: 3430.35 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 169422 target_panda2: 2.88212e+06 bpsAverage_panda2: 3.32071e+06 bpsLastChunk_panda2: 2962 lastBitrate_panda2: 3050000 chunkCount_panda2: 65 totalChunks_panda2: 512 downloadDuration_panda2: 2.059 requestInterval_panda2: 2.059
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 170 bufferSize_panda: 18 hasThroughput_panda: 4153 estimatedBW_panda: 3843.07 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 170 bufferSize_panda2: 20 hasThroughput_panda2: 0 estimatedBW_panda2: 3320.71 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 170539 target_panda: 2.89834e+06 bpsAverage_panda: 3.65412e+06 bpsLastChunk_panda: 2865 lastBitrate_panda: 3050000 chunkCount_panda: 95 totalChunks_panda: 512 downloadDuration_panda: 2.129 requestInterval_panda: 2.129
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 171 bufferSize_panda: 19 hasThroughput_panda: 0 estimatedBW_panda: 3654.12 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 171 bufferSize_panda2: 19 hasThroughput_panda2: 1900 estimatedBW_panda2: 3320.71 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 172 bufferSize_panda: 18 hasThroughput_panda: 2060 estimatedBW_panda: 3654.12 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 172 bufferSize_panda2: 18 hasThroughput_panda2: 4878 estimatedBW_panda2: 3320.71 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 172501 target_panda2: 3.00074e+06 bpsAverage_panda2: 3.25672e+06 bpsLastChunk_panda2: 2985 lastBitrate_panda2: 3050000 chunkCount_panda2: 66 totalChunks_panda2: 512 downloadDuration_panda2: 2.043 requestInterval_panda2: 2.043
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 173 bufferSize_panda: 17 hasThroughput_panda: 4562 estimatedBW_panda: 3654.12 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 173 bufferSize_panda2: 19 hasThroughput_panda2: 0 estimatedBW_panda2: 3256.72 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 173392 target_panda: 2.77275e+06 bpsAverage_panda: 3.47785e+06 bpsLastChunk_panda: 2793 lastBitrate_panda: 3050000 chunkCount_panda: 96 totalChunks_panda: 512 downloadDuration_panda: 2.184 requestInterval_panda: 2.184
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 174 bufferSize_panda: 18 hasThroughput_panda: 0 estimatedBW_panda: 3477.85 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 174 bufferSize_panda2: 18 hasThroughput_panda2: 2330 estimatedBW_panda2: 3256.72 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 175 bufferSize_panda: 17 hasThroughput_panda: 2301 estimatedBW_panda: 3477.85 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 175 bufferSize_panda2: 17 hasThroughput_panda2: 5238 estimatedBW_panda2: 3256.72 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 175365 target_panda2: 3.07197e+06 bpsAverage_panda2: 3.21977e+06 bpsLastChunk_panda2: 3063 lastBitrate_panda2: 3050000 chunkCount_panda2: 67 totalChunks_panda2: 512 downloadDuration_panda2: 1.991 requestInterval_panda2: 1.991
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 176 bufferSize_panda: 16 hasThroughput_panda: 5230 estimatedBW_panda: 3477.85 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 176 bufferSize_panda2: 18 hasThroughput_panda2: 0 estimatedBW_panda2: 3219.77 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 176234 target_panda: 2.64219e+06 bpsAverage_panda: 3.31072e+06 bpsLastChunk_panda: 2666 lastBitrate_panda: 3050000 chunkCount_panda: 97 totalChunks_panda: 512 downloadDuration_panda: 2.288 requestInterval_panda: 2.288
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 177 bufferSize_panda: 17 hasThroughput_panda: 458 estimatedBW_panda: 3310.72 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 177 bufferSize_panda2: 17 hasThroughput_panda2: 2887 estimatedBW_panda2: 3219.77 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 178 bufferSize_panda: 16 hasThroughput_panda: 3137 estimatedBW_panda: 3310.72 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 178 bufferSize_panda2: 16 hasThroughput_panda2: 5161 estimatedBW_panda2: 3219.77 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 178452 target_panda2: 2.48999e+06 bpsAverage_panda2: 3.07381e+06 bpsLastChunk_panda2: 2550 lastBitrate_panda2: 3050000 chunkCount_panda2: 68 totalChunks_panda2: 512 downloadDuration_panda2: 2.392 requestInterval_panda2: 2.392
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 179 bufferSize_panda: 15 hasThroughput_panda: 5734 estimatedBW_panda: 3310.72 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 179 bufferSize_panda2: 17 hasThroughput_panda2: 0 estimatedBW_panda2: 3073.81 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 179085 target_panda: 2.50101e+06 bpsAverage_panda: 3.14877e+06 bpsLastChunk_panda: 2532 lastBitrate_panda: 3050000 chunkCount_panda: 98 totalChunks_panda: 512 downloadDuration_panda: 2.409 requestInterval_panda: 2.409
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 180 bufferSize_panda: 16 hasThroughput_panda: 1048 estimatedBW_panda: 3148.77 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 180 bufferSize_panda2: 16 hasThroughput_panda2: 3141 estimatedBW_panda2: 3073.81 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 180857 target_panda2: 2.89185e+06 bpsAverage_panda2: 3.03742e+06 bpsLastChunk_panda2: 3349 lastBitrate_panda2: 3050000 chunkCount_panda2: 69 totalChunks_panda2: 512 downloadDuration_panda2: 1.821 requestInterval_panda2: 1.821
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 181 bufferSize_panda: 15 hasThroughput_panda: 5246 estimatedBW_panda: 3148.77 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 181 bufferSize_panda2: 17 hasThroughput_panda2: 218 estimatedBW_panda2: 3037.42 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 181185 target_panda: 2.90572e+06 bpsAverage_panda: 3.10016e+06 bpsLastChunk_panda: 3460 lastBitrate_panda: 3050000 chunkCount_panda: 99 totalChunks_panda: 512 downloadDuration_panda: 1.763 requestInterval_panda: 1.763
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 181500 target_panda2: 3.19778e+06 bpsAverage_panda2: 3.06949e+06 bpsLastChunk_panda2: 6065 lastBitrate_panda2: 1950000 chunkCount_panda2: 70 totalChunks_panda2: 512 downloadDuration_panda2: 0.643 requestInterval_panda2: 0.643
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 182 bufferSize_panda: 16 hasThroughput_panda: 2093 estimatedBW_panda: 3100.16 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 182 bufferSize_panda2: 18 hasThroughput_panda2: 1523 estimatedBW_panda2: 3069.49 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 182494 target_panda2: 3.3058e+06 bpsAverage_panda2: 3.11675e+06 bpsLastChunk_panda2: 4225 lastBitrate_panda2: 1950000 chunkCount_panda2: 71 totalChunks_panda2: 512 downloadDuration_panda2: 0.923 requestInterval_panda2: 0.923
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 182705 target_panda: 3.2019e+06 bpsAverage_panda: 3.12051e+06 bpsLastChunk_panda: 5290 lastBitrate_panda: 3050000 chunkCount_panda: 100 totalChunks_panda: 512 downloadDuration_panda: 1.153 requestInterval_panda: 1.153
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 183 bufferSize_panda: 17 hasThroughput_panda: 0 estimatedBW_panda: 3120.51 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 183 bufferSize_panda2: 19 hasThroughput_panda2: 1868 estimatedBW_panda2: 3116.75 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 183340 target_panda2: 3.46087e+06 bpsAverage_panda2: 3.18558e+06 bpsLastChunk_panda2: 6554 lastBitrate_panda2: 1950000 chunkCount_panda2: 72 totalChunks_panda2: 512 downloadDuration_panda2: 0.595 requestInterval_panda2: 0.595
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 184 bufferSize_panda: 16 hasThroughput_panda: 6029 estimatedBW_panda: 3120.51 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 184 bufferSize_panda2: 20 hasThroughput_panda2: 990 estimatedBW_panda2: 3185.58 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 184013 target_panda: 3.39561e+06 bpsAverage_panda: 3.17553e+06 bpsLastChunk_panda: 6400 lastBitrate_panda: 3050000 chunkCount_panda: 101 totalChunks_panda: 512 downloadDuration_panda: 0.953 requestInterval_panda: 0.953
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 184329 target_panda2: 3.56083e+06 bpsAverage_panda2: 3.26063e+06 bpsLastChunk_panda2: 6902 lastBitrate_panda2: 1950000 chunkCount_panda2: 73 totalChunks_panda2: 512 downloadDuration_panda2: 0.565 requestInterval_panda2: 0.565
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 185 bufferSize_panda: 17 hasThroughput_panda: 3772 estimatedBW_panda: 3175.53 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 185 bufferSize_panda2: 21 hasThroughput_panda2: 0 estimatedBW_panda2: 3260.63 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 185487 target_panda: 3.55571e+06 bpsAverage_panda: 3.25157e+06 bpsLastChunk_panda: 6400 lastBitrate_panda: 3050000 chunkCount_panda: 102 totalChunks_panda: 512 downloadDuration_panda: 0.953 requestInterval_panda: 0.953
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 185687 target_panda2: 3.65575e+06 bpsAverage_panda2: 3.33965e+06 bpsLastChunk_panda2: 5118 lastBitrate_panda2: 1950000 chunkCount_panda2: 74 totalChunks_panda2: 512 downloadDuration_panda2: 0.762 requestInterval_panda2: 0.762
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 186 bufferSize_panda: 18 hasThroughput_panda: 0 estimatedBW_panda: 3251.57 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 186 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3339.65 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 187 bufferSize_panda: 17 hasThroughput_panda: 5042 estimatedBW_panda: 3251.57 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 187 bufferSize_panda2: 21 hasThroughput_panda2: 2093 estimatedBW_panda2: 3339.65 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 187232 target_panda: 3.71581e+06 bpsAverage_panda: 3.34442e+06 bpsLastChunk_panda: 5706 lastBitrate_panda: 3050000 chunkCount_panda: 103 totalChunks_panda: 512 downloadDuration_panda: 1.069 requestInterval_panda: 1.069
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 187316 target_panda2: 3.78376e+06 bpsAverage_panda2: 3.42847e+06 bpsLastChunk_panda2: 4529 lastBitrate_panda2: 1950000 chunkCount_panda2: 75 totalChunks_panda2: 512 downloadDuration_panda2: 0.861 requestInterval_panda2: 0.861
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 188 bufferSize_panda: 18 hasThroughput_panda: 861 estimatedBW_panda: 3344.42 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 188 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3428.47 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 188956 target_panda2: 3.92841e+06 bpsAverage_panda2: 3.52846e+06 bpsLastChunk_panda2: 4323 lastBitrate_panda2: 1950000 chunkCount_panda2: 76 totalChunks_panda2: 512 downloadDuration_panda2: 0.902 requestInterval_panda2: 0.902
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 189 bufferSize_panda: 17 hasThroughput_panda: 6013 estimatedBW_panda: 3344.42 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 189 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 3528.46 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 189009 target_panda: 3.89541e+06 bpsAverage_panda: 3.45461e+06 bpsLastChunk_panda: 5290 lastBitrate_panda: 3050000 chunkCount_panda: 104 totalChunks_panda: 512 downloadDuration_panda: 1.153 requestInterval_panda: 1.153
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 190 bufferSize_panda: 18 hasThroughput_panda: 2367 estimatedBW_panda: 3454.61 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 190 bufferSize_panda2: 22 hasThroughput_panda2: 1048 estimatedBW_panda2: 3528.46 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 190562 target_panda2: 4.07995e+06 bpsAverage_panda2: 3.63876e+06 bpsLastChunk_panda2: 4328 lastBitrate_panda2: 1950000 chunkCount_panda2: 77 totalChunks_panda2: 512 downloadDuration_panda2: 0.901 requestInterval_panda2: 0.901
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 190727 target_panda: 4.08911e+06 bpsAverage_panda: 3.58151e+06 bpsLastChunk_panda: 5295 lastBitrate_panda: 3050000 chunkCount_panda: 105 totalChunks_panda: 512 downloadDuration_panda: 1.152 requestInterval_panda: 1.152
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 191 bufferSize_panda: 19 hasThroughput_panda: 0 estimatedBW_panda: 3581.51 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 191 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 3638.76 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 191952 target_panda: 4.28265e+06 bpsAverage_panda: 3.72174e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 106 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 192 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 3721.74 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 192 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3638.76 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 192876 target_panda2: 4.23131e+06 bpsAverage_panda2: 3.75727e+06 bpsLastChunk_panda2: 7287 lastBitrate_panda2: 3050000 chunkCount_panda2: 78 totalChunks_panda2: 512 downloadDuration_panda2: 0.837 requestInterval_panda2: 0.837
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 193 bufferSize_panda: 19 hasThroughput_panda: 2162 estimatedBW_panda: 3721.74 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 193 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 3757.27 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 193435 target_panda: 4.40394e+06 bpsAverage_panda: 3.85818e+06 bpsLastChunk_panda: 7227 lastBitrate_panda: 3050000 chunkCount_panda: 107 totalChunks_panda: 512 downloadDuration_panda: 0.844 requestInterval_panda: 0.844
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 194 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 3858.18 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 194 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3757.27 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 195 bufferSize_panda: 19 hasThroughput_panda: 3141 estimatedBW_panda: 3858.18 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 195 bufferSize_panda2: 21 hasThroughput_panda2: 4571 estimatedBW_panda2: 3757.27 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 195400 target_panda2: 4.37193e+06 bpsAverage_panda2: 3.8802e+06 bpsLastChunk_panda2: 4692 lastBitrate_panda2: 3050000 chunkCount_panda2: 79 totalChunks_panda2: 512 downloadDuration_panda2: 1.3 requestInterval_panda2: 1.3
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 195496 target_panda: 4.54573e+06 bpsAverage_panda: 3.99569e+06 bpsLastChunk_panda: 4765 lastBitrate_panda: 3050000 chunkCount_panda: 108 totalChunks_panda: 512 downloadDuration_panda: 1.28 requestInterval_panda: 1.28
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 196 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 3995.69 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 196 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3880.2 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 197 bufferSize_panda: 19 hasThroughput_panda: 4894 estimatedBW_panda: 3995.69 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 197 bufferSize_panda2: 21 hasThroughput_panda2: 1708 estimatedBW_panda2: 3880.2 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 197291 target_panda: 4.76077e+06 bpsAverage_panda: 4.14871e+06 bpsLastChunk_panda: 5706 lastBitrate_panda: 3050000 chunkCount_panda: 109 totalChunks_panda: 512 downloadDuration_panda: 1.069 requestInterval_panda: 1.069
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 197618 target_panda2: 4.59033e+06 bpsAverage_panda2: 4.02223e+06 bpsLastChunk_panda2: 5831 lastBitrate_panda2: 3050000 chunkCount_panda2: 80 totalChunks_panda2: 512 downloadDuration_panda2: 1.046 requestInterval_panda2: 1.046
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 198 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 4148.71 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 198 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 4022.23 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 198683 target_panda: 4.94037e+06 bpsAverage_panda: 4.30704e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 110 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 199 bufferSize_panda: 21 hasThroughput_panda: 0 estimatedBW_panda: 4307.04 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 199 bufferSize_panda2: 21 hasThroughput_panda2: 1962 estimatedBW_panda2: 4022.23 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 199572 target_panda2: 4.76606e+06 bpsAverage_panda2: 4.17099e+06 bpsLastChunk_panda2: 7287 lastBitrate_panda2: 3050000 chunkCount_panda2: 81 totalChunks_panda2: 512 downloadDuration_panda2: 0.837 requestInterval_panda2: 0.837
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 200 bufferSize_panda: 20 hasThroughput_panda: 4911 estimatedBW_panda: 4307.04 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 200 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 4170.99 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 200151 target_panda: 5.06166e+06 bpsAverage_panda: 4.45796e+06 bpsLastChunk_panda: 7168 lastBitrate_panda: 3050000 chunkCount_panda: 111 totalChunks_panda: 512 downloadDuration_panda: 0.851 requestInterval_panda: 0.851
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 201 bufferSize_panda: 21 hasThroughput_panda: 0 estimatedBW_panda: 4457.96 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 201 bufferSize_panda2: 21 hasThroughput_panda2: 2068 estimatedBW_panda2: 4170.99 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 202 bufferSize_panda: 20 hasThroughput_panda: 2658 estimatedBW_panda: 4457.96 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 202 bufferSize_panda2: 20 hasThroughput_panda2: 4780 estimatedBW_panda2: 4170.99 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 202624 target_panda2: 3.96921e+06 bpsAverage_panda2: 4.13064e+06 bpsLastChunk_panda2: 3066 lastBitrate_panda2: 3050000 chunkCount_panda2: 82 totalChunks_panda2: 512 downloadDuration_panda2: 1.989 requestInterval_panda2: 1.989
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 203 bufferSize_panda: 19 hasThroughput_panda: 5226 estimatedBW_panda: 4457.96 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 203 bufferSize_panda2: 21 hasThroughput_panda2: 0 estimatedBW_panda2: 4130.64 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 203239 target_panda: 3.90283e+06 bpsAverage_panda: 4.34694e+06 bpsLastChunk_panda: 2630 lastBitrate_panda: 3050000 chunkCount_panda: 112 totalChunks_panda: 512 downloadDuration_panda: 2.319 requestInterval_panda: 2.319
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 204 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 4346.94 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 204 bufferSize_panda2: 20 hasThroughput_panda2: 2682 estimatedBW_panda2: 4130.64 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 205 bufferSize_panda: 19 hasThroughput_panda: 2937 estimatedBW_panda: 4346.94 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 205 bufferSize_panda2: 19 hasThroughput_panda2: 5124 estimatedBW_panda2: 4130.64 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 205266 target_panda2: 3.39758e+06 bpsAverage_panda2: 3.98402e+06 bpsLastChunk_panda2: 3456 lastBitrate_panda2: 3050000 chunkCount_panda2: 83 totalChunks_panda2: 512 downloadDuration_panda2: 1.765 requestInterval_panda2: 1.765
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 206 bufferSize_panda: 18 hasThroughput_panda: 5562 estimatedBW_panda: 4346.94 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 206 bufferSize_panda2: 20 hasThroughput_panda2: 0 estimatedBW_panda2: 3984.02 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 206124 target_panda: 2.30572e+06 bpsAverage_panda: 3.93869e+06 bpsLastChunk_panda: 2673 lastBitrate_panda: 3050000 chunkCount_panda: 113 totalChunks_panda: 512 downloadDuration_panda: 2.282 requestInterval_panda: 2.282
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 207 bufferSize_panda: 19 hasThroughput_panda: 660 estimatedBW_panda: 3938.69 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 207 bufferSize_panda2: 19 hasThroughput_panda2: 3141 estimatedBW_panda2: 3984.02 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 208 bufferSize_panda: 18 hasThroughput_panda: 3137 estimatedBW_panda: 3938.69 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 208 bufferSize_panda2: 18 hasThroughput_panda2: 5574 estimatedBW_panda2: 3984.02 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 208121 target_panda2: 2.87711e+06 bpsAverage_panda2: 3.76264e+06 bpsLastChunk_panda2: 2871 lastBitrate_panda2: 3050000 chunkCount_panda2: 84 totalChunks_panda2: 512 downloadDuration_panda2: 2.124 requestInterval_panda2: 2.124
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 208990 target_panda: 2.6891e+06 bpsAverage_panda: 3.68878e+06 bpsLastChunk_panda: 2632 lastBitrate_panda: 3050000 chunkCount_panda: 114 totalChunks_panda: 512 downloadDuration_panda: 2.317 requestInterval_panda: 2.317
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 209 bufferSize_panda: 19 hasThroughput_panda: 0 estimatedBW_panda: 3688.78 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 209 bufferSize_panda2: 19 hasThroughput_panda2: 0 estimatedBW_panda2: 3762.64 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 210 bufferSize_panda: 18 hasThroughput_panda: 1048 estimatedBW_panda: 3688.78 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 210 bufferSize_panda2: 18 hasThroughput_panda2: 3592 estimatedBW_panda2: 3762.64 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 210982 target_panda2: 2.69381e+06 bpsAverage_panda2: 3.54887e+06 bpsLastChunk_panda2: 2723 lastBitrate_panda2: 3050000 chunkCount_panda2: 85 totalChunks_panda2: 512 downloadDuration_panda2: 2.24 requestInterval_panda2: 2.24
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 211 bufferSize_panda: 17 hasThroughput_panda: 3174 estimatedBW_panda: 3688.78 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 211 bufferSize_panda2: 19 hasThroughput_panda2: 0 estimatedBW_panda2: 3548.87 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 211966 target_panda: 2.33734e+06 bpsAverage_panda: 3.41849e+06 bpsLastChunk_panda: 2418 lastBitrate_panda: 3050000 chunkCount_panda: 115 totalChunks_panda: 512 downloadDuration_panda: 2.522 requestInterval_panda: 2.522
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 212 bufferSize_panda: 18 hasThroughput_panda: 0 estimatedBW_panda: 3418.49 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 212 bufferSize_panda2: 18 hasThroughput_panda2: 1048 estimatedBW_panda2: 3548.87 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 213 bufferSize_panda: 17 hasThroughput_panda: 1048 estimatedBW_panda: 3418.49 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 213 bufferSize_panda2: 17 hasThroughput_panda2: 4190 estimatedBW_panda2: 3548.87 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 213843 target_panda2: 2.58115e+06 bpsAverage_panda2: 3.35533e+06 bpsLastChunk_panda2: 2604 lastBitrate_panda2: 3050000 chunkCount_panda2: 86 totalChunks_panda2: 512 downloadDuration_panda2: 2.342 requestInterval_panda2: 2.342
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 214 bufferSize_panda: 16 hasThroughput_panda: 3739 estimatedBW_panda: 3418.49 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 214 bufferSize_panda2: 18 hasThroughput_panda2: 0 estimatedBW_panda2: 3355.33 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 214831 target_panda: 2.50775e+06 bpsAverage_panda: 3.23634e+06 bpsLastChunk_panda: 2458 lastBitrate_panda: 3050000 chunkCount_panda: 116 totalChunks_panda: 512 downloadDuration_panda: 2.481 requestInterval_panda: 2.481
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 215 bufferSize_panda: 17 hasThroughput_panda: 0 estimatedBW_panda: 3236.34 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 215 bufferSize_panda2: 17 hasThroughput_panda2: 1556 estimatedBW_panda2: 3355.33 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 216 bufferSize_panda: 16 hasThroughput_panda: 2003 estimatedBW_panda: 3236.34 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 216 bufferSize_panda2: 16 hasThroughput_panda2: 4186 estimatedBW_panda2: 3355.33 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 216702 target_panda2: 2.4721e+06 bpsAverage_panda2: 3.17868e+06 bpsLastChunk_panda2: 2498 lastBitrate_panda2: 3050000 chunkCount_panda2: 87 totalChunks_panda2: 512 downloadDuration_panda2: 2.441 requestInterval_panda2: 2.441
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 217 bufferSize_panda: 15 hasThroughput_panda: 4186 estimatedBW_panda: 3236.34 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 217 bufferSize_panda2: 17 hasThroughput_panda2: 0 estimatedBW_panda2: 3178.68 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 217692 target_panda: 2.31359e+06 bpsAverage_panda: 3.05179e+06 bpsLastChunk_panda: 2368 lastBitrate_panda: 3050000 chunkCount_panda: 117 totalChunks_panda: 512 downloadDuration_panda: 2.576 requestInterval_panda: 2.576
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 218 bufferSize_panda: 16 hasThroughput_panda: 0 estimatedBW_panda: 3051.79 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 218 bufferSize_panda2: 16 hasThroughput_panda2: 2031 estimatedBW_panda2: 3178.68 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 219 bufferSize_panda: 15 hasThroughput_panda: 2126 estimatedBW_panda: 3051.79 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 219 bufferSize_panda2: 15 hasThroughput_panda2: 4558 estimatedBW_panda2: 3178.68 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 219795 target_panda2: 2.33117e+06 bpsAverage_panda2: 3.00918e+06 bpsLastChunk_panda2: 2369 lastBitrate_panda2: 3050000 chunkCount_panda2: 88 totalChunks_panda2: 512 downloadDuration_panda2: 2.574 requestInterval_panda2: 2.574
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 220 bufferSize_panda: 14 hasThroughput_panda: 4751 estimatedBW_panda: 3051.79 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 220 bufferSize_panda2: 16 hasThroughput_panda2: 0 estimatedBW_panda2: 3009.18 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 220472 target_panda: 2.38487e+06 bpsAverage_panda: 2.91841e+06 bpsLastChunk_panda: 2363 lastBitrate_panda: 3050000 chunkCount_panda: 118 totalChunks_panda: 512 downloadDuration_panda: 2.581 requestInterval_panda: 2.581
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 221 bufferSize_panda: 15 hasThroughput_panda: 2093 estimatedBW_panda: 2918.41 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 221 bufferSize_panda2: 15 hasThroughput_panda2: 3731 estimatedBW_panda2: 3009.18 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 221018 target_panda2: 2.7636e+06 bpsAverage_panda2: 2.96006e+06 bpsLastChunk_panda2: 3188 lastBitrate_panda2: 1950000 chunkCount_panda2: 89 totalChunks_panda2: 512 downloadDuration_panda2: 1.223 requestInterval_panda2: 1.223
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 221333 target_panda: 2.81848e+06 bpsAverage_panda: 2.89842e+06 bpsLastChunk_panda: 4529 lastBitrate_panda: 1950000 chunkCount_panda: 119 totalChunks_panda: 512 downloadDuration_panda: 0.861 requestInterval_panda: 0.861
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 221879 target_panda2: 2.96906e+06 bpsAverage_panda2: 2.96186e+06 bpsLastChunk_panda2: 4529 lastBitrate_panda2: 1950000 chunkCount_panda2: 90 totalChunks_panda2: 512 downloadDuration_panda2: 0.861 requestInterval_panda2: 0.861
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 222 bufferSize_panda: 16 hasThroughput_panda: 3141 estimatedBW_panda: 2898.42 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 222 bufferSize_panda2: 18 hasThroughput_panda2: 38 estimatedBW_panda2: 2961.86 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 222194 target_panda: 2.96312e+06 bpsAverage_panda: 2.91136e+06 bpsLastChunk_panda: 4529 lastBitrate_panda: 1950000 chunkCount_panda: 120 totalChunks_panda: 512 downloadDuration_panda: 0.861 requestInterval_panda: 0.861
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 222741 target_panda2: 3.11371e+06 bpsAverage_panda2: 2.99223e+06 bpsLastChunk_panda2: 4524 lastBitrate_panda2: 1950000 chunkCount_panda2: 91 totalChunks_panda2: 512 downloadDuration_panda2: 0.862 requestInterval_panda2: 0.862
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 222940 target_panda: 3.10777e+06 bpsAverage_panda: 2.95064e+06 bpsLastChunk_panda: 5227 lastBitrate_panda: 1950000 chunkCount_panda: 121 totalChunks_panda: 512 downloadDuration_panda: 0.746 requestInterval_panda: 0.746
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 223 bufferSize_panda: 19 hasThroughput_panda: 0 estimatedBW_panda: 2950.64 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 223 bufferSize_panda2: 19 hasThroughput_panda2: 0 estimatedBW_panda2: 2992.23 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 223870 target_panda2: 3.25853e+06 bpsAverage_panda2: 3.04549e+06 bpsLastChunk_panda2: 4721 lastBitrate_panda2: 1950000 chunkCount_panda2: 92 totalChunks_panda2: 512 downloadDuration_panda2: 0.826 requestInterval_panda2: 0.826
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 223953 target_panda: 3.2331e+06 bpsAverage_panda: 3.00713e+06 bpsLastChunk_panda: 4377 lastBitrate_panda: 1950000 chunkCount_panda: 122 totalChunks_panda: 512 downloadDuration_panda: 0.891 requestInterval_panda: 0.891
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 224 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 3007.13 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 224 bufferSize_panda2: 20 hasThroughput_panda2: 0 estimatedBW_panda2: 3045.49 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 224976 target_panda2: 3.3973e+06 bpsAverage_panda2: 3.11585e+06 bpsLastChunk_panda2: 4721 lastBitrate_panda2: 1950000 chunkCount_panda2: 93 totalChunks_panda2: 512 downloadDuration_panda2: 0.826 requestInterval_panda2: 0.826
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 225 bufferSize_panda: 19 hasThroughput_panda: 3354 estimatedBW_panda: 3007.13 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 225 bufferSize_panda2: 21 hasThroughput_panda2: 0 estimatedBW_panda2: 3115.85 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 225060 target_panda: 3.38279e+06 bpsAverage_panda: 3.08227e+06 bpsLastChunk_panda: 4814 lastBitrate_panda: 1950000 chunkCount_panda: 123 totalChunks_panda: 512 downloadDuration_panda: 0.81 requestInterval_panda: 0.81
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 226 bufferSize_panda: 20 hasThroughput_panda: 2093 estimatedBW_panda: 3082.27 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 226 bufferSize_panda2: 20 hasThroughput_panda2: 2654 estimatedBW_panda2: 3115.85 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 226253 target_panda2: 3.53606e+06 bpsAverage_panda2: 3.1999e+06 bpsLastChunk_panda2: 4721 lastBitrate_panda2: 1950000 chunkCount_panda2: 94 totalChunks_panda2: 512 downloadDuration_panda2: 0.826 requestInterval_panda2: 0.826
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 226337 target_panda: 3.51887e+06 bpsAverage_panda: 3.16959e+06 bpsLastChunk_panda: 4802 lastBitrate_panda: 1950000 chunkCount_panda: 124 totalChunks_panda: 512 downloadDuration_panda: 0.812 requestInterval_panda: 0.812
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 227 bufferSize_panda: 21 hasThroughput_panda: 0 estimatedBW_panda: 3169.59 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 227 bufferSize_panda2: 21 hasThroughput_panda2: 720 estimatedBW_panda2: 3199.9 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 227697 target_panda2: 3.67483e+06 bpsAverage_panda2: 3.29488e+06 bpsLastChunk_panda2: 4727 lastBitrate_panda2: 1950000 chunkCount_panda2: 95 totalChunks_panda2: 512 downloadDuration_panda2: 0.825 requestInterval_panda2: 0.825
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 227781 target_panda: 3.65528e+06 bpsAverage_panda: 3.26673e+06 bpsLastChunk_panda: 4791 lastBitrate_panda: 1950000 chunkCount_panda: 125 totalChunks_panda: 512 downloadDuration_panda: 0.814 requestInterval_panda: 0.814
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 228 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 3266.73 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 228 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3294.88 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 229 bufferSize_panda: 21 hasThroughput_panda: 3125 estimatedBW_panda: 3266.73 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 229 bufferSize_panda2: 21 hasThroughput_panda2: 2093 estimatedBW_panda2: 3294.88 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 229201 target_panda: 3.79204e+06 bpsAverage_panda: 3.37179e+06 bpsLastChunk_panda: 4721 lastBitrate_panda: 1950000 chunkCount_panda: 126 totalChunks_panda: 512 downloadDuration_panda: 0.826 requestInterval_panda: 0.826
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 229285 target_panda2: 3.81343e+06 bpsAverage_panda2: 3.39859e+06 bpsLastChunk_panda2: 4850 lastBitrate_panda2: 1950000 chunkCount_panda2: 96 totalChunks_panda2: 512 downloadDuration_panda2: 0.804 requestInterval_panda2: 0.804
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 230 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 3371.79 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 230 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3398.59 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 230783 target_panda: 3.9308e+06 bpsAverage_panda: 3.48359e+06 bpsLastChunk_panda: 4721 lastBitrate_panda: 1950000 chunkCount_panda: 127 totalChunks_panda: 512 downloadDuration_panda: 0.826 requestInterval_panda: 0.826
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 230867 target_panda2: 3.9485e+06 bpsAverage_panda2: 3.50857e+06 bpsLastChunk_panda2: 4670 lastBitrate_panda2: 1950000 chunkCount_panda2: 97 totalChunks_panda2: 512 downloadDuration_panda2: 0.835 requestInterval_panda2: 0.835
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 231 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 3483.59 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 231 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 3508.57 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 232 bufferSize_panda: 22 hasThroughput_panda: 2404 estimatedBW_panda: 3483.59 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 232 bufferSize_panda2: 22 hasThroughput_panda2: 1662 estimatedBW_panda2: 3508.57 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 232328 target_panda: 4.06957e+06 bpsAverage_panda: 3.60079e+06 bpsLastChunk_panda: 4727 lastBitrate_panda: 1950000 chunkCount_panda: 128 totalChunks_panda: 512 downloadDuration_panda: 0.825 requestInterval_panda: 0.825
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 232412 target_panda2: 4.08878e+06 bpsAverage_panda2: 3.62462e+06 bpsLastChunk_panda2: 4681 lastBitrate_panda2: 1950000 chunkCount_panda2: 98 totalChunks_panda2: 512 downloadDuration_panda2: 0.833 requestInterval_panda2: 0.833
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 233 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 3600.79 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 233 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 3624.62 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 234 bufferSize_panda: 22 hasThroughput_panda: 1167 estimatedBW_panda: 3600.79 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 234 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3624.62 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 235 bufferSize_panda: 21 hasThroughput_panda: 5513 estimatedBW_panda: 3600.79 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 235 bufferSize_panda2: 21 hasThroughput_panda2: 4706 estimatedBW_panda2: 3624.62 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 235123 target_panda: 4.20817e+06 bpsAverage_panda: 3.72226e+06 bpsLastChunk_panda: 4688 lastBitrate_panda: 3050000 chunkCount_panda: 129 totalChunks_panda: 512 downloadDuration_panda: 1.301 requestInterval_panda: 1.301
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 235218 target_panda2: 4.22873e+06 bpsAverage_panda2: 3.74544e+06 bpsLastChunk_panda2: 4610 lastBitrate_panda2: 3050000 chunkCount_panda2: 99 totalChunks_panda2: 512 downloadDuration_panda2: 1.323 requestInterval_panda2: 1.323
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 236 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 3722.26 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 236 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3745.44 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 237 bufferSize_panda: 21 hasThroughput_panda: 3248 estimatedBW_panda: 3722.26 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 237 bufferSize_panda2: 21 hasThroughput_panda2: 2093 estimatedBW_panda2: 3745.44 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 237662 target_panda: 4.42674e+06 bpsAverage_panda: 3.86316e+06 bpsLastChunk_panda: 4692 lastBitrate_panda: 3050000 chunkCount_panda: 130 totalChunks_panda: 512 downloadDuration_panda: 1.3 requestInterval_panda: 1.3
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 237758 target_panda2: 4.45099e+06 bpsAverage_panda2: 3.88655e+06 bpsLastChunk_panda2: 4652 lastBitrate_panda2: 3050000 chunkCount_panda2: 100 totalChunks_panda2: 512 downloadDuration_panda2: 1.311 requestInterval_panda2: 1.311
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 238 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 3863.16 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 238 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 3886.55 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 239 bufferSize_panda: 21 hasThroughput_panda: 2805 estimatedBW_panda: 3863.16 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 239 bufferSize_panda2: 21 hasThroughput_panda2: 0 estimatedBW_panda2: 3886.55 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 239710 target_panda: 4.64514e+06 bpsAverage_panda: 4.01956e+06 bpsLastChunk_panda: 5706 lastBitrate_panda: 3050000 chunkCount_panda: 131 totalChunks_panda: 512 downloadDuration_panda: 1.069 requestInterval_panda: 1.069
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 240 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 4019.56 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 240 bufferSize_panda2: 20 hasThroughput_panda2: 5754 estimatedBW_panda2: 3886.55 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 240037 target_panda2: 4.67124e+06 bpsAverage_panda2: 4.04349e+06 bpsLastChunk_panda2: 5495 lastBitrate_panda2: 3050000 chunkCount_panda2: 101 totalChunks_panda2: 512 downloadDuration_panda2: 1.11 requestInterval_panda2: 1.11
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 241 bufferSize_panda: 21 hasThroughput_panda: 2093 estimatedBW_panda: 4019.56 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 241 bufferSize_panda2: 21 hasThroughput_panda2: 0 estimatedBW_panda2: 4043.49 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 242 bufferSize_panda: 20 hasThroughput_panda: 4960 estimatedBW_panda: 4019.56 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 242 bufferSize_panda2: 20 hasThroughput_panda2: 2490 estimatedBW_panda2: 4043.49 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 242618 target_panda: 3.69921e+06 bpsAverage_panda: 3.95549e+06 bpsLastChunk_panda: 3065 lastBitrate_panda: 3050000 chunkCount_panda: 132 totalChunks_panda: 512 downloadDuration_panda: 1.99 requestInterval_panda: 1.99
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 243 bufferSize_panda: 21 hasThroughput_panda: 0 estimatedBW_panda: 3955.49 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 243 bufferSize_panda2: 19 hasThroughput_panda2: 5226 estimatedBW_panda2: 4043.49 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 243244 target_panda2: 3.41732e+06 bpsAverage_panda2: 3.91825e+06 bpsLastChunk_panda2: 2654 lastBitrate_panda2: 3050000 chunkCount_panda2: 102 totalChunks_panda2: 512 downloadDuration_panda2: 2.298 requestInterval_panda2: 2.298
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 244 bufferSize_panda: 20 hasThroughput_panda: 2387 estimatedBW_panda: 3955.49 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 244 bufferSize_panda2: 20 hasThroughput_panda2: 0 estimatedBW_panda2: 3918.25 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 245 bufferSize_panda: 19 hasThroughput_panda: 5546 estimatedBW_panda: 3955.49 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 245 bufferSize_panda2: 19 hasThroughput_panda2: 2154 estimatedBW_panda2: 3918.25 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 245324 target_panda: 3.43041e+06 bpsAverage_panda: 3.85047e+06 bpsLastChunk_panda: 3458 lastBitrate_panda: 3050000 chunkCount_panda: 133 totalChunks_panda: 512 downloadDuration_panda: 1.764 requestInterval_panda: 1.764
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 246 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 3850.47 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 246 bufferSize_panda2: 18 hasThroughput_panda2: 5238 estimatedBW_panda2: 3918.25 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 246199 target_panda2: 2.59073e+06 bpsAverage_panda2: 3.65275e+06 bpsLastChunk_panda2: 2775 lastBitrate_panda2: 3050000 chunkCount_panda2: 103 totalChunks_panda2: 512 downloadDuration_panda2: 2.198 requestInterval_panda2: 2.198
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 247 bufferSize_panda: 19 hasThroughput_panda: 3158 estimatedBW_panda: 3850.47 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 247 bufferSize_panda2: 19 hasThroughput_panda2: 0 estimatedBW_panda2: 3652.75 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 248 bufferSize_panda: 18 hasThroughput_panda: 5820 estimatedBW_panda: 3850.47 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 248 bufferSize_panda2: 18 hasThroughput_panda2: 2555 estimatedBW_panda2: 3652.75 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 248181 target_panda: 2.94991e+06 bpsAverage_panda: 3.67036e+06 bpsLastChunk_panda: 2944 lastBitrate_panda: 3050000 chunkCount_panda: 134 totalChunks_panda: 512 downloadDuration_panda: 2.072 requestInterval_panda: 2.072
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 249 bufferSize_panda: 19 hasThroughput_panda: 0 estimatedBW_panda: 3670.36 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 249 bufferSize_panda2: 17 hasThroughput_panda2: 5791 estimatedBW_panda2: 3652.75 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 249070 target_panda2: 2.81262e+06 bpsAverage_panda2: 3.48472e+06 bpsLastChunk_panda2: 2771 lastBitrate_panda2: 3050000 chunkCount_panda2: 104 totalChunks_panda2: 512 downloadDuration_panda2: 2.201 requestInterval_panda2: 2.201
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 250 bufferSize_panda: 18 hasThroughput_panda: 3305 estimatedBW_panda: 3670.36 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 250 bufferSize_panda2: 18 hasThroughput_panda2: 1048 estimatedBW_panda2: 3484.72 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 251 bufferSize_panda: 17 hasThroughput_panda: 5918 estimatedBW_panda: 3670.36 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 251 bufferSize_panda2: 17 hasThroughput_panda2: 3137 estimatedBW_panda2: 3484.72 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 251041 target_panda: 2.74696e+06 bpsAverage_panda: 3.48568e+06 bpsLastChunk_panda: 2775 lastBitrate_panda: 3050000 chunkCount_panda: 135 totalChunks_panda: 512 downloadDuration_panda: 2.198 requestInterval_panda: 2.198
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 252 bufferSize_panda: 18 hasThroughput_panda: 904 estimatedBW_panda: 3485.68 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 252 bufferSize_panda2: 16 hasThroughput_panda2: 6025 estimatedBW_panda2: 3484.72 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 252033 target_panda2: 2.46058e+06 bpsAverage_panda2: 3.27989e+06 bpsLastChunk_panda2: 2527 lastBitrate_panda2: 3050000 chunkCount_panda2: 105 totalChunks_panda2: 512 downloadDuration_panda2: 2.413 requestInterval_panda2: 2.413
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 253 bufferSize_panda: 17 hasThroughput_panda: 3985 estimatedBW_panda: 3485.68 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 253 bufferSize_panda2: 17 hasThroughput_panda2: 1048 estimatedBW_panda2: 3279.89 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 253901 target_panda: 2.61531e+06 bpsAverage_panda: 3.3116e+06 bpsLastChunk_panda: 2640 lastBitrate_panda: 3050000 chunkCount_panda: 136 totalChunks_panda: 512 downloadDuration_panda: 2.31 requestInterval_panda: 2.31
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 254 bufferSize_panda: 18 hasThroughput_panda: 0 estimatedBW_panda: 3311.6 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 254 bufferSize_panda2: 16 hasThroughput_panda2: 3317 estimatedBW_panda2: 3279.89 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 254900 target_panda2: 2.55979e+06 bpsAverage_panda2: 3.13587e+06 bpsLastChunk_panda2: 2534 lastBitrate_panda2: 3050000 chunkCount_panda2: 106 totalChunks_panda2: 512 downloadDuration_panda2: 2.407 requestInterval_panda2: 2.407
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 255 bufferSize_panda: 17 hasThroughput_panda: 1171 estimatedBW_panda: 3311.6 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 255 bufferSize_panda2: 17 hasThroughput_panda2: 0 estimatedBW_panda2: 3135.87 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 256 bufferSize_panda: 16 hasThroughput_panda: 4186 estimatedBW_panda: 3311.6 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 256 bufferSize_panda2: 16 hasThroughput_panda2: 1548 estimatedBW_panda2: 3135.87 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 256760 target_panda: 2.4959e+06 bpsAverage_panda: 3.14846e+06 bpsLastChunk_panda: 2523 lastBitrate_panda: 3050000 chunkCount_panda: 137 totalChunks_panda: 512 downloadDuration_panda: 2.417 requestInterval_panda: 2.417
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 257 bufferSize_panda: 17 hasThroughput_panda: 0 estimatedBW_panda: 3148.46 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 257 bufferSize_panda2: 15 hasThroughput_panda2: 4108 estimatedBW_panda2: 3135.87 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 257753 target_panda2: 2.38754e+06 bpsAverage_panda2: 2.98621e+06 bpsLastChunk_panda2: 2432 lastBitrate_panda2: 3050000 chunkCount_panda2: 107 totalChunks_panda2: 512 downloadDuration_panda2: 2.508 requestInterval_panda2: 2.508
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 258 bufferSize_panda: 16 hasThroughput_panda: 2093 estimatedBW_panda: 3148.46 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 258 bufferSize_panda2: 16 hasThroughput_panda2: 0 estimatedBW_panda2: 2986.21 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 259 bufferSize_panda: 15 hasThroughput_panda: 4194 estimatedBW_panda: 3148.46 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 259 bufferSize_panda2: 15 hasThroughput_panda2: 2342 estimatedBW_panda2: 2986.21 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 259584 target_panda2: 2.02443e+06 bpsAverage_panda2: 2.79385e+06 bpsLastChunk_panda2: 2129 lastBitrate_panda2: 1950000 chunkCount_panda2: 108 totalChunks_panda2: 512 downloadDuration_panda2: 1.831 requestInterval_panda2: 1.831
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 259814 target_panda: 2.1563e+06 bpsAverage_panda: 2.95003e+06 bpsLastChunk_panda: 2245 lastBitrate_panda: 3050000 chunkCount_panda: 138 totalChunks_panda: 512 downloadDuration_panda: 2.717 requestInterval_panda: 2.717
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 260 bufferSize_panda: 16 hasThroughput_panda: 0 estimatedBW_panda: 2950.03 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 260 bufferSize_panda2: 16 hasThroughput_panda2: 570 estimatedBW_panda2: 2793.85 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 260918 target_panda2: 2.33203e+06 bpsAverage_panda2: 2.70149e+06 bpsLastChunk_panda2: 2923 lastBitrate_panda2: 1950000 chunkCount_panda2: 109 totalChunks_panda2: 512 downloadDuration_panda2: 1.334 requestInterval_panda2: 1.334
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 261 bufferSize_panda: 15 hasThroughput_panda: 3875 estimatedBW_panda: 2950.03 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 261 bufferSize_panda2: 17 hasThroughput_panda2: 0 estimatedBW_panda2: 2701.49 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 261002 target_panda: 2.61276e+06 bpsAverage_panda: 2.88258e+06 bpsLastChunk_panda: 3282 lastBitrate_panda: 1950000 chunkCount_panda: 139 totalChunks_panda: 512 downloadDuration_panda: 1.188 requestInterval_panda: 1.188
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 261779 target_panda2: 2.55615e+06 bpsAverage_panda2: 2.67242e+06 bpsLastChunk_panda2: 4529 lastBitrate_panda2: 1950000 chunkCount_panda2: 110 totalChunks_panda2: 512 downloadDuration_panda2: 0.861 requestInterval_panda2: 0.861
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 261863 target_panda: 2.81234e+06 bpsAverage_panda: 2.86853e+06 bpsLastChunk_panda: 4529 lastBitrate_panda: 1950000 chunkCount_panda: 140 totalChunks_panda: 512 downloadDuration_panda: 0.861 requestInterval_panda: 0.861
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 262 bufferSize_panda: 18 hasThroughput_panda: 0 estimatedBW_panda: 2868.53 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 262 bufferSize_panda2: 18 hasThroughput_panda2: 1020 estimatedBW_panda2: 2672.42 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 262664 target_panda2: 2.70079e+06 bpsAverage_panda2: 2.67809e+06 bpsLastChunk_panda2: 4727 lastBitrate_panda2: 1950000 chunkCount_panda2: 111 totalChunks_panda2: 512 downloadDuration_panda2: 0.825 requestInterval_panda2: 0.825
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 262748 target_panda: 2.95699e+06 bpsAverage_panda: 2.88622e+06 bpsLastChunk_panda: 4406 lastBitrate_panda: 1950000 chunkCount_panda: 141 totalChunks_panda: 512 downloadDuration_panda: 0.885 requestInterval_panda: 0.885
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 263 bufferSize_panda: 19 hasThroughput_panda: 467 estimatedBW_panda: 2886.22 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 263 bufferSize_panda2: 19 hasThroughput_panda2: 0 estimatedBW_panda2: 2678.09 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 263609 target_panda: 3.10567e+06 bpsAverage_panda: 2.93011e+06 bpsLastChunk_panda: 5500 lastBitrate_panda: 1950000 chunkCount_panda: 142 totalChunks_panda: 512 downloadDuration_panda: 0.709 requestInterval_panda: 0.709
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 263809 target_panda2: 2.83939e+06 bpsAverage_panda2: 2.71035e+06 bpsLastChunk_panda2: 5668 lastBitrate_panda2: 1950000 chunkCount_panda2: 112 totalChunks_panda2: 512 downloadDuration_panda2: 0.688 requestInterval_panda2: 0.688
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 264 bufferSize_panda: 20 hasThroughput_panda: 0 estimatedBW_panda: 2930.11 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 264 bufferSize_panda2: 20 hasThroughput_panda2: 0 estimatedBW_panda2: 2710.35 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 264966 target_panda: 3.22478e+06 bpsAverage_panda: 2.98905e+06 bpsLastChunk_panda: 4721 lastBitrate_panda: 1950000 chunkCount_panda: 143 totalChunks_panda: 512 downloadDuration_panda: 0.826 requestInterval_panda: 0.826
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 265 bufferSize_panda: 21 hasThroughput_panda: 0 estimatedBW_panda: 2989.05 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 265 bufferSize_panda2: 19 hasThroughput_panda2: 3444 estimatedBW_panda2: 2710.35 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 265050 target_panda2: 2.95498e+06 bpsAverage_panda2: 2.75928e+06 bpsLastChunk_panda2: 4862 lastBitrate_panda2: 1950000 chunkCount_panda2: 113 totalChunks_panda2: 512 downloadDuration_panda2: 0.802 requestInterval_panda2: 0.802
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 266 bufferSize_panda: 20 hasThroughput_panda: 3305 estimatedBW_panda: 2989.05 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 266 bufferSize_panda2: 20 hasThroughput_panda2: 1048 estimatedBW_panda2: 2759.28 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 266180 target_panda: 3.36355e+06 bpsAverage_panda: 3.06395e+06 bpsLastChunk_panda: 5500 lastBitrate_panda: 1950000 chunkCount_panda: 144 totalChunks_panda: 512 downloadDuration_panda: 0.709 requestInterval_panda: 0.709
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 266380 target_panda2: 3.08971e+06 bpsAverage_panda2: 2.82537e+06 bpsLastChunk_panda2: 5439 lastBitrate_panda2: 1950000 chunkCount_panda2: 114 totalChunks_panda2: 512 downloadDuration_panda2: 0.717 requestInterval_panda2: 0.717
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 267 bufferSize_panda: 21 hasThroughput_panda: 887 estimatedBW_panda: 3063.95 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 267 bufferSize_panda2: 21 hasThroughput_panda2: 0 estimatedBW_panda2: 2825.37 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 267447 target_panda: 3.48266e+06 bpsAverage_panda: 3.14769e+06 bpsLastChunk_panda: 6565 lastBitrate_panda: 1950000 chunkCount_panda: 145 totalChunks_panda: 512 downloadDuration_panda: 0.594 requestInterval_panda: 0.594
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 267763 target_panda2: 3.21017e+06 bpsAverage_panda2: 2.90233e+06 bpsLastChunk_panda2: 6478 lastBitrate_panda2: 1950000 chunkCount_panda2: 115 totalChunks_panda2: 512 downloadDuration_panda2: 0.602 requestInterval_panda2: 0.602
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 268 bufferSize_panda: 22 hasThroughput_panda: 0 estimatedBW_panda: 3147.69 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 268 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 2902.33 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 268765 target_panda: 3.58245e+06 bpsAverage_panda: 3.23464e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 146 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 269 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 3234.64 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 269 bufferSize_panda2: 21 hasThroughput_panda2: 2121 estimatedBW_panda2: 2902.33 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 269196 target_panda2: 3.31131e+06 bpsAverage_panda2: 2.98412e+06 bpsLastChunk_panda2: 7959 lastBitrate_panda2: 1950000 chunkCount_panda2: 116 totalChunks_panda2: 512 downloadDuration_panda2: 0.49 requestInterval_panda2: 0.49
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 270 bufferSize_panda: 22 hasThroughput_panda: 3444 estimatedBW_panda: 3234.64 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 270 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 2984.12 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 270050 target_panda: 3.66293e+06 bpsAverage_panda: 3.3203e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 147 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 270582 target_panda2: 3.39363e+06 bpsAverage_panda2: 3.06602e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 117 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 271 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 3320.3 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 271 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 3066.02 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 271503 target_panda: 3.7434e+06 bpsAverage_panda: 3.40492e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 148 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 272 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 3404.92 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 272 bufferSize_panda2: 22 hasThroughput_panda2: 2695 estimatedBW_panda2: 3066.02 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 272133 target_panda2: 3.4741e+06 bpsAverage_panda2: 3.14764e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 118 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 273 bufferSize_panda: 23 hasThroughput_panda: 2740 estimatedBW_panda: 3404.92 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 273 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 3147.64 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 273127 target_panda: 3.82387e+06 bpsAverage_panda: 3.48871e+06 bpsLastChunk_panda: 8158 lastBitrate_panda: 1950000 chunkCount_panda: 149 totalChunks_panda: 512 downloadDuration_panda: 0.478 requestInterval_panda: 0.478
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 273650 target_panda2: 3.55457e+06 bpsAverage_panda2: 3.22902e+06 bpsLastChunk_panda2: 8158 lastBitrate_panda2: 1950000 chunkCount_panda2: 119 totalChunks_panda2: 512 downloadDuration_panda2: 0.478 requestInterval_panda2: 0.478
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 274 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 3488.71 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 274 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 3229.02 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 274724 target_panda: 3.90417e+06 bpsAverage_panda: 3.5718e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 150 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 275 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 3571.8 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 275 bufferSize_panda2: 23 hasThroughput_panda2: 844 estimatedBW_panda2: 3229.02 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 275337 target_panda2: 3.63487e+06 bpsAverage_panda2: 3.31019e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 120 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 276 bufferSize_panda: 24 hasThroughput_panda: 1224 estimatedBW_panda: 3571.8 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 276 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 3310.19 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 276295 target_panda: 3.98465e+06 bpsAverage_panda: 3.65437e+06 bpsLastChunk_panda: 8141 lastBitrate_panda: 1950000 chunkCount_panda: 151 totalChunks_panda: 512 downloadDuration_panda: 0.479 requestInterval_panda: 0.479
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 276994 target_panda2: 3.71535e+06 bpsAverage_panda2: 3.39123e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 121 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 277 bufferSize_panda: 25 hasThroughput_panda: 0 estimatedBW_panda: 3654.37 videoLevel_panda: 1950
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 277 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3391.23 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 278 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 3654.37 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 278 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 3391.23 videoLevel_panda2: 1950
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 279 bufferSize_panda: 23 hasThroughput_panda: 5419 estimatedBW_panda: 3654.37 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 279 bufferSize_panda2: 23 hasThroughput_panda2: 3518 estimatedBW_panda2: 3391.23 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 279046 target_panda2: 3.79582e+06 bpsAverage_panda2: 3.47214e+06 bpsLastChunk_panda2: 4323 lastBitrate_panda2: 1950000 chunkCount_panda2: 122 totalChunks_panda2: 512 downloadDuration_panda2: 0.902 requestInterval_panda2: 0.902
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 279117 target_panda: 4.06512e+06 bpsAverage_panda: 3.73652e+06 bpsLastChunk_panda: 5290 lastBitrate_panda: 3050000 chunkCount_panda: 152 totalChunks_panda: 512 downloadDuration_panda: 1.153 requestInterval_panda: 1.153
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 280 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 3736.52 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 280 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 3472.14 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 280648 target_panda2: 3.94735e+06 bpsAverage_panda2: 3.56719e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 123 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 281 bufferSize_panda: 23 hasThroughput_panda: 1831 estimatedBW_panda: 3736.52 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 281 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3567.19 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 281471 target_panda: 4.25882e+06 bpsAverage_panda: 3.84098e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 153 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 282 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 3840.98 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 282 bufferSize_panda2: 24 hasThroughput_panda2: 1904 estimatedBW_panda2: 3567.19 videoLevel_panda2: 1950
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 282220 target_panda2: 4.02783e+06 bpsAverage_panda2: 3.65931e+06 bpsLastChunk_panda2: 8141 lastBitrate_panda2: 1950000 chunkCount_panda2: 124 totalChunks_panda2: 512 downloadDuration_panda2: 0.479 requestInterval_panda2: 0.479
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 283 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 3840.98 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 283 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3659.31 videoLevel_panda2: 1950
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 283781 target_panda: 4.38012e+06 bpsAverage_panda: 3.94881e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 154 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 284 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 3948.81 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 284 bufferSize_panda2: 24 hasThroughput_panda2: 583 estimatedBW_panda2: 3659.31 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 284609 target_panda2: 4.1083e+06 bpsAverage_panda2: 3.74911e+06 bpsLastChunk_panda2: 8448 lastBitrate_panda2: 3050000 chunkCount_panda2: 125 totalChunks_panda2: 512 downloadDuration_panda2: 0.722 requestInterval_panda2: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 285 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 3948.81 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 285 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3749.11 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 285848 target_panda: 4.50141e+06 bpsAverage_panda: 4.05933e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 155 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 286 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 4059.33 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 286 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 3749.11 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 286958 target_panda2: 4.22959e+06 bpsAverage_panda2: 3.84521e+06 bpsLastChunk_panda2: 8448 lastBitrate_panda2: 3050000 chunkCount_panda2: 126 totalChunks_panda2: 512 downloadDuration_panda2: 0.722 requestInterval_panda2: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 287 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4059.33 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 287 bufferSize_panda2: 25 hasThroughput_panda2: 0 estimatedBW_panda2: 3845.21 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 287873 target_panda: 4.62271e+06 bpsAverage_panda: 4.17201e+06 bpsLastChunk_panda: 8448 lastBitrate_panda: 3050000 chunkCount_panda: 156 totalChunks_panda: 512 downloadDuration_panda: 0.722 requestInterval_panda: 0.722
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 288 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 4172.01 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 288 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 3845.21 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 289 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4172.01 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 289 bufferSize_panda2: 23 hasThroughput_panda2: 3682 estimatedBW_panda2: 3845.21 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 289382 target_panda2: 4.35089e+06 bpsAverage_panda2: 3.94634e+06 bpsLastChunk_panda2: 7287 lastBitrate_panda2: 3050000 chunkCount_panda2: 127 totalChunks_panda2: 512 downloadDuration_panda2: 0.837 requestInterval_panda2: 0.837
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 289940 target_panda: 4.74401e+06 bpsAverage_panda: 4.28641e+06 bpsLastChunk_panda: 7577 lastBitrate_panda: 3050000 chunkCount_panda: 157 totalChunks_panda: 512 downloadDuration_panda: 0.805 requestInterval_panda: 0.805
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 290 bufferSize_panda: 24 hasThroughput_panda: 0 estimatedBW_panda: 4286.41 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 290 bufferSize_panda2: 24 hasThroughput_panda2: 0 estimatedBW_panda2: 3946.34 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 291 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4286.41 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 291 bufferSize_panda2: 23 hasThroughput_panda2: 214 estimatedBW_panda2: 3946.34 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 292 bufferSize_panda: 22 hasThroughput_panda: 3354 estimatedBW_panda: 4286.41 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 292 bufferSize_panda2: 22 hasThroughput_panda2: 5910 estimatedBW_panda2: 3946.34 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 292112 target_panda2: 4.49151e+06 bpsAverage_panda2: 4.05538e+06 bpsLastChunk_panda2: 5152 lastBitrate_panda2: 3050000 chunkCount_panda2: 128 totalChunks_panda2: 512 downloadDuration_panda2: 1.184 requestInterval_panda2: 1.184
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 292324 target_panda: 4.87925e+06 bpsAverage_panda: 4.40497e+06 bpsLastChunk_panda: 5258 lastBitrate_panda: 3050000 chunkCount_panda: 158 totalChunks_panda: 512 downloadDuration_panda: 1.16 requestInterval_panda: 1.16
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 293 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4404.97 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 293 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 4055.38 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 294 bufferSize_panda: 22 hasThroughput_panda: 2093 estimatedBW_panda: 4404.97 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 294 bufferSize_panda2: 22 hasThroughput_panda2: 2748 estimatedBW_panda2: 4055.38 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 294717 target_panda2: 4.62444e+06 bpsAverage_panda2: 4.16919e+06 bpsLastChunk_panda2: 4692 lastBitrate_panda2: 3050000 chunkCount_panda2: 129 totalChunks_panda2: 512 downloadDuration_panda2: 1.3 requestInterval_panda2: 1.3
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 294813 target_panda: 4.74592e+06 bpsAverage_panda: 4.47316e+06 bpsLastChunk_panda: 4674 lastBitrate_panda: 3050000 chunkCount_panda: 159 totalChunks_panda: 512 downloadDuration_panda: 1.305 requestInterval_panda: 1.305
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 295 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4473.16 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 295 bufferSize_panda2: 23 hasThroughput_panda2: 0 estimatedBW_panda2: 4169.19 videoLevel_panda2: 3050
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 296 bufferSize_panda: 22 hasThroughput_panda: 1585 estimatedBW_panda: 4473.16 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 296 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 4169.19 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 296961 target_panda: 4.96516e+06 bpsAverage_panda: 4.57156e+06 bpsLastChunk_panda: 5147 lastBitrate_panda: 3050000 chunkCount_panda: 160 totalChunks_panda: 512 downloadDuration_panda: 1.185 requestInterval_panda: 1.185
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 297 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4571.56 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 297 bufferSize_panda2: 21 hasThroughput_panda2: 4538 estimatedBW_panda2: 4169.19 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 297172 target_panda2: 4.84284e+06 bpsAverage_panda2: 4.30392e+06 bpsLastChunk_panda2: 5117 lastBitrate_panda2: 3050000 chunkCount_panda2: 130 totalChunks_panda2: 512 downloadDuration_panda2: 1.192 requestInterval_panda2: 1.192
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 298 bufferSize_panda: 22 hasThroughput_panda: 505 estimatedBW_panda: 4571.56 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 298 bufferSize_panda2: 22 hasThroughput_panda2: 0 estimatedBW_panda2: 4303.92 videoLevel_panda2: 3050
+=======START_PANDA=========== 0x1202410 =================
+Time_panda: 298964 target_panda: 5.16424e+06 bpsAverage_panda: 4.6901e+06 bpsLastChunk_panda: 5706 lastBitrate_panda: 3050000 chunkCount_panda: 161 totalChunks_panda: 512 downloadDuration_panda: 1.069 requestInterval_panda: 1.069
+=======BUFFER_PANDA========== 0x1202410 =================
+Time_panda: 299 bufferSize_panda: 23 hasThroughput_panda: 0 estimatedBW_panda: 4690.1 videoLevel_panda: 3050
+=======BUFFER_PANDA2========== 0x1202550 =================
+Time_panda2: 299 bufferSize_panda2: 21 hasThroughput_panda2: 3461 estimatedBW_panda2: 4303.92 videoLevel_panda2: 3050
+=======START_PANDA2=========== 0x1202550 =================
+Time_panda2: 299291 target_panda2: 5.0431e+06 bpsAverage_panda2: 4.45176e+06 bpsLastChunk_panda2: 5535 lastBitrate_panda2: 3050000 chunkCount_panda2: 131 totalChunks_panda2: 512 downloadDuration_panda2: 1.102 requestInterval_panda2: 1.102

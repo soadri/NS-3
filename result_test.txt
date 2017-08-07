@@ -1,0 +1,104 @@
+Waf: Entering directory `/home/min3/ns-allinone-3.26/ns-3.26/build'
+[815/871] Compiling Test.cc
+[869/871] Linking ../build/scratch/Test
+Waf: Leaving directory `/home/min3/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (7.286s)
+=====BUFFER===== 0x1ec3410 =====
+Time: 0 BufferSize: 0 VideoLevel: 450 DownloadTime: 0 RequestInterval: 0 BufferVariation: 2 ExpectRequestBitrate: 0 ExpectBufferSize: 0
+=====START===== 0x1ec3410 =====
+Time: 645 BufferSize: 2 ChunkCount: 1 VideoLevel: 450 DownloadTime: 0.645 RequestInterval: 0 BufferVariation: 1.355
+=====START===== 0x1ec3410 =====
+Time: 792 BufferSize: 3 ChunkCount: 2 VideoLevel: 450 DownloadTime: 0.147 RequestInterval: 0 BufferVariation: 1.853
+=====BUFFER===== 0x1ec3410 =====
+Time: 1000 BufferSize: 3 VideoLevel: 1200 DownloadTime: 0.147 RequestInterval: 0 BufferVariation: 1.853 ExpectRequestBitrate: 1200000 ExpectBufferSize: 3857
+=====START===== 0x1ec3410 =====
+Time: 1105 BufferSize: 5 ChunkCount: 3 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x1ec3410 =====
+Time: 1418 BufferSize: 7 ChunkCount: 4 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x1ec3410 =====
+Time: 1731 BufferSize: 8 ChunkCount: 5 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====BUFFER===== 0x1ec3410 =====
+Time: 2000 BufferSize: 8 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687 ExpectRequestBitrate: 1200000 ExpectBufferSize: 8917
+=====START===== 0x1ec3410 =====
+Time: 2044 BufferSize: 10 ChunkCount: 6 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x1ec3410 =====
+Time: 2357 BufferSize: 12 ChunkCount: 7 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x1ec3410 =====
+Time: 2670 BufferSize: 13 ChunkCount: 8 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x1ec3410 =====
+Time: 2983 BufferSize: 15 ChunkCount: 9 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====BUFFER===== 0x1ec3410 =====
+Time: 3000 BufferSize: 15 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687 ExpectRequestBitrate: 1200000 ExpectBufferSize: 15664
+=====START===== 0x1ec3410 =====
+Time: 3296 BufferSize: 17 ChunkCount: 10 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x1ec3410 =====
+Time: 3609 BufferSize: 19 ChunkCount: 11 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0.16462 BufferVariation: 1.52238
+=====BUFFER===== 0x1ec3410 =====
+Time: 4000 BufferSize: 18 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0.16462 BufferVariation: 1.52238 ExpectRequestBitrate: 1200000 ExpectBufferSize: 19038
+=====START===== 0x1ec3410 =====
+Time: 4086 BufferSize: 20 ChunkCount: 12 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0.327987 BufferVariation: 1.35901
+=====START===== 0x1ec3410 =====
+Time: 4727 BufferSize: 21 ChunkCount: 13 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0.353325 BufferVariation: 1.33367
+=====BUFFER===== 0x1ec3410 =====
+Time: 5000 BufferSize: 21 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0.353325 BufferVariation: 1.33367 ExpectRequestBitrate: 1200000 ExpectBufferSize: 21919
+=====START===== 0x1ec3410 =====
+Time: 5394 BufferSize: 23 ChunkCount: 14 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 1.0437 BufferVariation: 0.643302
+=====BUFFER===== 0x1ec3410 =====
+Time: 6000 BufferSize: 22 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 1.0437 BufferVariation: 0.643302 ExpectRequestBitrate: 1950000 ExpectBufferSize: 23253
+=====START===== 0x1ec3410 =====
+Time: 6916 BufferSize: 23 ChunkCount: 15 VideoLevel: 1950 DownloadTime: 0.479 RequestInterval: 1.25579 BufferVariation: 0.265212
+=====BUFFER===== 0x1ec3410 =====
+Time: 7000 BufferSize: 23 VideoLevel: 1950 DownloadTime: 0.479 RequestInterval: 1.25579 BufferVariation: 0.265212 ExpectRequestBitrate: 4250000 ExpectBufferSize: 23728
+=====BUFFER===== 0x1ec3410 =====
+Time: 8000 BufferSize: 22 VideoLevel: 1950 DownloadTime: 0.479 RequestInterval: 1.25579 BufferVariation: 0.265212 ExpectRequestBitrate: 4250000 ExpectBufferSize: 23728
+=====BUFFER===== 0x1ec3410 =====
+Time: 9000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.479 RequestInterval: 1.25579 BufferVariation: 0.265212 ExpectRequestBitrate: 4250000 ExpectBufferSize: 23728
+=====START===== 0x1ec3410 =====
+Time: 9159 BufferSize: 23 ChunkCount: 16 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.970965 BufferVariation: 0.042035
+=====BUFFER===== 0x1ec3410 =====
+Time: 10000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.970965 BufferVariation: 0.042035 ExpectRequestBitrate: 4250000 ExpectBufferSize: 23487
+=====BUFFER===== 0x1ec3410 =====
+Time: 11000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.970965 BufferVariation: 0.042035 ExpectRequestBitrate: 4250000 ExpectBufferSize: 23487
+=====START===== 0x1ec3410 =====
+Time: 11118 BufferSize: 23 ChunkCount: 17 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.841371 BufferVariation: 0.170629
+=====BUFFER===== 0x1ec3410 =====
+Time: 12000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.841371 BufferVariation: 0.170629 ExpectRequestBitrate: 4250000 ExpectBufferSize: 23529
+=====START===== 0x1ec3410 =====
+Time: 12946 BufferSize: 23 ChunkCount: 18 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 1.26352 BufferVariation: -0.250516
+=====BUFFER===== 0x1ec3410 =====
+Time: 13000 BufferSize: 23 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 1.26352 BufferVariation: -0.250516 ExpectRequestBitrate: 6050000 ExpectBufferSize: 23698
+=====BUFFER===== 0x1ec3410 =====
+Time: 14000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 1.26352 BufferVariation: -0.250516 ExpectRequestBitrate: 6050000 ExpectBufferSize: 23698
+=====BUFFER===== 0x1ec3410 =====
+Time: 15000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 0.987 RequestInterval: 1.26352 BufferVariation: -0.250516 ExpectRequestBitrate: 6050000 ExpectBufferSize: 23698
+=====START===== 0x1ec3410 =====
+Time: 15595 BufferSize: 23 ChunkCount: 19 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.19621 BufferVariation: -0.581211
+=====BUFFER===== 0x1ec3410 =====
+Time: 16000 BufferSize: 22 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.19621 BufferVariation: -0.581211 ExpectRequestBitrate: 6050000 ExpectBufferSize: 23049
+=====BUFFER===== 0x1ec3410 =====
+Time: 17000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.19621 BufferVariation: -0.581211 ExpectRequestBitrate: 6050000 ExpectBufferSize: 23049
+=====BUFFER===== 0x1ec3410 =====
+Time: 18000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.19621 BufferVariation: -0.581211 ExpectRequestBitrate: 6050000 ExpectBufferSize: 23049
+=====START===== 0x1ec3410 =====
+Time: 18177 BufferSize: 22 ChunkCount: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.948537 BufferVariation: -0.334537
+=====BUFFER===== 0x1ec3410 =====
+Time: 19000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.948537 BufferVariation: -0.334537 ExpectRequestBitrate: 6050000 ExpectBufferSize: 22469
+=====BUFFER===== 0x1ec3410 =====
+Time: 20000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.948537 BufferVariation: -0.334537 ExpectRequestBitrate: 6050000 ExpectBufferSize: 22469
+=====START===== 0x1ec3410 =====
+Time: 20510 BufferSize: 22 ChunkCount: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.912732 BufferVariation: -0.297732
+=====BUFFER===== 0x1ec3410 =====
+Time: 21000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.912732 BufferVariation: -0.297732 ExpectRequestBitrate: 6050000 ExpectBufferSize: 22135
+=====BUFFER===== 0x1ec3410 =====
+Time: 22000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.912732 BufferVariation: -0.297732 ExpectRequestBitrate: 6050000 ExpectBufferSize: 22135
+=====START===== 0x1ec3410 =====
+Time: 22808 BufferSize: 21 ChunkCount: 22 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.685331 BufferVariation: -0.0703314
+=====BUFFER===== 0x1ec3410 =====
+Time: 23000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.685331 BufferVariation: -0.0703314 ExpectRequestBitrate: 6050000 ExpectBufferSize: 21837
+=====BUFFER===== 0x1ec3410 =====
+Time: 24000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.685331 BufferVariation: -0.0703314 ExpectRequestBitrate: 6050000 ExpectBufferSize: 21837
+=====START===== 0x1ec3410 =====
+Time: 24879 BufferSize: 21 ChunkCount: 23 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.664131 BufferVariation: -0.0491306
+=====BUFFER===== 0x1ec3410 =====
+Time: 25000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.664131 BufferVariation: -0.0491306 ExpectRequestBitrate: 6050000 ExpectBufferSize: 21766

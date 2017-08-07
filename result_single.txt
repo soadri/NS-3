@@ -1,0 +1,928 @@
+Waf: Entering directory `/home/min3/ns-allinone-3.26/ns-3.26/build'
+[  2/869] Compiling Test_Single.cc
+[819/869] Compiling Test_Multiple.cc
+[861/869] Linking ../build/scratch/Test_Single
+[865/869] Linking ../build/scratch/Test_Multiple
+Waf: Leaving directory `/home/min3/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (8.662s)
+=====BUFFER===== 0x256b410 =====
+Time: 0 BufferSize: 0 VideoLevel: 450 DownloadTime: 0 RequestInterval: 0 BufferVariation: 2
+=====START===== 0x256b410 =====
+Time: 645 BufferSize: 2 ChunkCount: 1 VideoLevel: 450 DownloadTime: 0.645 RequestInterval: 0 BufferVariation: 1.355
+=====START===== 0x256b410 =====
+Time: 792 BufferSize: 3 ChunkCount: 2 VideoLevel: 450 DownloadTime: 0.147 RequestInterval: 0 BufferVariation: 1.853
+=====BUFFER===== 0x256b410 =====
+Time: 1000 BufferSize: 3 VideoLevel: 1200 DownloadTime: 0.147 RequestInterval: 0 BufferVariation: 1.853
+=====START===== 0x256b410 =====
+Time: 1105 BufferSize: 5 ChunkCount: 3 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x256b410 =====
+Time: 1418 BufferSize: 7 ChunkCount: 4 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x256b410 =====
+Time: 1731 BufferSize: 8 ChunkCount: 5 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====BUFFER===== 0x256b410 =====
+Time: 2000 BufferSize: 8 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x256b410 =====
+Time: 2044 BufferSize: 10 ChunkCount: 6 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x256b410 =====
+Time: 2357 BufferSize: 12 ChunkCount: 7 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x256b410 =====
+Time: 2670 BufferSize: 13 ChunkCount: 8 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x256b410 =====
+Time: 2983 BufferSize: 15 ChunkCount: 9 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====BUFFER===== 0x256b410 =====
+Time: 3000 BufferSize: 15 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x256b410 =====
+Time: 3296 BufferSize: 17 ChunkCount: 10 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0 BufferVariation: 1.687
+=====START===== 0x256b410 =====
+Time: 3609 BufferSize: 19 ChunkCount: 11 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0.16462 BufferVariation: 1.52238
+=====BUFFER===== 0x256b410 =====
+Time: 4000 BufferSize: 18 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0.16462 BufferVariation: 1.52238
+=====START===== 0x256b410 =====
+Time: 4086 BufferSize: 20 ChunkCount: 12 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0.327987 BufferVariation: 1.35901
+=====START===== 0x256b410 =====
+Time: 4727 BufferSize: 21 ChunkCount: 13 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0.353325 BufferVariation: 1.33367
+=====BUFFER===== 0x256b410 =====
+Time: 5000 BufferSize: 21 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 0.353325 BufferVariation: 1.33367
+=====START===== 0x256b410 =====
+Time: 5394 BufferSize: 23 ChunkCount: 14 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 1.0437 BufferVariation: 0.643302
+=====BUFFER===== 0x256b410 =====
+Time: 6000 BufferSize: 22 VideoLevel: 1200 DownloadTime: 0.313 RequestInterval: 1.0437 BufferVariation: 0.643302
+=====START===== 0x256b410 =====
+Time: 6916 BufferSize: 23 ChunkCount: 15 VideoLevel: 1950 DownloadTime: 0.479 RequestInterval: 1.25579 BufferVariation: 0.265212
+=====BUFFER===== 0x256b410 =====
+Time: 7000 BufferSize: 23 VideoLevel: 1950 DownloadTime: 0.479 RequestInterval: 1.25579 BufferVariation: 0.265212
+=====BUFFER===== 0x256b410 =====
+Time: 8000 BufferSize: 22 VideoLevel: 1950 DownloadTime: 0.479 RequestInterval: 1.25579 BufferVariation: 0.265212
+=====BUFFER===== 0x256b410 =====
+Time: 9000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.479 RequestInterval: 1.25579 BufferVariation: 0.265212
+=====START===== 0x256b410 =====
+Time: 9159 BufferSize: 23 ChunkCount: 16 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.970965 BufferVariation: 0.042035
+=====BUFFER===== 0x256b410 =====
+Time: 10000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.970965 BufferVariation: 0.042035
+=====BUFFER===== 0x256b410 =====
+Time: 11000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.970965 BufferVariation: 0.042035
+=====START===== 0x256b410 =====
+Time: 11118 BufferSize: 23 ChunkCount: 17 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.841371 BufferVariation: 0.170629
+=====BUFFER===== 0x256b410 =====
+Time: 12000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.841371 BufferVariation: 0.170629
+=====START===== 0x256b410 =====
+Time: 12946 BufferSize: 23 ChunkCount: 18 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 1.26352 BufferVariation: -0.250516
+=====BUFFER===== 0x256b410 =====
+Time: 13000 BufferSize: 23 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 1.26352 BufferVariation: -0.250516
+=====BUFFER===== 0x256b410 =====
+Time: 14000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 1.26352 BufferVariation: -0.250516
+=====BUFFER===== 0x256b410 =====
+Time: 15000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 0.987 RequestInterval: 1.26352 BufferVariation: -0.250516
+=====START===== 0x256b410 =====
+Time: 15595 BufferSize: 23 ChunkCount: 19 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.19621 BufferVariation: -0.581211
+=====BUFFER===== 0x256b410 =====
+Time: 16000 BufferSize: 22 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.19621 BufferVariation: -0.581211
+=====BUFFER===== 0x256b410 =====
+Time: 17000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.19621 BufferVariation: -0.581211
+=====BUFFER===== 0x256b410 =====
+Time: 18000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.19621 BufferVariation: -0.581211
+=====START===== 0x256b410 =====
+Time: 18177 BufferSize: 22 ChunkCount: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.948537 BufferVariation: -0.334537
+=====BUFFER===== 0x256b410 =====
+Time: 19000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.948537 BufferVariation: -0.334537
+=====BUFFER===== 0x256b410 =====
+Time: 20000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.948537 BufferVariation: -0.334537
+=====START===== 0x256b410 =====
+Time: 20510 BufferSize: 22 ChunkCount: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.912732 BufferVariation: -0.297732
+=====BUFFER===== 0x256b410 =====
+Time: 21000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.912732 BufferVariation: -0.297732
+=====BUFFER===== 0x256b410 =====
+Time: 22000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.912732 BufferVariation: -0.297732
+=====START===== 0x256b410 =====
+Time: 22808 BufferSize: 21 ChunkCount: 22 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.685331 BufferVariation: -0.0703314
+=====BUFFER===== 0x256b410 =====
+Time: 23000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.685331 BufferVariation: -0.0703314
+=====BUFFER===== 0x256b410 =====
+Time: 24000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.685331 BufferVariation: -0.0703314
+=====START===== 0x256b410 =====
+Time: 24879 BufferSize: 21 ChunkCount: 23 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.664131 BufferVariation: -0.0491306
+=====BUFFER===== 0x256b410 =====
+Time: 25000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.664131 BufferVariation: -0.0491306
+=====BUFFER===== 0x256b410 =====
+Time: 26000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.664131 BufferVariation: -0.0491306
+=====START===== 0x256b410 =====
+Time: 26928 BufferSize: 21 ChunkCount: 24 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.647604 BufferVariation: -0.0326043
+=====BUFFER===== 0x256b410 =====
+Time: 27000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.647604 BufferVariation: -0.0326043
+=====BUFFER===== 0x256b410 =====
+Time: 28000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.647604 BufferVariation: -0.0326043
+=====START===== 0x256b410 =====
+Time: 28961 BufferSize: 21 ChunkCount: 25 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.63465 BufferVariation: -0.0196503
+=====BUFFER===== 0x256b410 =====
+Time: 29000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.63465 BufferVariation: -0.0196503
+=====BUFFER===== 0x256b410 =====
+Time: 30000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.63465 BufferVariation: -0.0196503
+=====START===== 0x256b410 =====
+Time: 30981 BufferSize: 21 ChunkCount: 26 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.624453 BufferVariation: -0.0094529
+=====BUFFER===== 0x256b410 =====
+Time: 31000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.624453 BufferVariation: -0.0094529
+=====BUFFER===== 0x256b410 =====
+Time: 32000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.624453 BufferVariation: -0.0094529
+=====START===== 0x256b410 =====
+Time: 32991 BufferSize: 21 ChunkCount: 27 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.616399 BufferVariation: -0.00139883
+=====BUFFER===== 0x256b410 =====
+Time: 33000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.616399 BufferVariation: -0.00139883
+=====BUFFER===== 0x256b410 =====
+Time: 34000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.616399 BufferVariation: -0.00139883
+=====START===== 0x256b410 =====
+Time: 34993 BufferSize: 21 ChunkCount: 28 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.610174 BufferVariation: 0.00382619
+=====BUFFER===== 0x256b410 =====
+Time: 35000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.610174 BufferVariation: 0.00382619
+=====BUFFER===== 0x256b410 =====
+Time: 36000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.610174 BufferVariation: 0.00382619
+=====START===== 0x256b410 =====
+Time: 36988 BufferSize: 21 ChunkCount: 29 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.605115 BufferVariation: 0.00988482
+=====BUFFER===== 0x256b410 =====
+Time: 37000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.605115 BufferVariation: 0.00988482
+=====BUFFER===== 0x256b410 =====
+Time: 38000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.605115 BufferVariation: 0.00988482
+=====START===== 0x256b410 =====
+Time: 38979 BufferSize: 21 ChunkCount: 30 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.601219 BufferVariation: 0.0127809
+=====BUFFER===== 0x256b410 =====
+Time: 39000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.601219 BufferVariation: 0.0127809
+=====BUFFER===== 0x256b410 =====
+Time: 40000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.601219 BufferVariation: 0.0127809
+=====START===== 0x256b410 =====
+Time: 40965 BufferSize: 21 ChunkCount: 31 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.597995 BufferVariation: 0.0170048
+=====BUFFER===== 0x256b410 =====
+Time: 41000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.597995 BufferVariation: 0.0170048
+=====BUFFER===== 0x256b410 =====
+Time: 42000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.597995 BufferVariation: 0.0170048
+=====START===== 0x256b410 =====
+Time: 42948 BufferSize: 21 ChunkCount: 32 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.595399 BufferVariation: 0.0196005
+=====BUFFER===== 0x256b410 =====
+Time: 43000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.595399 BufferVariation: 0.0196005
+=====BUFFER===== 0x256b410 =====
+Time: 44000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.595399 BufferVariation: 0.0196005
+=====START===== 0x256b410 =====
+Time: 44929 BufferSize: 21 ChunkCount: 33 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.593324 BufferVariation: 0.0216763
+=====BUFFER===== 0x256b410 =====
+Time: 45000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.593324 BufferVariation: 0.0216763
+=====BUFFER===== 0x256b410 =====
+Time: 46000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.593324 BufferVariation: 0.0216763
+=====START===== 0x256b410 =====
+Time: 46908 BufferSize: 21 ChunkCount: 34 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.591815 BufferVariation: 0.0221848
+=====BUFFER===== 0x256b410 =====
+Time: 47000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.591815 BufferVariation: 0.0221848
+=====BUFFER===== 0x256b410 =====
+Time: 48000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.591815 BufferVariation: 0.0221848
+=====START===== 0x256b410 =====
+Time: 48885 BufferSize: 21 ChunkCount: 35 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.590644 BufferVariation: 0.0233562
+=====BUFFER===== 0x256b410 =====
+Time: 49000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.590644 BufferVariation: 0.0233562
+=====BUFFER===== 0x256b410 =====
+Time: 50000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.590644 BufferVariation: 0.0233562
+=====START===== 0x256b410 =====
+Time: 50861 BufferSize: 21 ChunkCount: 36 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.589715 BufferVariation: 0.0242846
+=====BUFFER===== 0x256b410 =====
+Time: 51000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.589715 BufferVariation: 0.0242846
+=====BUFFER===== 0x256b410 =====
+Time: 52000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.589715 BufferVariation: 0.0242846
+=====START===== 0x256b410 =====
+Time: 52836 BufferSize: 21 ChunkCount: 37 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.588975 BufferVariation: 0.0250247
+=====BUFFER===== 0x256b410 =====
+Time: 53000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.588975 BufferVariation: 0.0250247
+=====BUFFER===== 0x256b410 =====
+Time: 54000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.588975 BufferVariation: 0.0250247
+=====START===== 0x256b410 =====
+Time: 54810 BufferSize: 21 ChunkCount: 38 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.588236 BufferVariation: 0.0267642
+=====BUFFER===== 0x256b410 =====
+Time: 55000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.588236 BufferVariation: 0.0267642
+=====BUFFER===== 0x256b410 =====
+Time: 56000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.588236 BufferVariation: 0.0267642
+=====START===== 0x256b410 =====
+Time: 56783 BufferSize: 21 ChunkCount: 39 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.587612 BufferVariation: 0.0273883
+=====BUFFER===== 0x256b410 =====
+Time: 57000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.587612 BufferVariation: 0.0273883
+=====BUFFER===== 0x256b410 =====
+Time: 58000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.587612 BufferVariation: 0.0273883
+=====START===== 0x256b410 =====
+Time: 58756 BufferSize: 21 ChunkCount: 40 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.587105 BufferVariation: 0.0278946
+=====BUFFER===== 0x256b410 =====
+Time: 59000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.587105 BufferVariation: 0.0278946
+=====BUFFER===== 0x256b410 =====
+Time: 60000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.587105 BufferVariation: 0.0278946
+=====START===== 0x256b410 =====
+Time: 60729 BufferSize: 21 ChunkCount: 41 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.586847 BufferVariation: 0.0271531
+=====BUFFER===== 0x256b410 =====
+Time: 61000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.586847 BufferVariation: 0.0271531
+=====BUFFER===== 0x256b410 =====
+Time: 62000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.586847 BufferVariation: 0.0271531
+=====START===== 0x256b410 =====
+Time: 62701 BufferSize: 21 ChunkCount: 42 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.586525 BufferVariation: 0.028475
+=====BUFFER===== 0x256b410 =====
+Time: 63000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.586525 BufferVariation: 0.028475
+=====BUFFER===== 0x256b410 =====
+Time: 64000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.586525 BufferVariation: 0.028475
+=====START===== 0x256b410 =====
+Time: 64673 BufferSize: 21 ChunkCount: 43 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.58639 BufferVariation: 0.0276103
+=====BUFFER===== 0x256b410 =====
+Time: 65000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.58639 BufferVariation: 0.0276103
+=====BUFFER===== 0x256b410 =====
+Time: 66000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.58639 BufferVariation: 0.0276103
+=====START===== 0x256b410 =====
+Time: 66644 BufferSize: 22 ChunkCount: 44 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.786161 BufferVariation: -0.171161
+=====BUFFER===== 0x256b410 =====
+Time: 67000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.786161 BufferVariation: -0.171161
+=====BUFFER===== 0x256b410 =====
+Time: 68000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.786161 BufferVariation: -0.171161
+=====START===== 0x256b410 =====
+Time: 68816 BufferSize: 21 ChunkCount: 45 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585951 BufferVariation: 0.0290489
+=====BUFFER===== 0x256b410 =====
+Time: 69000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585951 BufferVariation: 0.0290489
+=====BUFFER===== 0x256b410 =====
+Time: 70000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585951 BufferVariation: 0.0290489
+=====START===== 0x256b410 =====
+Time: 70787 BufferSize: 21 ChunkCount: 46 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585777 BufferVariation: 0.0292228
+=====BUFFER===== 0x256b410 =====
+Time: 71000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585777 BufferVariation: 0.0292228
+=====BUFFER===== 0x256b410 =====
+Time: 72000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585777 BufferVariation: 0.0292228
+=====START===== 0x256b410 =====
+Time: 72758 BufferSize: 21 ChunkCount: 47 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585637 BufferVariation: 0.0293633
+=====BUFFER===== 0x256b410 =====
+Time: 73000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585637 BufferVariation: 0.0293633
+=====BUFFER===== 0x256b410 =====
+Time: 74000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585637 BufferVariation: 0.0293633
+=====START===== 0x256b410 =====
+Time: 74729 BufferSize: 21 ChunkCount: 48 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585524 BufferVariation: 0.0294759
+=====BUFFER===== 0x256b410 =====
+Time: 75000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585524 BufferVariation: 0.0294759
+=====BUFFER===== 0x256b410 =====
+Time: 76000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585524 BufferVariation: 0.0294759
+=====START===== 0x256b410 =====
+Time: 76700 BufferSize: 21 ChunkCount: 49 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585434 BufferVariation: 0.0295661
+=====BUFFER===== 0x256b410 =====
+Time: 77000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585434 BufferVariation: 0.0295661
+=====BUFFER===== 0x256b410 =====
+Time: 78000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.585434 BufferVariation: 0.0295661
+=====START===== 0x256b410 =====
+Time: 78671 BufferSize: 21 ChunkCount: 50 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.585509 BufferVariation: 0.0284906
+=====BUFFER===== 0x256b410 =====
+Time: 79000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.585509 BufferVariation: 0.0284906
+=====BUFFER===== 0x256b410 =====
+Time: 80000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.585509 BufferVariation: 0.0284906
+=====BUFFER===== 0x256b410 =====
+Time: 81000 BufferSize: 19 VideoLevel: 6050 DownloadTime: 1.386 RequestInterval: 0.585509 BufferVariation: 0.0284906
+=====START===== 0x256b410 =====
+Time: 81121 BufferSize: 21 ChunkCount: 51 VideoLevel: 6050 DownloadTime: 1.865 RequestInterval: 0.643143 BufferVariation: -0.508143
+=====BUFFER===== 0x256b410 =====
+Time: 82000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.865 RequestInterval: 0.643143 BufferVariation: -0.508143
+=====BUFFER===== 0x256b410 =====
+Time: 83000 BufferSize: 19 VideoLevel: 6050 DownloadTime: 1.865 RequestInterval: 0.643143 BufferVariation: -0.508143
+=====BUFFER===== 0x256b410 =====
+Time: 84000 BufferSize: 18 VideoLevel: 6050 DownloadTime: 1.865 RequestInterval: 0.643143 BufferVariation: -0.508143
+=====START===== 0x256b410 =====
+Time: 84431 BufferSize: 20 ChunkCount: 52 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.593574 BufferVariation: -1.26057
+=====BUFFER===== 0x256b410 =====
+Time: 85000 BufferSize: 19 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.593574 BufferVariation: -1.26057
+=====BUFFER===== 0x256b410 =====
+Time: 86000 BufferSize: 18 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.593574 BufferVariation: -1.26057
+=====BUFFER===== 0x256b410 =====
+Time: 87000 BufferSize: 17 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.593574 BufferVariation: -1.26057
+=====START===== 0x256b410 =====
+Time: 87691 BufferSize: 18 ChunkCount: 53 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.330463 BufferVariation: -0.997463
+=====BUFFER===== 0x256b410 =====
+Time: 88000 BufferSize: 18 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.330463 BufferVariation: -0.997463
+=====BUFFER===== 0x256b410 =====
+Time: 89000 BufferSize: 17 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.330463 BufferVariation: -0.997463
+=====BUFFER===== 0x256b410 =====
+Time: 90000 BufferSize: 16 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.330463 BufferVariation: -0.997463
+=====START===== 0x256b410 =====
+Time: 90689 BufferSize: 17 ChunkCount: 54 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.26275 BufferVariation: -0.92975
+=====BUFFER===== 0x256b410 =====
+Time: 91000 BufferSize: 17 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.26275 BufferVariation: -0.92975
+=====BUFFER===== 0x256b410 =====
+Time: 92000 BufferSize: 16 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.26275 BufferVariation: -0.92975
+=====BUFFER===== 0x256b410 =====
+Time: 93000 BufferSize: 15 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.26275 BufferVariation: -0.92975
+=====START===== 0x256b410 =====
+Time: 93618 BufferSize: 17 ChunkCount: 55 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.381516 BufferVariation: -1.04852
+=====BUFFER===== 0x256b410 =====
+Time: 94000 BufferSize: 16 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.381516 BufferVariation: -1.04852
+=====BUFFER===== 0x256b410 =====
+Time: 95000 BufferSize: 15 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.381516 BufferVariation: -1.04852
+=====BUFFER===== 0x256b410 =====
+Time: 96000 BufferSize: 14 VideoLevel: 6050 DownloadTime: 2.667 RequestInterval: 0.381516 BufferVariation: -1.04852
+=====START===== 0x256b410 =====
+Time: 96666 BufferSize: 15 ChunkCount: 56 VideoLevel: 6050 DownloadTime: 2.666 RequestInterval: 0 BufferVariation: -0.666
+=====BUFFER===== 0x256b410 =====
+Time: 97000 BufferSize: 15 VideoLevel: 4250 DownloadTime: 2.666 RequestInterval: 0 BufferVariation: -0.666
+=====BUFFER===== 0x256b410 =====
+Time: 98000 BufferSize: 14 VideoLevel: 4250 DownloadTime: 2.666 RequestInterval: 0 BufferVariation: -0.666
+=====START===== 0x256b410 =====
+Time: 98663 BufferSize: 15 ChunkCount: 57 VideoLevel: 4250 DownloadTime: 1.997 RequestInterval: 0 BufferVariation: 0.003
+=====BUFFER===== 0x256b410 =====
+Time: 99000 BufferSize: 15 VideoLevel: 4250 DownloadTime: 1.997 RequestInterval: 0 BufferVariation: 0.003
+=====BUFFER===== 0x256b410 =====
+Time: 100000 BufferSize: 14 VideoLevel: 4250 DownloadTime: 1.997 RequestInterval: 0 BufferVariation: 0.003
+=====START===== 0x256b410 =====
+Time: 100427 BufferSize: 16 ChunkCount: 58 VideoLevel: 4250 DownloadTime: 1.764 RequestInterval: 0 BufferVariation: 0.236
+=====BUFFER===== 0x256b410 =====
+Time: 101000 BufferSize: 15 VideoLevel: 4250 DownloadTime: 1.764 RequestInterval: 0 BufferVariation: 0.236
+=====START===== 0x256b410 =====
+Time: 101414 BufferSize: 17 ChunkCount: 59 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.0486346 BufferVariation: 0.964365
+=====BUFFER===== 0x256b410 =====
+Time: 102000 BufferSize: 16 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.0486346 BufferVariation: 0.964365
+=====START===== 0x256b410 =====
+Time: 102450 BufferSize: 18 ChunkCount: 60 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.264025 BufferVariation: 0.748975
+=====BUFFER===== 0x256b410 =====
+Time: 103000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.264025 BufferVariation: 0.748975
+=====START===== 0x256b410 =====
+Time: 103701 BufferSize: 18 ChunkCount: 61 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.265651 BufferVariation: 0.747349
+=====BUFFER===== 0x256b410 =====
+Time: 104000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.265651 BufferVariation: 0.747349
+=====START===== 0x256b410 =====
+Time: 104954 BufferSize: 19 ChunkCount: 62 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.456183 BufferVariation: 0.556817
+=====BUFFER===== 0x256b410 =====
+Time: 105000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.456183 BufferVariation: 0.556817
+=====BUFFER===== 0x256b410 =====
+Time: 106000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.456183 BufferVariation: 0.556817
+=====START===== 0x256b410 =====
+Time: 106398 BufferSize: 20 ChunkCount: 63 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.638148 BufferVariation: 0.373852
+=====BUFFER===== 0x256b410 =====
+Time: 107000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.638148 BufferVariation: 0.373852
+=====BUFFER===== 0x256b410 =====
+Time: 108000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.638148 BufferVariation: 0.373852
+=====START===== 0x256b410 =====
+Time: 108023 BufferSize: 20 ChunkCount: 64 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.613765 BufferVariation: 0.399235
+=====BUFFER===== 0x256b410 =====
+Time: 109000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.613765 BufferVariation: 0.399235
+=====START===== 0x256b410 =====
+Time: 109624 BufferSize: 21 ChunkCount: 65 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.784914 BufferVariation: 0.228086
+=====BUFFER===== 0x256b410 =====
+Time: 110000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.784914 BufferVariation: 0.228086
+=====BUFFER===== 0x256b410 =====
+Time: 111000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.784914 BufferVariation: 0.228086
+=====START===== 0x256b410 =====
+Time: 111396 BufferSize: 21 ChunkCount: 66 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.753097 BufferVariation: 0.259903
+=====BUFFER===== 0x256b410 =====
+Time: 112000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.753097 BufferVariation: 0.259903
+=====BUFFER===== 0x256b410 =====
+Time: 113000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.753097 BufferVariation: 0.259903
+=====START===== 0x256b410 =====
+Time: 113137 BufferSize: 21 ChunkCount: 67 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.719487 BufferVariation: 0.293513
+=====BUFFER===== 0x256b410 =====
+Time: 114000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.719487 BufferVariation: 0.293513
+=====START===== 0x256b410 =====
+Time: 114844 BufferSize: 21 ChunkCount: 68 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.684974 BufferVariation: 0.327026
+=====BUFFER===== 0x256b410 =====
+Time: 115000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.684974 BufferVariation: 0.327026
+=====BUFFER===== 0x256b410 =====
+Time: 116000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.684974 BufferVariation: 0.327026
+=====START===== 0x256b410 =====
+Time: 116516 BufferSize: 22 ChunkCount: 69 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.850213 BufferVariation: 0.162787
+=====BUFFER===== 0x256b410 =====
+Time: 117000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.850213 BufferVariation: 0.162787
+=====BUFFER===== 0x256b410 =====
+Time: 118000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.850213 BufferVariation: 0.162787
+=====START===== 0x256b410 =====
+Time: 118354 BufferSize: 22 ChunkCount: 70 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.815691 BufferVariation: 0.196309
+=====BUFFER===== 0x256b410 =====
+Time: 119000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.815691 BufferVariation: 0.196309
+=====BUFFER===== 0x256b410 =====
+Time: 120000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.815691 BufferVariation: 0.196309
+=====START===== 0x256b410 =====
+Time: 120191 BufferSize: 22 ChunkCount: 71 VideoLevel: 4250 DownloadTime: 1.022 RequestInterval: 0.781738 BufferVariation: 0.196262
+=====BUFFER===== 0x256b410 =====
+Time: 121000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 1.022 RequestInterval: 0.781738 BufferVariation: 0.196262
+=====BUFFER===== 0x256b410 =====
+Time: 122000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.022 RequestInterval: 0.781738 BufferVariation: 0.196262
+=====START===== 0x256b410 =====
+Time: 122796 BufferSize: 21 ChunkCount: 72 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.609235 BufferVariation: -0.432235
+=====BUFFER===== 0x256b410 =====
+Time: 123000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.609235 BufferVariation: -0.432235
+=====BUFFER===== 0x256b410 =====
+Time: 124000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.609235 BufferVariation: -0.432235
+=====BUFFER===== 0x256b410 =====
+Time: 125000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.609235 BufferVariation: -0.432235
+=====START===== 0x256b410 =====
+Time: 125229 BufferSize: 21 ChunkCount: 73 VideoLevel: 4250 DownloadTime: 1.824 RequestInterval: 0.677339 BufferVariation: -0.501339
+=====BUFFER===== 0x256b410 =====
+Time: 126000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.824 RequestInterval: 0.677339 BufferVariation: -0.501339
+=====BUFFER===== 0x256b410 =====
+Time: 127000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.824 RequestInterval: 0.677339 BufferVariation: -0.501339
+=====START===== 0x256b410 =====
+Time: 127729 BufferSize: 20 ChunkCount: 74 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.535582 BufferVariation: -0.358582
+=====BUFFER===== 0x256b410 =====
+Time: 128000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.535582 BufferVariation: -0.358582
+=====BUFFER===== 0x256b410 =====
+Time: 129000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.535582 BufferVariation: -0.358582
+=====BUFFER===== 0x256b410 =====
+Time: 130000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.535582 BufferVariation: -0.358582
+=====START===== 0x256b410 =====
+Time: 130087 BufferSize: 20 ChunkCount: 75 VideoLevel: 4250 DownloadTime: 1.822 RequestInterval: 0.585437 BufferVariation: -0.407437
+=====BUFFER===== 0x256b410 =====
+Time: 131000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.822 RequestInterval: 0.585437 BufferVariation: -0.407437
+=====BUFFER===== 0x256b410 =====
+Time: 132000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.822 RequestInterval: 0.585437 BufferVariation: -0.407437
+=====START===== 0x256b410 =====
+Time: 132496 BufferSize: 20 ChunkCount: 76 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.627908 BufferVariation: -0.450908
+=====BUFFER===== 0x256b410 =====
+Time: 133000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.627908 BufferVariation: -0.450908
+=====BUFFER===== 0x256b410 =====
+Time: 134000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.627908 BufferVariation: -0.450908
+=====START===== 0x256b410 =====
+Time: 134947 BufferSize: 19 ChunkCount: 77 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.463554 BufferVariation: -0.286554
+=====BUFFER===== 0x256b410 =====
+Time: 135000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.463554 BufferVariation: -0.286554
+=====BUFFER===== 0x256b410 =====
+Time: 136000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.463554 BufferVariation: -0.286554
+=====BUFFER===== 0x256b410 =====
+Time: 137000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.463554 BufferVariation: -0.286554
+=====START===== 0x256b410 =====
+Time: 137233 BufferSize: 19 ChunkCount: 78 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.493216 BufferVariation: -0.316216
+=====BUFFER===== 0x256b410 =====
+Time: 138000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.493216 BufferVariation: -0.316216
+=====BUFFER===== 0x256b410 =====
+Time: 139000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.493216 BufferVariation: -0.316216
+=====START===== 0x256b410 =====
+Time: 139550 BufferSize: 19 ChunkCount: 79 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.517718 BufferVariation: -0.340718
+=====BUFFER===== 0x256b410 =====
+Time: 140000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.517718 BufferVariation: -0.340718
+=====BUFFER===== 0x256b410 =====
+Time: 141000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.517718 BufferVariation: -0.340718
+=====START===== 0x256b410 =====
+Time: 141055 BufferSize: 19 ChunkCount: 80 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.516342 BufferVariation: 0.496658
+=====BUFFER===== 0x256b410 =====
+Time: 142000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.516342 BufferVariation: 0.496658
+=====START===== 0x256b410 =====
+Time: 142559 BufferSize: 20 ChunkCount: 81 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.70384 BufferVariation: 0.30816
+=====BUFFER===== 0x256b410 =====
+Time: 143000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.70384 BufferVariation: 0.30816
+=====BUFFER===== 0x256b410 =====
+Time: 144000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.70384 BufferVariation: 0.30816
+=====START===== 0x256b410 =====
+Time: 144250 BufferSize: 20 ChunkCount: 82 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.682836 BufferVariation: 0.329164
+=====BUFFER===== 0x256b410 =====
+Time: 145000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.682836 BufferVariation: 0.329164
+=====START===== 0x256b410 =====
+Time: 145920 BufferSize: 20 ChunkCount: 83 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.655627 BufferVariation: 0.357373
+=====BUFFER===== 0x256b410 =====
+Time: 146000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.655627 BufferVariation: 0.357373
+=====BUFFER===== 0x256b410 =====
+Time: 147000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.655627 BufferVariation: 0.357373
+=====START===== 0x256b410 =====
+Time: 147563 BufferSize: 21 ChunkCount: 84 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.824128 BufferVariation: 0.187872
+=====BUFFER===== 0x256b410 =====
+Time: 148000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.824128 BufferVariation: 0.187872
+=====BUFFER===== 0x256b410 =====
+Time: 149000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.824128 BufferVariation: 0.187872
+=====START===== 0x256b410 =====
+Time: 149374 BufferSize: 21 ChunkCount: 85 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.789845 BufferVariation: 0.223155
+=====BUFFER===== 0x256b410 =====
+Time: 150000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.789845 BufferVariation: 0.223155
+=====BUFFER===== 0x256b410 =====
+Time: 151000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.789845 BufferVariation: 0.223155
+=====START===== 0x256b410 =====
+Time: 151151 BufferSize: 21 ChunkCount: 86 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.753965 BufferVariation: 0.259035
+=====BUFFER===== 0x256b410 =====
+Time: 152000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.753965 BufferVariation: 0.259035
+=====START===== 0x256b410 =====
+Time: 152893 BufferSize: 21 ChunkCount: 87 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.71737 BufferVariation: 0.29463
+=====BUFFER===== 0x256b410 =====
+Time: 153000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.71737 BufferVariation: 0.29463
+=====BUFFER===== 0x256b410 =====
+Time: 154000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.71737 BufferVariation: 0.29463
+=====START===== 0x256b410 =====
+Time: 154597 BufferSize: 22 ChunkCount: 88 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.880699 BufferVariation: 0.132301
+=====BUFFER===== 0x256b410 =====
+Time: 155000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.880699 BufferVariation: 0.132301
+=====BUFFER===== 0x256b410 =====
+Time: 156000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.880699 BufferVariation: 0.132301
+=====START===== 0x256b410 =====
+Time: 156465 BufferSize: 22 ChunkCount: 89 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844428 BufferVariation: 0.168572
+=====BUFFER===== 0x256b410 =====
+Time: 157000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844428 BufferVariation: 0.168572
+=====BUFFER===== 0x256b410 =====
+Time: 158000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844428 BufferVariation: 0.168572
+=====START===== 0x256b410 =====
+Time: 158297 BufferSize: 22 ChunkCount: 90 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.808879 BufferVariation: 0.204121
+=====BUFFER===== 0x256b410 =====
+Time: 159000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.808879 BufferVariation: 0.204121
+=====BUFFER===== 0x256b410 =====
+Time: 160000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.808879 BufferVariation: 0.204121
+=====START===== 0x256b410 =====
+Time: 160095 BufferSize: 22 ChunkCount: 91 VideoLevel: 4250 DownloadTime: 0.989 RequestInterval: 0.774267 BufferVariation: 0.236733
+=====BUFFER===== 0x256b410 =====
+Time: 161000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.989 RequestInterval: 0.774267 BufferVariation: 0.236733
+=====BUFFER===== 0x256b410 =====
+Time: 162000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.989 RequestInterval: 0.774267 BufferVariation: 0.236733
+=====START===== 0x256b410 =====
+Time: 162692 BufferSize: 21 ChunkCount: 92 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.600183 BufferVariation: -0.423183
+=====BUFFER===== 0x256b410 =====
+Time: 163000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.600183 BufferVariation: -0.423183
+=====BUFFER===== 0x256b410 =====
+Time: 164000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.600183 BufferVariation: -0.423183
+=====BUFFER===== 0x256b410 =====
+Time: 165000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.600183 BufferVariation: -0.423183
+=====START===== 0x256b410 =====
+Time: 165116 BufferSize: 21 ChunkCount: 93 VideoLevel: 4250 DownloadTime: 1.824 RequestInterval: 0.669436 BufferVariation: -0.493436
+=====BUFFER===== 0x256b410 =====
+Time: 166000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.824 RequestInterval: 0.669436 BufferVariation: -0.493436
+=====BUFFER===== 0x256b410 =====
+Time: 167000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.824 RequestInterval: 0.669436 BufferVariation: -0.493436
+=====START===== 0x256b410 =====
+Time: 167608 BufferSize: 21 ChunkCount: 94 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.728744 BufferVariation: -0.551744
+=====BUFFER===== 0x256b410 =====
+Time: 168000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.728744 BufferVariation: -0.551744
+=====BUFFER===== 0x256b410 =====
+Time: 169000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.728744 BufferVariation: -0.551744
+=====BUFFER===== 0x256b410 =====
+Time: 170000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.728744 BufferVariation: -0.551744
+=====START===== 0x256b410 =====
+Time: 170160 BufferSize: 20 ChunkCount: 95 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.579781 BufferVariation: -0.402781
+=====BUFFER===== 0x256b410 =====
+Time: 171000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.579781 BufferVariation: -0.402781
+=====BUFFER===== 0x256b410 =====
+Time: 172000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.579781 BufferVariation: -0.402781
+=====START===== 0x256b410 =====
+Time: 172563 BufferSize: 20 ChunkCount: 96 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.62313 BufferVariation: -0.44613
+=====BUFFER===== 0x256b410 =====
+Time: 173000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.62313 BufferVariation: -0.44613
+=====BUFFER===== 0x256b410 =====
+Time: 174000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.62313 BufferVariation: -0.44613
+=====BUFFER===== 0x256b410 =====
+Time: 175000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.62313 BufferVariation: -0.44613
+=====START===== 0x256b410 =====
+Time: 175009 BufferSize: 19 ChunkCount: 97 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.459561 BufferVariation: -0.282561
+=====BUFFER===== 0x256b410 =====
+Time: 176000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.459561 BufferVariation: -0.282561
+=====BUFFER===== 0x256b410 =====
+Time: 177000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.459561 BufferVariation: -0.282561
+=====START===== 0x256b410 =====
+Time: 177292 BufferSize: 19 ChunkCount: 98 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.489905 BufferVariation: -0.312905
+=====BUFFER===== 0x256b410 =====
+Time: 178000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.489905 BufferVariation: -0.312905
+=====BUFFER===== 0x256b410 =====
+Time: 179000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.489905 BufferVariation: -0.312905
+=====START===== 0x256b410 =====
+Time: 179605 BufferSize: 19 ChunkCount: 99 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.514991 BufferVariation: -0.337991
+=====BUFFER===== 0x256b410 =====
+Time: 180000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.514991 BufferVariation: -0.337991
+=====BUFFER===== 0x256b410 =====
+Time: 181000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.514991 BufferVariation: -0.337991
+=====START===== 0x256b410 =====
+Time: 181107 BufferSize: 19 ChunkCount: 100 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.514163 BufferVariation: 0.498837
+=====BUFFER===== 0x256b410 =====
+Time: 182000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.514163 BufferVariation: 0.498837
+=====START===== 0x256b410 =====
+Time: 182609 BufferSize: 20 ChunkCount: 101 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.702122 BufferVariation: 0.309878
+=====BUFFER===== 0x256b410 =====
+Time: 183000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.702122 BufferVariation: 0.309878
+=====BUFFER===== 0x256b410 =====
+Time: 184000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.702122 BufferVariation: 0.309878
+=====START===== 0x256b410 =====
+Time: 184298 BufferSize: 20 ChunkCount: 102 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.681495 BufferVariation: 0.331505
+=====BUFFER===== 0x256b410 =====
+Time: 185000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.681495 BufferVariation: 0.331505
+=====START===== 0x256b410 =====
+Time: 185967 BufferSize: 20 ChunkCount: 103 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.654599 BufferVariation: 0.358401
+=====BUFFER===== 0x256b410 =====
+Time: 186000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.654599 BufferVariation: 0.358401
+=====BUFFER===== 0x256b410 =====
+Time: 187000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.654599 BufferVariation: 0.358401
+=====START===== 0x256b410 =====
+Time: 187609 BufferSize: 21 ChunkCount: 104 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.823347 BufferVariation: 0.189653
+=====BUFFER===== 0x256b410 =====
+Time: 188000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.823347 BufferVariation: 0.189653
+=====BUFFER===== 0x256b410 =====
+Time: 189000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.823347 BufferVariation: 0.189653
+=====START===== 0x256b410 =====
+Time: 189420 BufferSize: 21 ChunkCount: 105 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.789266 BufferVariation: 0.222734
+=====BUFFER===== 0x256b410 =====
+Time: 190000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.789266 BufferVariation: 0.222734
+=====BUFFER===== 0x256b410 =====
+Time: 191000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.789266 BufferVariation: 0.222734
+=====START===== 0x256b410 =====
+Time: 191196 BufferSize: 21 ChunkCount: 106 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.753532 BufferVariation: 0.259468
+=====BUFFER===== 0x256b410 =====
+Time: 192000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.753532 BufferVariation: 0.259468
+=====START===== 0x256b410 =====
+Time: 192937 BufferSize: 21 ChunkCount: 107 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.717049 BufferVariation: 0.295951
+=====BUFFER===== 0x256b410 =====
+Time: 193000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.717049 BufferVariation: 0.295951
+=====BUFFER===== 0x256b410 =====
+Time: 194000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.717049 BufferVariation: 0.295951
+=====START===== 0x256b410 =====
+Time: 194641 BufferSize: 22 ChunkCount: 108 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.880472 BufferVariation: 0.132528
+=====BUFFER===== 0x256b410 =====
+Time: 195000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.880472 BufferVariation: 0.132528
+=====BUFFER===== 0x256b410 =====
+Time: 196000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.880472 BufferVariation: 0.132528
+=====START===== 0x256b410 =====
+Time: 196509 BufferSize: 22 ChunkCount: 109 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844272 BufferVariation: 0.168728
+=====BUFFER===== 0x256b410 =====
+Time: 197000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844272 BufferVariation: 0.168728
+=====BUFFER===== 0x256b410 =====
+Time: 198000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844272 BufferVariation: 0.168728
+=====START===== 0x256b410 =====
+Time: 198341 BufferSize: 22 ChunkCount: 110 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.808776 BufferVariation: 0.203224
+=====BUFFER===== 0x256b410 =====
+Time: 199000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.808776 BufferVariation: 0.203224
+=====BUFFER===== 0x256b410 =====
+Time: 200000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.808776 BufferVariation: 0.203224
+=====START===== 0x256b410 =====
+Time: 200161 BufferSize: 22 ChunkCount: 111 VideoLevel: 4250 DownloadTime: 1.012 RequestInterval: 0.774196 BufferVariation: 0.213804
+=====BUFFER===== 0x256b410 =====
+Time: 201000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 1.012 RequestInterval: 0.774196 BufferVariation: 0.213804
+=====BUFFER===== 0x256b410 =====
+Time: 202000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.012 RequestInterval: 0.774196 BufferVariation: 0.213804
+=====START===== 0x256b410 =====
+Time: 202759 BufferSize: 21 ChunkCount: 112 VideoLevel: 4250 DownloadTime: 1.824 RequestInterval: 0.601446 BufferVariation: -0.425446
+=====BUFFER===== 0x256b410 =====
+Time: 203000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 1.824 RequestInterval: 0.601446 BufferVariation: -0.425446
+=====BUFFER===== 0x256b410 =====
+Time: 204000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.824 RequestInterval: 0.601446 BufferVariation: -0.425446
+=====BUFFER===== 0x256b410 =====
+Time: 205000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.824 RequestInterval: 0.601446 BufferVariation: -0.425446
+=====START===== 0x256b410 =====
+Time: 205183 BufferSize: 21 ChunkCount: 113 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.670442 BufferVariation: -0.493442
+=====BUFFER===== 0x256b410 =====
+Time: 206000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.670442 BufferVariation: -0.493442
+=====BUFFER===== 0x256b410 =====
+Time: 207000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.670442 BufferVariation: -0.493442
+=====START===== 0x256b410 =====
+Time: 207676 BufferSize: 20 ChunkCount: 114 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.529618 BufferVariation: -0.352618
+=====BUFFER===== 0x256b410 =====
+Time: 208000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.529618 BufferVariation: -0.352618
+=====BUFFER===== 0x256b410 =====
+Time: 209000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.529618 BufferVariation: -0.352618
+=====BUFFER===== 0x256b410 =====
+Time: 210000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.529618 BufferVariation: -0.352618
+=====START===== 0x256b410 =====
+Time: 210029 BufferSize: 20 ChunkCount: 115 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.580527 BufferVariation: -0.403527
+=====BUFFER===== 0x256b410 =====
+Time: 211000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.580527 BufferVariation: -0.403527
+=====BUFFER===== 0x256b410 =====
+Time: 212000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.580527 BufferVariation: -0.403527
+=====START===== 0x256b410 =====
+Time: 212433 BufferSize: 20 ChunkCount: 116 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.62376 BufferVariation: -0.44676
+=====BUFFER===== 0x256b410 =====
+Time: 213000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.62376 BufferVariation: -0.44676
+=====BUFFER===== 0x256b410 =====
+Time: 214000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.62376 BufferVariation: -0.44676
+=====START===== 0x256b410 =====
+Time: 214880 BufferSize: 19 ChunkCount: 117 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.460088 BufferVariation: -0.283088
+=====BUFFER===== 0x256b410 =====
+Time: 215000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.460088 BufferVariation: -0.283088
+=====BUFFER===== 0x256b410 =====
+Time: 216000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.460088 BufferVariation: -0.283088
+=====BUFFER===== 0x256b410 =====
+Time: 217000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.460088 BufferVariation: -0.283088
+=====START===== 0x256b410 =====
+Time: 217163 BufferSize: 19 ChunkCount: 118 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.490342 BufferVariation: -0.313342
+=====BUFFER===== 0x256b410 =====
+Time: 218000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.490342 BufferVariation: -0.313342
+=====BUFFER===== 0x256b410 =====
+Time: 219000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.490342 BufferVariation: -0.313342
+=====START===== 0x256b410 =====
+Time: 219476 BufferSize: 19 ChunkCount: 119 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.515351 BufferVariation: -0.338351
+=====BUFFER===== 0x256b410 =====
+Time: 220000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.515351 BufferVariation: -0.338351
+=====START===== 0x256b410 =====
+Time: 220979 BufferSize: 19 ChunkCount: 120 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.514451 BufferVariation: 0.498549
+=====BUFFER===== 0x256b410 =====
+Time: 221000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.514451 BufferVariation: 0.498549
+=====BUFFER===== 0x256b410 =====
+Time: 222000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.514451 BufferVariation: 0.498549
+=====START===== 0x256b410 =====
+Time: 222481 BufferSize: 20 ChunkCount: 121 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.702349 BufferVariation: 0.309651
+=====BUFFER===== 0x256b410 =====
+Time: 223000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.702349 BufferVariation: 0.309651
+=====BUFFER===== 0x256b410 =====
+Time: 224000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.702349 BufferVariation: 0.309651
+=====START===== 0x256b410 =====
+Time: 224170 BufferSize: 20 ChunkCount: 122 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.681672 BufferVariation: 0.331328
+=====BUFFER===== 0x256b410 =====
+Time: 225000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.681672 BufferVariation: 0.331328
+=====START===== 0x256b410 =====
+Time: 225839 BufferSize: 20 ChunkCount: 123 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.654736 BufferVariation: 0.358264
+=====BUFFER===== 0x256b410 =====
+Time: 226000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.654736 BufferVariation: 0.358264
+=====BUFFER===== 0x256b410 =====
+Time: 227000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.654736 BufferVariation: 0.358264
+=====START===== 0x256b410 =====
+Time: 227481 BufferSize: 21 ChunkCount: 124 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.823452 BufferVariation: 0.189548
+=====BUFFER===== 0x256b410 =====
+Time: 228000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.823452 BufferVariation: 0.189548
+=====BUFFER===== 0x256b410 =====
+Time: 229000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.823452 BufferVariation: 0.189548
+=====START===== 0x256b410 =====
+Time: 229292 BufferSize: 21 ChunkCount: 125 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.789347 BufferVariation: 0.223653
+=====BUFFER===== 0x256b410 =====
+Time: 230000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.789347 BufferVariation: 0.223653
+=====BUFFER===== 0x256b410 =====
+Time: 231000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.789347 BufferVariation: 0.223653
+=====START===== 0x256b410 =====
+Time: 231069 BufferSize: 21 ChunkCount: 126 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.753604 BufferVariation: 0.259396
+=====BUFFER===== 0x256b410 =====
+Time: 232000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.753604 BufferVariation: 0.259396
+=====START===== 0x256b410 =====
+Time: 232810 BufferSize: 21 ChunkCount: 127 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.717112 BufferVariation: 0.294888
+=====BUFFER===== 0x256b410 =====
+Time: 233000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.717112 BufferVariation: 0.294888
+=====BUFFER===== 0x256b410 =====
+Time: 234000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.717112 BufferVariation: 0.294888
+=====START===== 0x256b410 =====
+Time: 234514 BufferSize: 22 ChunkCount: 128 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.88052 BufferVariation: 0.13248
+=====BUFFER===== 0x256b410 =====
+Time: 235000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.88052 BufferVariation: 0.13248
+=====BUFFER===== 0x256b410 =====
+Time: 236000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.88052 BufferVariation: 0.13248
+=====START===== 0x256b410 =====
+Time: 236382 BufferSize: 22 ChunkCount: 129 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844309 BufferVariation: 0.168691
+=====BUFFER===== 0x256b410 =====
+Time: 237000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844309 BufferVariation: 0.168691
+=====BUFFER===== 0x256b410 =====
+Time: 238000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844309 BufferVariation: 0.168691
+=====START===== 0x256b410 =====
+Time: 238214 BufferSize: 22 ChunkCount: 130 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.808804 BufferVariation: 0.203196
+=====BUFFER===== 0x256b410 =====
+Time: 239000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.808804 BufferVariation: 0.203196
+=====BUFFER===== 0x256b410 =====
+Time: 240000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.808804 BufferVariation: 0.203196
+=====START===== 0x256b410 =====
+Time: 240010 BufferSize: 22 ChunkCount: 131 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.774217 BufferVariation: 0.237783
+=====BUFFER===== 0x256b410 =====
+Time: 241000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.774217 BufferVariation: 0.237783
+=====BUFFER===== 0x256b410 =====
+Time: 242000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.774217 BufferVariation: 0.237783
+=====START===== 0x256b410 =====
+Time: 242607 BufferSize: 22 ChunkCount: 132 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.80009 BufferVariation: -0.62309
+=====BUFFER===== 0x256b410 =====
+Time: 243000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.80009 BufferVariation: -0.62309
+=====BUFFER===== 0x256b410 =====
+Time: 244000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.80009 BufferVariation: -0.62309
+=====BUFFER===== 0x256b410 =====
+Time: 245000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.80009 BufferVariation: -0.62309
+=====START===== 0x256b410 =====
+Time: 245230 BufferSize: 21 ChunkCount: 133 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.669252 BufferVariation: -0.492252
+=====BUFFER===== 0x256b410 =====
+Time: 246000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.669252 BufferVariation: -0.492252
+=====BUFFER===== 0x256b410 =====
+Time: 247000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.669252 BufferVariation: -0.492252
+=====START===== 0x256b410 =====
+Time: 247723 BufferSize: 20 ChunkCount: 134 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.528588 BufferVariation: -0.351588
+=====BUFFER===== 0x256b410 =====
+Time: 248000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.528588 BufferVariation: -0.351588
+=====BUFFER===== 0x256b410 =====
+Time: 249000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.528588 BufferVariation: -0.351588
+=====BUFFER===== 0x256b410 =====
+Time: 250000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.528588 BufferVariation: -0.351588
+=====START===== 0x256b410 =====
+Time: 250074 BufferSize: 20 ChunkCount: 135 VideoLevel: 4250 DownloadTime: 1.822 RequestInterval: 0.579467 BufferVariation: -0.401467
+=====BUFFER===== 0x256b410 =====
+Time: 251000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.822 RequestInterval: 0.579467 BufferVariation: -0.401467
+=====BUFFER===== 0x256b410 =====
+Time: 252000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.822 RequestInterval: 0.579467 BufferVariation: -0.401467
+=====START===== 0x256b410 =====
+Time: 252477 BufferSize: 20 ChunkCount: 136 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.622869 BufferVariation: -0.445869
+=====BUFFER===== 0x256b410 =====
+Time: 253000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.622869 BufferVariation: -0.445869
+=====BUFFER===== 0x256b410 =====
+Time: 254000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.622869 BufferVariation: -0.445869
+=====START===== 0x256b410 =====
+Time: 254923 BufferSize: 19 ChunkCount: 137 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.459343 BufferVariation: -0.282343
+=====BUFFER===== 0x256b410 =====
+Time: 255000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.459343 BufferVariation: -0.282343
+=====BUFFER===== 0x256b410 =====
+Time: 256000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.459343 BufferVariation: -0.282343
+=====BUFFER===== 0x256b410 =====
+Time: 257000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.459343 BufferVariation: -0.282343
+=====START===== 0x256b410 =====
+Time: 257205 BufferSize: 19 ChunkCount: 138 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.489724 BufferVariation: -0.312724
+=====BUFFER===== 0x256b410 =====
+Time: 258000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.489724 BufferVariation: -0.312724
+=====BUFFER===== 0x256b410 =====
+Time: 259000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.489724 BufferVariation: -0.312724
+=====START===== 0x256b410 =====
+Time: 259518 BufferSize: 19 ChunkCount: 139 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.514842 BufferVariation: -0.337842
+=====BUFFER===== 0x256b410 =====
+Time: 260000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.514842 BufferVariation: -0.337842
+=====BUFFER===== 0x256b410 =====
+Time: 261000 BufferSize: 17 VideoLevel: 4250 DownloadTime: 1.823 RequestInterval: 0.514842 BufferVariation: -0.337842
+=====START===== 0x256b410 =====
+Time: 261020 BufferSize: 19 ChunkCount: 140 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.514044 BufferVariation: 0.498956
+=====BUFFER===== 0x256b410 =====
+Time: 262000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.514044 BufferVariation: 0.498956
+=====START===== 0x256b410 =====
+Time: 262522 BufferSize: 20 ChunkCount: 141 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.702028 BufferVariation: 0.309972
+=====BUFFER===== 0x256b410 =====
+Time: 263000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.702028 BufferVariation: 0.309972
+=====BUFFER===== 0x256b410 =====
+Time: 264000 BufferSize: 18 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.702028 BufferVariation: 0.309972
+=====START===== 0x256b410 =====
+Time: 264211 BufferSize: 20 ChunkCount: 142 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.681421 BufferVariation: 0.331579
+=====BUFFER===== 0x256b410 =====
+Time: 265000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.681421 BufferVariation: 0.331579
+=====START===== 0x256b410 =====
+Time: 265880 BufferSize: 20 ChunkCount: 143 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.654542 BufferVariation: 0.357458
+=====BUFFER===== 0x256b410 =====
+Time: 266000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.654542 BufferVariation: 0.357458
+=====BUFFER===== 0x256b410 =====
+Time: 267000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.654542 BufferVariation: 0.357458
+=====START===== 0x256b410 =====
+Time: 267522 BufferSize: 21 ChunkCount: 144 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.823292 BufferVariation: 0.188708
+=====BUFFER===== 0x256b410 =====
+Time: 268000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.823292 BufferVariation: 0.188708
+=====BUFFER===== 0x256b410 =====
+Time: 269000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.823292 BufferVariation: 0.188708
+=====START===== 0x256b410 =====
+Time: 269332 BufferSize: 21 ChunkCount: 145 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.789205 BufferVariation: 0.223795
+=====BUFFER===== 0x256b410 =====
+Time: 270000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.789205 BufferVariation: 0.223795
+=====BUFFER===== 0x256b410 =====
+Time: 271000 BufferSize: 19 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.789205 BufferVariation: 0.223795
+=====START===== 0x256b410 =====
+Time: 271109 BufferSize: 21 ChunkCount: 146 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.753475 BufferVariation: 0.258525
+=====BUFFER===== 0x256b410 =====
+Time: 272000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.753475 BufferVariation: 0.258525
+=====START===== 0x256b410 =====
+Time: 272849 BufferSize: 21 ChunkCount: 147 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.716987 BufferVariation: 0.296013
+=====BUFFER===== 0x256b410 =====
+Time: 273000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.716987 BufferVariation: 0.296013
+=====BUFFER===== 0x256b410 =====
+Time: 274000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.716987 BufferVariation: 0.296013
+=====START===== 0x256b410 =====
+Time: 274554 BufferSize: 22 ChunkCount: 148 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.880408 BufferVariation: 0.131592
+=====BUFFER===== 0x256b410 =====
+Time: 275000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.880408 BufferVariation: 0.131592
+=====BUFFER===== 0x256b410 =====
+Time: 276000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.880408 BufferVariation: 0.131592
+=====START===== 0x256b410 =====
+Time: 276421 BufferSize: 22 ChunkCount: 149 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844198 BufferVariation: 0.168802
+=====BUFFER===== 0x256b410 =====
+Time: 277000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844198 BufferVariation: 0.168802
+=====BUFFER===== 0x256b410 =====
+Time: 278000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.844198 BufferVariation: 0.168802
+=====START===== 0x256b410 =====
+Time: 278253 BufferSize: 22 ChunkCount: 150 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.808696 BufferVariation: 0.204304
+=====BUFFER===== 0x256b410 =====
+Time: 279000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.808696 BufferVariation: 0.204304
+=====BUFFER===== 0x256b410 =====
+Time: 280000 BufferSize: 20 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.808696 BufferVariation: 0.204304
+=====START===== 0x256b410 =====
+Time: 280049 BufferSize: 22 ChunkCount: 151 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.774121 BufferVariation: 0.238879
+=====BUFFER===== 0x256b410 =====
+Time: 281000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.774121 BufferVariation: 0.238879
+=====START===== 0x256b410 =====
+Time: 281810 BufferSize: 22 ChunkCount: 152 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.74061 BufferVariation: 0.27239
+=====BUFFER===== 0x256b410 =====
+Time: 282000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.74061 BufferVariation: 0.27239
+=====BUFFER===== 0x256b410 =====
+Time: 283000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.74061 BufferVariation: 0.27239
+=====START===== 0x256b410 =====
+Time: 283538 BufferSize: 23 ChunkCount: 153 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.908243 BufferVariation: 0.104757
+=====BUFFER===== 0x256b410 =====
+Time: 284000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.908243 BufferVariation: 0.104757
+=====BUFFER===== 0x256b410 =====
+Time: 285000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.908243 BufferVariation: 0.104757
+=====START===== 0x256b410 =====
+Time: 285434 BufferSize: 23 ChunkCount: 154 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.87706 BufferVariation: 0.13594
+=====BUFFER===== 0x256b410 =====
+Time: 286000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.87706 BufferVariation: 0.13594
+=====BUFFER===== 0x256b410 =====
+Time: 287000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.87706 BufferVariation: 0.13594
+=====START===== 0x256b410 =====
+Time: 287298 BufferSize: 23 ChunkCount: 155 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.847066 BufferVariation: 0.165934
+=====BUFFER===== 0x256b410 =====
+Time: 288000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.847066 BufferVariation: 0.165934
+=====BUFFER===== 0x256b410 =====
+Time: 289000 BufferSize: 21 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 0.847066 BufferVariation: 0.165934
+=====START===== 0x256b410 =====
+Time: 289133 BufferSize: 23 ChunkCount: 156 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.818248 BufferVariation: 0.193752
+=====BUFFER===== 0x256b410 =====
+Time: 290000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.988 RequestInterval: 0.818248 BufferVariation: 0.193752
+=====START===== 0x256b410 =====
+Time: 290938 BufferSize: 23 ChunkCount: 157 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 1.29482 BufferVariation: -0.281817
+=====BUFFER===== 0x256b410 =====
+Time: 291000 BufferSize: 23 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 1.29482 BufferVariation: -0.281817
+=====BUFFER===== 0x256b410 =====
+Time: 292000 BufferSize: 22 VideoLevel: 4250 DownloadTime: 0.987 RequestInterval: 1.29482 BufferVariation: -0.281817
+=====BUFFER===== 0x256b410 =====
+Time: 293000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 0.987 RequestInterval: 1.29482 BufferVariation: -0.281817
+=====START===== 0x256b410 =====
+Time: 293618 BufferSize: 23 ChunkCount: 158 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.03817 BufferVariation: -0.42317
+=====BUFFER===== 0x256b410 =====
+Time: 294000 BufferSize: 22 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.03817 BufferVariation: -0.42317
+=====BUFFER===== 0x256b410 =====
+Time: 295000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.03817 BufferVariation: -0.42317
+=====BUFFER===== 0x256b410 =====
+Time: 296000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 1.03817 BufferVariation: -0.42317
+=====START===== 0x256b410 =====
+Time: 296042 BufferSize: 22 ChunkCount: 159 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.79205 BufferVariation: -0.17705
+=====BUFFER===== 0x256b410 =====
+Time: 297000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.79205 BufferVariation: -0.17705
+=====BUFFER===== 0x256b410 =====
+Time: 298000 BufferSize: 20 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.79205 BufferVariation: -0.17705
+=====START===== 0x256b410 =====
+Time: 298219 BufferSize: 22 ChunkCount: 160 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.783007 BufferVariation: -0.168007
+=====BUFFER===== 0x256b410 =====
+Time: 299000 BufferSize: 21 VideoLevel: 6050 DownloadTime: 1.385 RequestInterval: 0.783007 BufferVariation: -0.168007

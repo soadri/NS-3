@@ -1,0 +1,1664 @@
+Waf: Entering directory `/home/min3/ns-allinone-3.26/ns-3.26/build'
+[816/871] Compiling PROPOSED.cc
+[863/871] Linking ../build/scratch/PROPOSED
+Waf: Leaving directory `/home/min3/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (3.932s)
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 0 bufferSize_proposed: 0 hasThroughput_proposed: 0 estimatedBW_proposed: 0 videoLevel_proposed: 450
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 645 target_proposed: 1.395e+06 bpsLastChunk_proposed: 1395 downloadDuration_proposed: 0.645 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 792 target_proposed: 1.50336e+06 bpsLastChunk_proposed: 6122 downloadDuration_proposed: 0.147 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 1 bufferSize_proposed: 3 hasThroughput_proposed: 1446 estimatedBW_proposed: 1416.67 videoLevel_proposed: 1200
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 1105 target_proposed: 1.52806e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 1418 target_proposed: 1.58064e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 1731 target_proposed: 1.63322e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 2 bufferSize_proposed: 8 hasThroughput_proposed: 1998 estimatedBW_proposed: 1500.47 videoLevel_proposed: 1200
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 2044 target_proposed: 1.68581e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 2357 target_proposed: 1.73839e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 2670 target_proposed: 1.79098e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 2983 target_proposed: 1.84356e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 3 bufferSize_proposed: 15 hasThroughput_proposed: 0 estimatedBW_proposed: 1665 videoLevel_proposed: 1200
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 3296 target_proposed: 1.89614e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 3609 target_proposed: 1.94873e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 0.16462 Interval Ratio: 1.90134
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 4 bufferSize_proposed: 18 hasThroughput_proposed: 1613 estimatedBW_proposed: 1758.73 videoLevel_proposed: 1200
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 4086 target_proposed: 2.00131e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 0.327987 Interval Ratio: 0.954307
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 4727 target_proposed: 3.17571e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 0.353325 Interval Ratio: 0.885869
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 5 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 2080.94 videoLevel_proposed: 1200
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 5394 target_proposed: 5.18322e+06 bpsLastChunk_proposed: 7667 downloadDuration_proposed: 0.313 requestInterval_proposed: 1.0437 Interval Ratio: 0.299895
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 6 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 2701.4 videoLevel_proposed: 1200
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 6916 target_proposed: 1.4862e+07 bpsLastChunk_proposed: 8141 downloadDuration_proposed: 0.479 requestInterval_proposed: 1.25579 Interval Ratio: 0.381434
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 7 bufferSize_proposed: 23 hasThroughput_proposed: 0 estimatedBW_proposed: 5133.51 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 8 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 5133.51 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 9 bufferSize_proposed: 21 hasThroughput_proposed: 7053 estimatedBW_proposed: 5133.51 videoLevel_proposed: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 9159 target_proposed: 1.0466e+07 bpsLastChunk_proposed: 8611 downloadDuration_proposed: 0.987 requestInterval_proposed: 0.970965 Interval Ratio: 1.01651
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 10 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 6200.01 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 11 bufferSize_proposed: 21 hasThroughput_proposed: 7430 estimatedBW_proposed: 6200.01 videoLevel_proposed: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 11118 target_proposed: 9.43629e+06 bpsLastChunk_proposed: 8603 downloadDuration_proposed: 0.988 requestInterval_proposed: 0.841371 Interval Ratio: 1.17427
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 12 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 6847.27 videoLevel_proposed: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 12946 target_proposed: 8.97968e+06 bpsLastChunk_proposed: 8611 downloadDuration_proposed: 0.987 requestInterval_proposed: 1.26352 Interval Ratio: 0.781154
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 13 bufferSize_proposed: 23 hasThroughput_proposed: 0 estimatedBW_proposed: 7273.75 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 14 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 7273.75 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 15 bufferSize_proposed: 21 hasThroughput_proposed: 6709 estimatedBW_proposed: 7273.75 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 15595 target_proposed: 8.80726e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 1.19621 Interval Ratio: 1.15782
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 16 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 7580.45 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 17 bufferSize_proposed: 21 hasThroughput_proposed: 1449 estimatedBW_proposed: 7580.45 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 18 bufferSize_proposed: 20 hasThroughput_proposed: 10498 estimatedBW_proposed: 7580.45 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 18177 target_proposed: 8.74734e+06 bpsLastChunk_proposed: 8730 downloadDuration_proposed: 1.386 requestInterval_proposed: 0.948537 Interval Ratio: 1.4612
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 19 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 7813.83 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 20 bufferSize_proposed: 20 hasThroughput_proposed: 7475 estimatedBW_proposed: 7813.83 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 20510 target_proposed: 8.73854e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.912732 Interval Ratio: 1.51742
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 21 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 7998.77 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 22 bufferSize_proposed: 20 hasThroughput_proposed: 4780 estimatedBW_proposed: 7998.77 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 22808 target_proposed: 8.73657e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.685331 Interval Ratio: 2.02092
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 23 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8146.33 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 24 bufferSize_proposed: 20 hasThroughput_proposed: 4141 estimatedBW_proposed: 8146.33 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 24879 target_proposed: 8.73613e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.664131 Interval Ratio: 2.08543
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 25 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8264.29 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 26 bufferSize_proposed: 20 hasThroughput_proposed: 3694 estimatedBW_proposed: 8264.29 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 26928 target_proposed: 8.73603e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.647604 Interval Ratio: 2.13865
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 27 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8358.64 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 28 bufferSize_proposed: 20 hasThroughput_proposed: 3395 estimatedBW_proposed: 8358.64 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 28961 target_proposed: 8.73601e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.63465 Interval Ratio: 2.1823
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 29 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8434.11 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 30 bufferSize_proposed: 20 hasThroughput_proposed: 3215 estimatedBW_proposed: 8434.11 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 30981 target_proposed: 8.736e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.624453 Interval Ratio: 2.21794
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 31 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8494.49 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 32 bufferSize_proposed: 20 hasThroughput_proposed: 3129 estimatedBW_proposed: 8494.49 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 32991 target_proposed: 8.736e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.616399 Interval Ratio: 2.24692
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 33 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8542.79 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 34 bufferSize_proposed: 20 hasThroughput_proposed: 3113 estimatedBW_proposed: 8542.79 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 34993 target_proposed: 8.73135e+06 bpsLastChunk_proposed: 8730 downloadDuration_proposed: 1.386 requestInterval_proposed: 0.610174 Interval Ratio: 2.27148
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 35 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8580.5 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 36 bufferSize_proposed: 20 hasThroughput_proposed: 3154 estimatedBW_proposed: 8580.5 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 36988 target_proposed: 8.73496e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.605115 Interval Ratio: 2.28882
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 37 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8611.39 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 38 bufferSize_proposed: 20 hasThroughput_proposed: 3239 estimatedBW_proposed: 8611.39 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 38979 target_proposed: 8.73111e+06 bpsLastChunk_proposed: 8730 downloadDuration_proposed: 1.386 requestInterval_proposed: 0.601219 Interval Ratio: 2.30532
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 39 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8635.34 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 40 bufferSize_proposed: 20 hasThroughput_proposed: 3362 estimatedBW_proposed: 8635.34 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 40965 target_proposed: 8.73491e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.597995 Interval Ratio: 2.31607
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 41 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8655.25 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 42 bufferSize_proposed: 20 hasThroughput_proposed: 3514 estimatedBW_proposed: 8655.25 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 42948 target_proposed: 8.73575e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.595399 Interval Ratio: 2.32617
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 43 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8671.35 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 44 bufferSize_proposed: 20 hasThroughput_proposed: 3690 estimatedBW_proposed: 8671.35 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 44929 target_proposed: 8.73594e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.593324 Interval Ratio: 2.33431
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 45 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8684.27 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 46 bufferSize_proposed: 20 hasThroughput_proposed: 3883 estimatedBW_proposed: 8684.27 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 46908 target_proposed: 8.73133e+06 bpsLastChunk_proposed: 8730 downloadDuration_proposed: 1.386 requestInterval_proposed: 0.591815 Interval Ratio: 2.34195
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 47 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8693.68 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 48 bufferSize_proposed: 20 hasThroughput_proposed: 4091 estimatedBW_proposed: 8693.68 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 48885 target_proposed: 8.7303e+06 bpsLastChunk_proposed: 8730 downloadDuration_proposed: 1.386 requestInterval_proposed: 0.590644 Interval Ratio: 2.34659
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 49 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8701.01 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 50 bufferSize_proposed: 20 hasThroughput_proposed: 4309 estimatedBW_proposed: 8701.01 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 50861 target_proposed: 8.73007e+06 bpsLastChunk_proposed: 8730 downloadDuration_proposed: 1.386 requestInterval_proposed: 0.589715 Interval Ratio: 2.35029
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 51 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8706.82 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 52 bufferSize_proposed: 20 hasThroughput_proposed: 4534 estimatedBW_proposed: 8706.82 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 52836 target_proposed: 8.73001e+06 bpsLastChunk_proposed: 8730 downloadDuration_proposed: 1.386 requestInterval_proposed: 0.588975 Interval Ratio: 2.35324
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 53 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8711.46 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 54 bufferSize_proposed: 20 hasThroughput_proposed: 4767 estimatedBW_proposed: 8711.46 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 54810 target_proposed: 8.73466e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.588236 Interval Ratio: 2.3545
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 55 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8716.1 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 56 bufferSize_proposed: 20 hasThroughput_proposed: 5005 estimatedBW_proposed: 8716.1 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 56783 target_proposed: 8.7357e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.587612 Interval Ratio: 2.357
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 57 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8720.02 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 58 bufferSize_proposed: 20 hasThroughput_proposed: 5251 estimatedBW_proposed: 8720.02 videoLevel_proposed: 6050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 58756 target_proposed: 8.73593e+06 bpsLastChunk_proposed: 8736 downloadDuration_proposed: 1.385 requestInterval_proposed: 0.587105 Interval Ratio: 2.35903
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 59 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8723.2 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 60 bufferSize_proposed: 20 hasThroughput_proposed: 5500 estimatedBW_proposed: 8723.2 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 60 bufferSize_proposed2: 0 hasThroughput_proposed2: 0 estimatedBW_proposed2: 0 videoLevel_proposed2: 450
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 60736 target_proposed: 8.6972e+06 bpsLastChunk_proposed: 8686 downloadDuration_proposed: 1.393 requestInterval_proposed: 0.587933 Interval Ratio: 2.36932
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 61 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 8718 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 61 bufferSize_proposed2: 0 hasThroughput_proposed2: 591 estimatedBW_proposed2: 0 videoLevel_proposed2: 450
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 61053 target_proposed2: 854000 bpsLastChunk_proposed2: 854 downloadDuration_proposed2: 1.053 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 61255 target_proposed2: 1.0309e+06 bpsLastChunk_proposed2: 6930 downloadDuration_proposed2: 0.202 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 61573 target_proposed2: 1.06484e+06 bpsLastChunk_proposed2: 4402 downloadDuration_proposed2: 0.318 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 61962 target_proposed2: 1.11826e+06 bpsLastChunk_proposed2: 3598 downloadDuration_proposed2: 0.389 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 62 bufferSize_proposed: 20 hasThroughput_proposed: 3510 estimatedBW_proposed: 8718 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 62 bufferSize_proposed2: 7 hasThroughput_proposed2: 0 estimatedBW_proposed2: 963.231 videoLevel_proposed2: 700
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 62352 target_proposed2: 1.18362e+06 bpsLastChunk_proposed2: 3589 downloadDuration_proposed2: 0.39 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 62742 target_proposed2: 1.24914e+06 bpsLastChunk_proposed2: 3589 downloadDuration_proposed2: 0.39 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 63 bufferSize_proposed: 19 hasThroughput_proposed: 8720 estimatedBW_proposed: 8718 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 63 bufferSize_proposed2: 10 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 1055.67 videoLevel_proposed2: 700
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 63131 target_proposed2: 1.31466e+06 bpsLastChunk_proposed2: 3598 downloadDuration_proposed2: 0.389 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 63521 target_proposed2: 1.38001e+06 bpsLastChunk_proposed2: 3589 downloadDuration_proposed2: 0.39 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 63566 target_proposed: 6.122e+06 bpsLastChunk_proposed: 5396 downloadDuration_proposed: 2.242 requestInterval_proposed: 0.675825 Interval Ratio: 3.31742
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 63723 target_proposed2: 1.44553e+06 bpsLastChunk_proposed2: 6930 downloadDuration_proposed2: 0.202 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 63926 target_proposed2: 1.47946e+06 bpsLastChunk_proposed2: 6896 downloadDuration_proposed2: 0.203 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 64 bufferSize_proposed: 20 hasThroughput_proposed: 0 estimatedBW_proposed: 8198.8 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 64 bufferSize_proposed2: 17 hasThroughput_proposed2: 227 estimatedBW_proposed2: 1270.84 videoLevel_proposed2: 700
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 64128 target_proposed2: 1.51357e+06 bpsLastChunk_proposed2: 6930 downloadDuration_proposed2: 0.202 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 64331 target_proposed2: 1.5475e+06 bpsLastChunk_proposed2: 6896 downloadDuration_proposed2: 0.203 requestInterval_proposed2: 0.0256326 Interval Ratio2: 7.91959
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 64745 target_proposed2: 1.58161e+06 bpsLastChunk_proposed2: 3598 downloadDuration_proposed2: 0.389 requestInterval_proposed2: 0.394085 Interval Ratio2: 0.987097
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 65 bufferSize_proposed: 19 hasThroughput_proposed: 4657 estimatedBW_proposed: 8198.8 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 65 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 1408.33 videoLevel_proposed2: 700
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 65529 target_proposed2: 2.47889e+06 bpsLastChunk_proposed2: 3589 downloadDuration_proposed2: 0.39 requestInterval_proposed2: 1.07925 Interval Ratio2: 0.361361
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 65977 target_proposed: 6.49866e+06 bpsLastChunk_proposed: 6974 downloadDuration_proposed: 1.735 requestInterval_proposed: 0.539681 Interval Ratio: 3.21486
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 66 bufferSize_proposed: 20 hasThroughput_proposed: 0 estimatedBW_proposed: 7858.77 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 66 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 1622.44 videoLevel_proposed2: 700
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 67 bufferSize_proposed: 19 hasThroughput_proposed: 2519 estimatedBW_proposed: 7858.77 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 67 bufferSize_proposed2: 22 hasThroughput_proposed2: 1425 estimatedBW_proposed2: 1622.44 videoLevel_proposed2: 1200
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 67222 target_proposed2: 6.3204e+06 bpsLastChunk_proposed2: 3908 downloadDuration_proposed2: 0.614 requestInterval_proposed2: 1.12223 Interval Ratio2: 0.547126
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 68 bufferSize_proposed: 18 hasThroughput_proposed: 10588 estimatedBW_proposed: 7858.77 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 68 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 2562.03 videoLevel_proposed2: 1200
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 68166 target_proposed: 6.79014e+06 bpsLastChunk_proposed: 7333 downloadDuration_proposed: 1.65 requestInterval_proposed: 0.582724 Interval Ratio: 2.83153
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 68823 target_proposed2: 1.27895e+07 bpsLastChunk_proposed2: 8141 downloadDuration_proposed2: 0.479 requestInterval_proposed2: 0.64644 Interval Ratio2: 0.740981
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 69 bufferSize_proposed: 19 hasThroughput_proposed: 1597 estimatedBW_proposed: 7645.05 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 69 bufferSize_proposed2: 24 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4607.53 videoLevel_proposed2: 1950
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 70 bufferSize_proposed: 18 hasThroughput_proposed: 8552 estimatedBW_proposed: 7645.05 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 70 bufferSize_proposed2: 23 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 4607.53 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 70371 target_proposed2: 9.7264e+06 bpsLastChunk_proposed2: 4328 downloadDuration_proposed2: 0.901 requestInterval_proposed2: 1.30942 Interval Ratio2: 0.688092
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 70591 target_proposed: 6.58488e+06 bpsLastChunk_proposed: 6568 downloadDuration_proposed: 1.842 requestInterval_proposed: 0.627873 Interval Ratio: 2.93372
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 71 bufferSize_proposed: 19 hasThroughput_proposed: 0 estimatedBW_proposed: 7433.01 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 71 bufferSize_proposed2: 24 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5631.31 videoLevel_proposed2: 1950
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 72 bufferSize_proposed: 18 hasThroughput_proposed: 5582 estimatedBW_proposed: 7433.01 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 72 bufferSize_proposed2: 23 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 5631.31 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 73 bufferSize_proposed: 17 hasThroughput_proposed: 10072 estimatedBW_proposed: 7433.01 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 73 bufferSize_proposed2: 22 hasThroughput_proposed2: 5607 estimatedBW_proposed2: 5631.31 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 73415 target_proposed: 5.47612e+06 bpsLastChunk_proposed: 5510 downloadDuration_proposed: 2.196 requestInterval_proposed: 0.518351 Interval Ratio: 4.23651
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 73543 target_proposed2: 5.94094e+06 bpsLastChunk_proposed2: 4564 downloadDuration_proposed2: 1.862 requestInterval_proposed2: 1.093 Interval Ratio2: 1.70357
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 74 bufferSize_proposed: 18 hasThroughput_proposed: 162 estimatedBW_proposed: 7041.63 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 74 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5693.23 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 75 bufferSize_proposed: 17 hasThroughput_proposed: 8040 estimatedBW_proposed: 7041.63 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 75 bufferSize_proposed2: 22 hasThroughput_proposed2: 1175 estimatedBW_proposed2: 5693.23 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 75897 target_proposed: 5.84505e+06 bpsLastChunk_proposed: 6160 downloadDuration_proposed: 1.964 requestInterval_proposed: 0.378806 Interval Ratio: 5.18472
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 76 bufferSize_proposed: 18 hasThroughput_proposed: 0 estimatedBW_proposed: 6802.32 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 76 bufferSize_proposed2: 21 hasThroughput_proposed2: 6164 estimatedBW_proposed2: 5693.23 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 76258 target_proposed2: 5.21006e+06 bpsLastChunk_proposed2: 5240 downloadDuration_proposed2: 1.622 requestInterval_proposed2: 0.91878 Interval Ratio2: 1.76539
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 77 bufferSize_proposed: 17 hasThroughput_proposed: 6111 estimatedBW_proposed: 6802.32 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 77 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5596.6 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 78 bufferSize_proposed: 16 hasThroughput_proposed: 11915 estimatedBW_proposed: 6802.32 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 78 bufferSize_proposed2: 21 hasThroughput_proposed2: 3248 estimatedBW_proposed2: 5596.6 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 78124 target_proposed: 6.175e+06 bpsLastChunk_proposed: 6547 downloadDuration_proposed: 1.848 requestInterval_proposed: 0.412231 Interval Ratio: 4.48293
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 78600 target_proposed2: 5.48255e+06 bpsLastChunk_proposed2: 5969 downloadDuration_proposed2: 1.424 requestInterval_proposed2: 0.924995 Interval Ratio2: 1.53947
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 79 bufferSize_proposed: 17 hasThroughput_proposed: 3612 estimatedBW_proposed: 6676.85 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 79 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5573.79 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 80 bufferSize_proposed: 16 hasThroughput_proposed: 10571 estimatedBW_proposed: 6676.85 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 80 bufferSize_proposed2: 21 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 5573.79 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 80284 target_proposed: 6.48546e+06 bpsLastChunk_proposed: 6922 downloadDuration_proposed: 1.748 requestInterval_proposed: 0.42268 Interval Ratio: 4.13551
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 80992 target_proposed2: 5.72178e+06 bpsLastChunk_proposed2: 5794 downloadDuration_proposed2: 1.467 requestInterval_proposed2: 0.916939 Interval Ratio2: 1.59989
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 81 bufferSize_proposed: 17 hasThroughput_proposed: 1114 estimatedBW_proposed: 6638.58 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 81 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5603.39 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 82 bufferSize_proposed: 16 hasThroughput_proposed: 10158 estimatedBW_proposed: 6638.58 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 82 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5603.39 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 82445 target_proposed: 6.77913e+06 bpsLastChunk_proposed: 6962 downloadDuration_proposed: 1.738 requestInterval_proposed: 0.414995 Interval Ratio: 4.188
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 83 bufferSize_proposed: 17 hasThroughput_proposed: 197 estimatedBW_proposed: 6666.69 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 83 bufferSize_proposed2: 20 hasThroughput_proposed2: 6909 estimatedBW_proposed2: 5603.39 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 83384 target_proposed2: 5.75482e+06 bpsLastChunk_proposed2: 5762 downloadDuration_proposed2: 1.475 requestInterval_proposed2: 0.708784 Interval Ratio2: 2.08103
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 84 bufferSize_proposed: 16 hasThroughput_proposed: 7659 estimatedBW_proposed: 6666.69 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 84 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5633.67 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 84837 target_proposed: 6.13761e+06 bpsLastChunk_proposed: 6120 downloadDuration_proposed: 1.977 requestInterval_proposed: 0.244267 Interval Ratio: 8.09359
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 85 bufferSize_proposed: 17 hasThroughput_proposed: 0 estimatedBW_proposed: 6560.87 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 85 bufferSize_proposed2: 20 hasThroughput_proposed2: 4608 estimatedBW_proposed2: 5633.67 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 85673 target_proposed2: 5.44439e+06 bpsLastChunk_proposed2: 5379 downloadDuration_proposed2: 1.58 requestInterval_proposed2: 0.718991 Interval Ratio2: 2.19752
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 86 bufferSize_proposed: 16 hasThroughput_proposed: 5156 estimatedBW_proposed: 6560.87 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 86 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5595.82 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 87 bufferSize_proposed: 15 hasThroughput_proposed: 11874 estimatedBW_proposed: 6560.87 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 87 bufferSize_proposed2: 20 hasThroughput_proposed2: 2334 estimatedBW_proposed2: 5595.82 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 87114 target_proposed: 5.93101e+06 bpsLastChunk_proposed: 5951 downloadDuration_proposed: 2.033 requestInterval_proposed: 0.280371 Interval Ratio: 7.2511
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 87937 target_proposed2: 5.49448e+06 bpsLastChunk_proposed2: 5501 downloadDuration_proposed2: 1.545 requestInterval_proposed2: 0.724513 Interval Ratio2: 2.13247
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 88 bufferSize_proposed: 16 hasThroughput_proposed: 2658 estimatedBW_proposed: 6434.9 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 88 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5575.55 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 89 bufferSize_proposed: 15 hasThroughput_proposed: 10657 estimatedBW_proposed: 6434.9 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 89 bufferSize_proposed2: 20 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 5575.55 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 89390 target_proposed: 6.08014e+06 bpsLastChunk_proposed: 6062 downloadDuration_proposed: 1.996 requestInterval_proposed: 0.301336 Interval Ratio: 6.62384
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 90 bufferSize_proposed: 16 hasThroughput_proposed: 1048 estimatedBW_proposed: 6363.95 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 90 bufferSize_proposed2: 19 hasThroughput_proposed2: 7610 estimatedBW_proposed2: 5575.55 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 90213 target_proposed2: 5.47849e+06 bpsLastChunk_proposed2: 5476 downloadDuration_proposed2: 1.552 requestInterval_proposed2: 0.529839 Interval Ratio2: 2.92919
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 91 bufferSize_proposed: 15 hasThroughput_proposed: 8159 estimatedBW_proposed: 6363.95 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 91 bufferSize_proposed2: 20 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 5556.14 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 91782 target_proposed: 5.75136e+06 bpsLastChunk_proposed: 5786 downloadDuration_proposed: 2.091 requestInterval_proposed: 0.138658 Interval Ratio: 15.0802
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 92 bufferSize_proposed: 16 hasThroughput_proposed: 0 estimatedBW_proposed: 6241.43 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 92 bufferSize_proposed2: 19 hasThroughput_proposed2: 6152 estimatedBW_proposed2: 5556.14 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 92490 target_proposed2: 4.94529e+06 bpsLastChunk_proposed2: 4865 downloadDuration_proposed2: 1.747 requestInterval_proposed2: 0.564234 Interval Ratio2: 3.09623
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 93 bufferSize_proposed: 15 hasThroughput_proposed: 6705 estimatedBW_proposed: 6241.43 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 93 bufferSize_proposed2: 20 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5433.97 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 94 bufferSize_proposed: 14 hasThroughput_proposed: 11563 estimatedBW_proposed: 6241.43 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 94 bufferSize_proposed2: 19 hasThroughput_proposed2: 4190 estimatedBW_proposed2: 5433.97 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 94059 target_proposed: 5.64321e+06 bpsLastChunk_proposed: 5659 downloadDuration_proposed: 2.138 requestInterval_proposed: 0.176547 Interval Ratio: 12.1101
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 94766 target_proposed2: 4.96359e+06 bpsLastChunk_proposed2: 4964 downloadDuration_proposed2: 1.712 requestInterval_proposed2: 0.591792 Interval Ratio2: 2.89291
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 95 bufferSize_proposed: 15 hasThroughput_proposed: 4202 estimatedBW_proposed: 6121.79 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 95 bufferSize_proposed2: 20 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5339.89 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 96 bufferSize_proposed: 14 hasThroughput_proposed: 10637 estimatedBW_proposed: 6121.79 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 96 bufferSize_proposed2: 19 hasThroughput_proposed2: 2617 estimatedBW_proposed2: 5339.89 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 96335 target_proposed: 5.78424e+06 bpsLastChunk_proposed: 5761 downloadDuration_proposed: 2.1 requestInterval_proposed: 0.198587 Interval Ratio: 10.5747
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 97 bufferSize_proposed: 15 hasThroughput_proposed: 2023 estimatedBW_proposed: 6054.28 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 97 bufferSize_proposed2: 18 hasThroughput_proposed2: 8179 estimatedBW_proposed2: 5339.89 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 97042 target_proposed2: 5.04356e+06 bpsLastChunk_proposed2: 5047 downloadDuration_proposed2: 1.684 requestInterval_proposed2: 0.609657 Interval Ratio2: 2.76221
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 98 bufferSize_proposed: 14 hasThroughput_proposed: 9703 estimatedBW_proposed: 6054.28 videoLevel_proposed: 6050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 98 bufferSize_proposed2: 19 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 5280.63 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 98611 target_proposed: 5.83217e+06 bpsLastChunk_proposed: 5825 downloadDuration_proposed: 2.077 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 99 bufferSize_proposed: 15 hasThroughput_proposed: 1384 estimatedBW_proposed: 6009.86 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 99 bufferSize_proposed2: 18 hasThroughput_proposed2: 6320 estimatedBW_proposed2: 5280.63 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 99551 target_proposed2: 4.50833e+06 bpsLastChunk_proposed2: 4476 downloadDuration_proposed2: 1.899 requestInterval_proposed2: 0.458159 Interval Ratio2: 4.14485
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 100 bufferSize_proposed: 14 hasThroughput_proposed: 8249 estimatedBW_proposed: 6009.86 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 100 bufferSize_proposed2: 19 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5126.17 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 100027 target_proposed: 6.0297e+06 bpsLastChunk_proposed: 6002 downloadDuration_proposed: 1.416 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 101 bufferSize_proposed: 15 hasThroughput_proposed: 4190 estimatedBW_proposed: 6013.83 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 101 bufferSize_proposed2: 18 hasThroughput_proposed2: 4341 estimatedBW_proposed2: 5126.17 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 101922 target_proposed2: 4.43886e+06 bpsLastChunk_proposed2: 4443 downloadDuration_proposed2: 1.913 requestInterval_proposed2: 0.503849 Interval Ratio2: 3.79677
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 101935 target_proposed: 4.78023e+06 bpsLastChunk_proposed: 4454 downloadDuration_proposed: 1.908 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 102 bufferSize_proposed: 16 hasThroughput_proposed: 145 estimatedBW_proposed: 5767.11 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 102 bufferSize_proposed2: 19 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4988.7 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 103 bufferSize_proposed: 15 hasThroughput_proposed: 7106 estimatedBW_proposed: 5767.11 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 103 bufferSize_proposed2: 18 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 4988.7 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 103385 target_proposed: 5.10078e+06 bpsLastChunk_proposed: 5862 downloadDuration_proposed: 1.45 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 104 bufferSize_proposed: 16 hasThroughput_proposed: 2387 estimatedBW_proposed: 5633.84 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 104 bufferSize_proposed2: 17 hasThroughput_proposed2: 7360 estimatedBW_proposed2: 4988.7 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 104325 target_proposed2: 4.47865e+06 bpsLastChunk_proposed2: 4476 downloadDuration_proposed2: 1.899 requestInterval_proposed2: 0.339417 Interval Ratio2: 5.59488
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 104916 target_proposed: 5.34438e+06 bpsLastChunk_proposed: 5551 downloadDuration_proposed: 1.531 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 105 bufferSize_proposed: 17 hasThroughput_proposed: 0 estimatedBW_proposed: 5575.95 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 105 bufferSize_proposed2: 18 hasThroughput_proposed2: 1798 estimatedBW_proposed2: 4886.69 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 106 bufferSize_proposed: 16 hasThroughput_proposed: 4526 estimatedBW_proposed: 5575.95 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 106 bufferSize_proposed2: 17 hasThroughput_proposed2: 6320 estimatedBW_proposed2: 4886.69 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 106551 target_proposed2: 4.50561e+06 bpsLastChunk_proposed2: 4504 downloadDuration_proposed2: 1.887 requestInterval_proposed2: 0.366977 Interval Ratio2: 5.14202
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 106679 target_proposed: 4.89565e+06 bpsLastChunk_proposed: 4821 downloadDuration_proposed: 1.763 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 107 bufferSize_proposed: 17 hasThroughput_proposed: 2461 estimatedBW_proposed: 5439.89 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 107 bufferSize_proposed2: 18 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4810.48 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 108 bufferSize_proposed: 16 hasThroughput_proposed: 6991 estimatedBW_proposed: 5439.89 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 108 bufferSize_proposed2: 17 hasThroughput_proposed2: 4522 estimatedBW_proposed2: 4810.48 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 108361 target_proposed: 5.051e+06 bpsLastChunk_proposed: 5053 downloadDuration_proposed: 1.682 requestInterval_proposed: 0.185196 Interval Ratio: 9.08225
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 108606 target_proposed2: 4.82262e+06 bpsLastChunk_proposed2: 5035 downloadDuration_proposed2: 1.688 requestInterval_proposed2: 0.366085 Interval Ratio2: 4.61095
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 109 bufferSize_proposed: 17 hasThroughput_proposed: 3563 estimatedBW_proposed: 5362.11 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 109 bufferSize_proposed2: 18 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4812.91 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 110 bufferSize_proposed: 16 hasThroughput_proposed: 8421 estimatedBW_proposed: 5362.11 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 110 bufferSize_proposed2: 17 hasThroughput_proposed2: 4190 estimatedBW_proposed2: 4812.91 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 110008 target_proposed: 5.33357e+06 bpsLastChunk_proposed: 5817 downloadDuration_proposed: 1.461 requestInterval_proposed: 0.186886 Interval Ratio: 7.81762
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 110715 target_proposed2: 4.87308e+06 bpsLastChunk_proposed2: 4876 downloadDuration_proposed2: 1.743 requestInterval_proposed2: 0.36168 Interval Ratio2: 4.81918
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 111 bufferSize_proposed: 17 hasThroughput_proposed: 4661 estimatedBW_proposed: 5356.4 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 111 bufferSize_proposed2: 18 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4824.94 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 111654 target_proposed: 5.57902e+06 bpsLastChunk_proposed: 5825 downloadDuration_proposed: 1.459 requestInterval_proposed: 0.173804 Interval Ratio: 8.39453
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 112 bufferSize_proposed: 18 hasThroughput_proposed: 458 estimatedBW_proposed: 5400.93 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 112 bufferSize_proposed2: 17 hasThroughput_proposed2: 4755 estimatedBW_proposed2: 4824.94 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 112826 target_proposed2: 4.85934e+06 bpsLastChunk_proposed2: 4859 downloadDuration_proposed2: 1.749 requestInterval_proposed2: 0.359172 Interval Ratio2: 4.86954
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 113 bufferSize_proposed: 17 hasThroughput_proposed: 5763 estimatedBW_proposed: 5400.93 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 113 bufferSize_proposed2: 18 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4831.82 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 113324 target_proposed: 5.66234e+06 bpsLastChunk_proposed: 5681 downloadDuration_proposed: 1.496 requestInterval_proposed: 0.358715 Interval Ratio: 4.17044
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 114 bufferSize_proposed: 18 hasThroughput_proposed: 1048 estimatedBW_proposed: 5453.21 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 114 bufferSize_proposed2: 17 hasThroughput_proposed2: 5267 estimatedBW_proposed2: 4831.82 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 114704 target_proposed2: 5.15317e+06 bpsLastChunk_proposed2: 5595 downloadDuration_proposed2: 1.519 requestInterval_proposed2: 0.336079 Interval Ratio2: 4.51977
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 115 bufferSize_proposed: 17 hasThroughput_proposed: 6860 estimatedBW_proposed: 5453.21 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 115 bufferSize_proposed2: 18 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4896.09 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 115296 target_proposed: 5.3303e+06 bpsLastChunk_proposed: 5266 downloadDuration_proposed: 1.614 requestInterval_proposed: 0.365773 Interval Ratio: 4.41257
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 116 bufferSize_proposed: 18 hasThroughput_proposed: 1048 estimatedBW_proposed: 5428.63 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 116 bufferSize_proposed2: 17 hasThroughput_proposed2: 6369 estimatedBW_proposed2: 4896.09 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 116466 target_proposed2: 5.40836e+06 bpsLastChunk_proposed2: 5960 downloadDuration_proposed2: 1.426 requestInterval_proposed2: 0.300495 Interval Ratio2: 4.7455
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 117 bufferSize_proposed: 17 hasThroughput_proposed: 7000 estimatedBW_proposed: 5428.63 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 117 bufferSize_proposed2: 18 hasThroughput_proposed2: 964 estimatedBW_proposed2: 4998.54 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 117290 target_proposed: 5.23151e+06 bpsLastChunk_proposed: 5221 downloadDuration_proposed: 1.628 requestInterval_proposed: 0.377227 Interval Ratio: 4.3157
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 118 bufferSize_proposed: 18 hasThroughput_proposed: 1048 estimatedBW_proposed: 5389.21 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 118 bufferSize_proposed2: 17 hasThroughput_proposed2: 7467 estimatedBW_proposed2: 4998.54 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 118229 target_proposed2: 5.64793e+06 bpsLastChunk_proposed2: 5813 downloadDuration_proposed2: 1.462 requestInterval_proposed2: 0.25743 Interval Ratio2: 5.67921
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 119 bufferSize_proposed: 17 hasThroughput_proposed: 6971 estimatedBW_proposed: 5389.21 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 119 bufferSize_proposed2: 18 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 5128.42 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 119284 target_proposed: 5.25384e+06 bpsLastChunk_proposed: 5256 downloadDuration_proposed: 1.617 requestInterval_proposed: 0.38519 Interval Ratio: 4.19792
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 119992 target_proposed2: 5.64471e+06 bpsLastChunk_proposed2: 5644 downloadDuration_proposed2: 1.506 requestInterval_proposed2: 0.424717 Interval Ratio2: 3.54589
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 120 bufferSize_proposed: 18 hasThroughput_proposed: 1114 estimatedBW_proposed: 5362.13 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 120 bufferSize_proposed2: 19 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5231.68 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 121 bufferSize_proposed: 17 hasThroughput_proposed: 5836 estimatedBW_proposed: 5362.13 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 121 bufferSize_proposed2: 18 hasThroughput_proposed2: 1114 estimatedBW_proposed2: 5231.68 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 122 bufferSize_proposed: 16 hasThroughput_proposed: 7958 estimatedBW_proposed: 5362.13 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 122 bufferSize_proposed2: 17 hasThroughput_proposed2: 3772 estimatedBW_proposed2: 5231.68 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 122214 target_proposed: 3.51991e+06 bpsLastChunk_proposed: 3339 downloadDuration_proposed: 2.545 requestInterval_proposed: 0.302149 Interval Ratio: 8.423
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 123 bufferSize_proposed: 17 hasThroughput_proposed: 1048 estimatedBW_proposed: 4993.69 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 123 bufferSize_proposed2: 16 hasThroughput_proposed2: 6275 estimatedBW_proposed2: 5231.68 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 123964 target_proposed2: 2.90488e+06 bpsLastChunk_proposed2: 2396 downloadDuration_proposed2: 3.547 requestInterval_proposed2: 0.183347 Interval Ratio2: 19.3458
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 124 bufferSize_proposed: 16 hasThroughput_proposed: 3137 estimatedBW_proposed: 4993.69 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 124 bufferSize_proposed2: 17 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4766.32 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 125 bufferSize_proposed: 15 hasThroughput_proposed: 5586 estimatedBW_proposed: 4993.69 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 125 bufferSize_proposed2: 16 hasThroughput_proposed2: 1835 estimatedBW_proposed2: 4766.32 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 126 bufferSize_proposed: 14 hasThroughput_proposed: 7700 estimatedBW_proposed: 4993.69 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 126 bufferSize_proposed2: 15 hasThroughput_proposed2: 4169 estimatedBW_proposed2: 4766.32 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 126197 target_proposed: 1.79412e+06 bpsLastChunk_proposed: 2309 downloadDuration_proposed: 3.681 requestInterval_proposed: 0.152329 Interval Ratio: 24.1648
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 127 bufferSize_proposed: 15 hasThroughput_proposed: 1048 estimatedBW_proposed: 4353.77 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 127 bufferSize_proposed2: 14 hasThroughput_proposed2: 6291 estimatedBW_proposed2: 4766.32 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 127952 target_proposed2: 1.5723e+06 bpsLastChunk_proposed2: 2234 downloadDuration_proposed2: 3.804 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 128 bufferSize_proposed: 14 hasThroughput_proposed: 3145 estimatedBW_proposed: 4353.77 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 128 bufferSize_proposed2: 15 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4127.52 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 129 bufferSize_proposed: 13 hasThroughput_proposed: 5513 estimatedBW_proposed: 4353.77 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 129 bufferSize_proposed2: 14 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 4127.52 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 130 bufferSize_proposed: 12 hasThroughput_proposed: 7745 estimatedBW_proposed: 4353.77 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 130 bufferSize_proposed2: 13 hasThroughput_proposed2: 4186 estimatedBW_proposed2: 4127.52 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 130419 target_proposed: 2.39991e+06 bpsLastChunk_proposed: 2088 downloadDuration_proposed: 4.069 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 130738 target_proposed2: 2.21137e+06 bpsLastChunk_proposed2: 2189 downloadDuration_proposed2: 2.786 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 131 bufferSize_proposed: 13 hasThroughput_proposed: 1048 estimatedBW_proposed: 3963 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 131 bufferSize_proposed2: 14 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3744.29 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 132 bufferSize_proposed: 12 hasThroughput_proposed: 3145 estimatedBW_proposed: 3963 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 132 bufferSize_proposed2: 13 hasThroughput_proposed2: 2572 estimatedBW_proposed2: 3744.29 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 133 bufferSize_proposed: 11 hasThroughput_proposed: 5242 estimatedBW_proposed: 3963 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 133 bufferSize_proposed2: 12 hasThroughput_proposed2: 4857 estimatedBW_proposed2: 3744.29 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 133281 target_proposed: 1.78716e+06 bpsLastChunk_proposed: 2131 downloadDuration_proposed: 2.862 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 133511 target_proposed2: 2.19207e+06 bpsLastChunk_proposed2: 2199 downloadDuration_proposed2: 2.773 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 134 bufferSize_proposed: 12 hasThroughput_proposed: 1048 estimatedBW_proposed: 3527.83 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 134 bufferSize_proposed2: 13 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 3433.84 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 135 bufferSize_proposed: 11 hasThroughput_proposed: 3231 estimatedBW_proposed: 3527.83 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 135 bufferSize_proposed2: 12 hasThroughput_proposed2: 3137 estimatedBW_proposed2: 3433.84 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 136 bufferSize_proposed: 10 hasThroughput_proposed: 5464 estimatedBW_proposed: 3527.83 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 136 bufferSize_proposed2: 11 hasThroughput_proposed2: 5234 estimatedBW_proposed2: 3433.84 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 136147 target_proposed: 2.26797e+06 bpsLastChunk_proposed: 2128 downloadDuration_proposed: 2.866 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 136372 target_proposed2: 2.09879e+06 bpsLastChunk_proposed2: 2132 downloadDuration_proposed2: 2.861 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 137 bufferSize_proposed: 11 hasThroughput_proposed: 1507 estimatedBW_proposed: 3275.86 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 137 bufferSize_proposed2: 12 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 3166.83 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 138 bufferSize_proposed: 10 hasThroughput_proposed: 3858 estimatedBW_proposed: 3275.86 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 138 bufferSize_proposed2: 11 hasThroughput_proposed2: 3137 estimatedBW_proposed2: 3166.83 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 139 bufferSize_proposed: 9 hasThroughput_proposed: 6049 estimatedBW_proposed: 3275.86 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 139 bufferSize_proposed2: 10 hasThroughput_proposed2: 5242 estimatedBW_proposed2: 3166.83 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 139010 target_proposed: 2.04653e+06 bpsLastChunk_proposed: 2130 downloadDuration_proposed: 2.863 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 139235 target_proposed2: 2.14879e+06 bpsLastChunk_proposed2: 2130 downloadDuration_proposed2: 2.863 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 140 bufferSize_proposed: 10 hasThroughput_proposed: 2093 estimatedBW_proposed: 3030 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 140 bufferSize_proposed2: 11 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 2963.22 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 140653 target_proposed: 2.52752e+06 bpsLastChunk_proposed: 2373 downloadDuration_proposed: 1.643 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 140737 target_proposed2: 2.62978e+06 bpsLastChunk_proposed2: 2596 downloadDuration_proposed2: 1.502 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 141 bufferSize_proposed: 11 hasThroughput_proposed: 1331 estimatedBW_proposed: 2929.5 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 141 bufferSize_proposed2: 12 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 2896.54 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 141515 target_proposed: 2.80354e+06 bpsLastChunk_proposed: 4524 downloadDuration_proposed: 0.862 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 141598 target_proposed2: 2.88211e+06 bpsLastChunk_proposed2: 4529 downloadDuration_proposed2: 0.861 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 142 bufferSize_proposed: 12 hasThroughput_proposed: 2134 estimatedBW_proposed: 2904.31 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 142 bufferSize_proposed2: 13 hasThroughput_proposed2: 1499 estimatedBW_proposed2: 2893.65 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 142376 target_proposed: 2.94836e+06 bpsLastChunk_proposed: 4529 downloadDuration_proposed: 0.861 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 142460 target_proposed2: 3.02676e+06 bpsLastChunk_proposed2: 4524 downloadDuration_proposed2: 0.862 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 143 bufferSize_proposed: 13 hasThroughput_proposed: 2797 estimatedBW_proposed: 2913.12 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 143 bufferSize_proposed2: 14 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 2920.27 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 143237 target_proposed: 3.093e+06 bpsLastChunk_proposed: 4529 downloadDuration_proposed: 0.861 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 143321 target_proposed2: 3.17158e+06 bpsLastChunk_proposed2: 4529 downloadDuration_proposed2: 0.861 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 144 bufferSize_proposed: 14 hasThroughput_proposed: 3215 estimatedBW_proposed: 2949.09 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 144 bufferSize_proposed2: 15 hasThroughput_proposed2: 2928 estimatedBW_proposed2: 2970.53 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 144099 target_proposed: 3.23765e+06 bpsLastChunk_proposed: 4524 downloadDuration_proposed: 0.862 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 144183 target_proposed2: 3.31623e+06 bpsLastChunk_proposed2: 4524 downloadDuration_proposed2: 0.862 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 144960 target_proposed: 3.38247e+06 bpsLastChunk_proposed: 4529 downloadDuration_proposed: 0.861 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 145 bufferSize_proposed: 17 hasThroughput_proposed: 0 estimatedBW_proposed: 3081.94 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 145 bufferSize_proposed2: 16 hasThroughput_proposed2: 3493 estimatedBW_proposed2: 3039.67 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 145044 target_proposed2: 3.46104e+06 bpsLastChunk_proposed2: 4529 downloadDuration_proposed2: 0.861 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 145821 target_proposed: 3.52712e+06 bpsLastChunk_proposed: 4529 downloadDuration_proposed: 0.861 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 145905 target_proposed2: 3.60569e+06 bpsLastChunk_proposed2: 4529 downloadDuration_proposed2: 0.861 requestInterval_proposed2: 0.011069 Interval Ratio2: 77.7847
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 146 bufferSize_proposed: 18 hasThroughput_proposed: 853 estimatedBW_proposed: 3170.97 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 146 bufferSize_proposed2: 19 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3220.3 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 146683 target_proposed: 3.67176e+06 bpsLastChunk_proposed: 4524 downloadDuration_proposed: 0.862 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 146767 target_proposed2: 3.75034e+06 bpsLastChunk_proposed2: 4582 downloadDuration_proposed2: 0.851 requestInterval_proposed2: 0.172473 Interval Ratio2: 4.93412
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 147 bufferSize_proposed: 19 hasThroughput_proposed: 2109 estimatedBW_proposed: 3271.13 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 147 bufferSize_proposed2: 20 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3326.3 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 147428 target_proposed: 3.81658e+06 bpsLastChunk_proposed: 5234 downloadDuration_proposed: 0.745 requestInterval_proposed: 0.353771 Interval Ratio: 2.10588
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 147628 target_proposed2: 3.89331e+06 bpsLastChunk_proposed2: 5660 downloadDuration_proposed2: 0.689 requestInterval_proposed2: 0.333818 Interval Ratio2: 2.064
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 148 bufferSize_proposed: 20 hasThroughput_proposed: 1532 estimatedBW_proposed: 3380.22 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 148 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3439.7 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 148492 target_proposed: 3.94174e+06 bpsLastChunk_proposed: 5492 downloadDuration_proposed: 0.71 requestInterval_proposed: 0.516671 Interval Ratio: 1.37418
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 148692 target_proposed2: 4.00906e+06 bpsLastChunk_proposed2: 5342 downloadDuration_proposed2: 0.73 requestInterval_proposed2: 0.497486 Interval Ratio2: 1.46738
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 149 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 3492.53 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 149 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3553.58 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 149718 target_proposed: 4.06102e+06 bpsLastChunk_proposed: 5492 downloadDuration_proposed: 0.71 requestInterval_proposed: 1.09152 Interval Ratio: 0.650469
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 149918 target_proposed2: 4.1317e+06 bpsLastChunk_proposed2: 5349 downloadDuration_proposed2: 0.729 requestInterval_proposed2: 1.26249 Interval Ratio2: 0.577431
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 150 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 3606.22 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 150 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3669.2 videoLevel_proposed2: 1950
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 151 bufferSize_proposed: 21 hasThroughput_proposed: 1282 estimatedBW_proposed: 3606.22 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 151 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3669.2 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 151806 target_proposed: 7.55722e+06 bpsLastChunk_proposed: 6124 downloadDuration_proposed: 0.996 requestInterval_proposed: 0.787491 Interval Ratio: 1.26478
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 152 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 4396.42 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 152 bufferSize_proposed2: 21 hasThroughput_proposed2: 4235 estimatedBW_proposed2: 3669.2 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 152206 target_proposed2: 8.13867e+06 bpsLastChunk_proposed2: 5945 downloadDuration_proposed2: 1.026 requestInterval_proposed2: 0.736812 Interval Ratio2: 1.39248
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 153 bufferSize_proposed: 21 hasThroughput_proposed: 3239 estimatedBW_proposed: 4396.42 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 153 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4563.09 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 153662 target_proposed: 6.52747e+06 bpsLastChunk_proposed: 5711 downloadDuration_proposed: 1.068 requestInterval_proposed: 0.664869 Interval Ratio: 1.60633
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 153989 target_proposed2: 6.8099e+06 bpsLastChunk_proposed2: 5826 downloadDuration_proposed2: 1.047 requestInterval_proposed2: 1.29578 Interval Ratio2: 0.80801
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 154 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 4822.63 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 154 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5012.46 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 155 bufferSize_proposed: 21 hasThroughput_proposed: 5648 estimatedBW_proposed: 4822.63 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 155 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5012.46 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 155049 target_proposed: 6.7069e+06 bpsLastChunk_proposed: 8448 downloadDuration_proposed: 0.722 requestInterval_proposed: 1.23478 Interval Ratio: 0.584721
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 156 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 5199.49 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 156 bufferSize_proposed2: 21 hasThroughput_proposed2: 6029 estimatedBW_proposed2: 5012.46 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 156273 target_proposed2: 1.15296e+07 bpsLastChunk_proposed2: 8603 downloadDuration_proposed2: 0.988 requestInterval_proposed2: 0.745814 Interval Ratio2: 1.32473
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 157 bufferSize_proposed: 21 hasThroughput_proposed: 6037 estimatedBW_proposed: 5199.49 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 157 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 6315.88 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 157502 target_proposed: 6.89436e+06 bpsLastChunk_proposed: 6978 downloadDuration_proposed: 1.218 requestInterval_proposed: 1.13472 Interval Ratio: 1.07339
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 158 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 5538.46 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 158 bufferSize_proposed2: 21 hasThroughput_proposed2: 6590 estimatedBW_proposed2: 6315.88 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 158211 target_proposed2: 9.09206e+06 bpsLastChunk_proposed2: 7124 downloadDuration_proposed2: 1.193 requestInterval_proposed2: 0.637063 Interval Ratio2: 1.87266
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 159 bufferSize_proposed: 21 hasThroughput_proposed: 2547 estimatedBW_proposed: 5538.46 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 159 bufferSize_proposed2: 22 hasThroughput_proposed2: 300 estimatedBW_proposed2: 6871.12 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 160 bufferSize_proposed: 20 hasThroughput_proposed: 6803 estimatedBW_proposed: 5538.46 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 160 bufferSize_proposed2: 21 hasThroughput_proposed2: 5091 estimatedBW_proposed2: 6871.12 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 160378 target_proposed: 5.52177e+06 bpsLastChunk_proposed: 4882 downloadDuration_proposed: 1.741 requestInterval_proposed: 0.935648 Interval Ratio: 1.86074
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 160937 target_proposed2: 5.73559e+06 bpsLastChunk_proposed2: 4068 downloadDuration_proposed2: 2.089 requestInterval_proposed2: 0.679348 Interval Ratio2: 3.07501
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 161 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 5535.12 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 161 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 6644.01 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 162 bufferSize_proposed: 20 hasThroughput_proposed: 3035 estimatedBW_proposed: 5535.12 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 162 bufferSize_proposed2: 21 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 6644.01 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 163 bufferSize_proposed: 19 hasThroughput_proposed: 5759 estimatedBW_proposed: 5535.12 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 163 bufferSize_proposed2: 20 hasThroughput_proposed2: 3137 estimatedBW_proposed2: 6644.01 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 164 bufferSize_proposed: 18 hasThroughput_proposed: 7999 estimatedBW_proposed: 5535.12 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 164 bufferSize_proposed2: 19 hasThroughput_proposed2: 5304 estimatedBW_proposed2: 6644.01 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 164339 target_proposed: 2.87693e+06 bpsLastChunk_proposed: 2809 downloadDuration_proposed: 3.025 requestInterval_proposed: 0.698817 Interval Ratio: 4.32875
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 165 bufferSize_proposed: 19 hasThroughput_proposed: 0 estimatedBW_proposed: 5003.48 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 165 bufferSize_proposed2: 18 hasThroughput_proposed2: 8364 estimatedBW_proposed2: 6644.01 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 165074 target_proposed2: 1.90133e+06 bpsLastChunk_proposed2: 2458 downloadDuration_proposed2: 3.457 requestInterval_proposed2: 0.292413 Interval Ratio2: 11.8223
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 166 bufferSize_proposed: 18 hasThroughput_proposed: 3141 estimatedBW_proposed: 5003.48 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 166 bufferSize_proposed2: 19 hasThroughput_proposed2: 1155 estimatedBW_proposed2: 5695.47 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 167 bufferSize_proposed: 17 hasThroughput_proposed: 5238 estimatedBW_proposed: 5003.48 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 167 bufferSize_proposed2: 18 hasThroughput_proposed2: 3776 estimatedBW_proposed2: 5695.47 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 168 bufferSize_proposed: 16 hasThroughput_proposed: 7335 estimatedBW_proposed: 5003.48 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 168 bufferSize_proposed2: 17 hasThroughput_proposed2: 6033 estimatedBW_proposed2: 5695.47 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 168572 target_proposed: 2.07748e+06 bpsLastChunk_proposed: 2405 downloadDuration_proposed: 3.534 requestInterval_proposed: 0.523824 Interval Ratio: 6.74654
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 169 bufferSize_proposed: 17 hasThroughput_proposed: 0 estimatedBW_proposed: 4418.28 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 169 bufferSize_proposed2: 16 hasThroughput_proposed2: 8368 estimatedBW_proposed2: 5695.47 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 169039 target_proposed2: 2.48211e+06 bpsLastChunk_proposed2: 2314 downloadDuration_proposed2: 3.672 requestInterval_proposed2: 0.282235 Interval Ratio2: 13.0104
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 170 bufferSize_proposed: 16 hasThroughput_proposed: 2854 estimatedBW_proposed: 4418.28 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 170 bufferSize_proposed2: 17 hasThroughput_proposed2: 1552 estimatedBW_proposed2: 5052.8 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 171 bufferSize_proposed: 15 hasThroughput_proposed: 4993 estimatedBW_proposed: 4418.28 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 171 bufferSize_proposed2: 16 hasThroughput_proposed2: 4079 estimatedBW_proposed2: 5052.8 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 172 bufferSize_proposed: 14 hasThroughput_proposed: 7131 estimatedBW_proposed: 4418.28 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 172 bufferSize_proposed2: 15 hasThroughput_proposed2: 6283 estimatedBW_proposed2: 5052.8 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 172565 target_proposed: 2.67119e+06 bpsLastChunk_proposed: 2449 downloadDuration_proposed: 3.47 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 173 bufferSize_proposed: 15 hasThroughput_proposed: 514 estimatedBW_proposed: 4068.87 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 173 bufferSize_proposed2: 14 hasThroughput_proposed2: 8380 estimatedBW_proposed2: 5052.8 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 173122 target_proposed2: 1.97603e+06 bpsLastChunk_proposed2: 2236 downloadDuration_proposed2: 3.801 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 174 bufferSize_proposed: 14 hasThroughput_proposed: 3137 estimatedBW_proposed: 4068.87 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 174 bufferSize_proposed2: 15 hasThroughput_proposed2: 1634 estimatedBW_proposed2: 4437.45 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 175 bufferSize_proposed: 13 hasThroughput_proposed: 5226 estimatedBW_proposed: 4068.87 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 175 bufferSize_proposed2: 14 hasThroughput_proposed2: 3956 estimatedBW_proposed2: 4437.45 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 175262 target_proposed: 1.8741e+06 bpsLastChunk_proposed: 2261 downloadDuration_proposed: 2.697 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 176 bufferSize_proposed: 14 hasThroughput_proposed: 1048 estimatedBW_proposed: 3629.91 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 176 bufferSize_proposed2: 13 hasThroughput_proposed2: 6275 estimatedBW_proposed2: 4437.45 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 177 bufferSize_proposed: 13 hasThroughput_proposed: 3170 estimatedBW_proposed: 3629.91 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 177 bufferSize_proposed2: 12 hasThroughput_proposed2: 8388 estimatedBW_proposed2: 4437.45 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 177247 target_proposed2: 2.15477e+06 bpsLastChunk_proposed2: 2060 downloadDuration_proposed2: 4.125 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 178 bufferSize_proposed: 12 hasThroughput_proposed: 6086 estimatedBW_proposed: 3629.91 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 178 bufferSize_proposed2: 13 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 3980.91 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 178003 target_proposed: 2.3272e+06 bpsLastChunk_proposed: 2225 downloadDuration_proposed: 2.741 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 179 bufferSize_proposed: 13 hasThroughput_proposed: 2093 estimatedBW_proposed: 3369.37 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 179 bufferSize_proposed2: 12 hasThroughput_proposed2: 3375 estimatedBW_proposed2: 3980.91 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 180 bufferSize_proposed: 12 hasThroughput_proposed: 4182 estimatedBW_proposed: 3369.37 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 180 bufferSize_proposed2: 11 hasThroughput_proposed2: 5615 estimatedBW_proposed2: 3980.91 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 180111 target_proposed2: 2.09524e+06 bpsLastChunk_proposed2: 2129 downloadDuration_proposed2: 2.864 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 180625 target_proposed: 2.32536e+06 bpsLastChunk_proposed: 2326 downloadDuration_proposed: 2.622 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 181 bufferSize_proposed: 13 hasThroughput_proposed: 1269 estimatedBW_proposed: 3160.57 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 181 bufferSize_proposed2: 12 hasThroughput_proposed2: 3166 estimatedBW_proposed2: 3603.78 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 181647 target_proposed2: 2.5764e+06 bpsLastChunk_proposed2: 3971 downloadDuration_proposed2: 1.536 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 181973 target_proposed: 2.76585e+06 bpsLastChunk_proposed: 4525 downloadDuration_proposed: 1.348 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 182 bufferSize_proposed: 14 hasThroughput_proposed: 0 estimatedBW_proposed: 3081.63 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 182 bufferSize_proposed2: 13 hasThroughput_proposed2: 1286 estimatedBW_proposed2: 3398.3 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 182994 target_proposed2: 2.83444e+06 bpsLastChunk_proposed2: 4528 downloadDuration_proposed2: 1.347 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 183 bufferSize_proposed: 13 hasThroughput_proposed: 4235 estimatedBW_proposed: 3081.63 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 183 bufferSize_proposed2: 14 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3285.53 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 183321 target_proposed: 2.99232e+06 bpsLastChunk_proposed: 4525 downloadDuration_proposed: 1.348 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 184 bufferSize_proposed: 14 hasThroughput_proposed: 2916 estimatedBW_proposed: 3063.76 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 184 bufferSize_proposed2: 13 hasThroughput_proposed2: 4272 estimatedBW_proposed2: 3285.53 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 184342 target_proposed2: 3.06074e+06 bpsLastChunk_proposed2: 4525 downloadDuration_proposed2: 1.348 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 184669 target_proposed: 3.21878e+06 bpsLastChunk_proposed: 4525 downloadDuration_proposed: 1.348 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 185 bufferSize_proposed: 15 hasThroughput_proposed: 1048 estimatedBW_proposed: 3094.77 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 185 bufferSize_proposed2: 14 hasThroughput_proposed2: 2994 estimatedBW_proposed2: 3240.57 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 185690 target_proposed2: 3.2872e+06 bpsLastChunk_proposed2: 4525 downloadDuration_proposed2: 1.348 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 186 bufferSize_proposed: 14 hasThroughput_proposed: 5943 estimatedBW_proposed: 3094.77 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 186 bufferSize_proposed2: 15 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 3249.9 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 186016 target_proposed: 3.44525e+06 bpsLastChunk_proposed: 4528 downloadDuration_proposed: 1.347 requestInterval_proposed: 0.127414 Interval Ratio: 10.5719
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 186922 target_proposed2: 3.51367e+06 bpsLastChunk_proposed2: 4951 downloadDuration_proposed2: 1.232 requestInterval_proposed2: 0.047 Interval Ratio2: 26.2128
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 187 bufferSize_proposed: 15 hasThroughput_proposed: 3842 estimatedBW_proposed: 3164.86 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 187 bufferSize_proposed2: 16 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3302.65 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 187480 target_proposed: 3.67154e+06 bpsLastChunk_proposed: 4565 downloadDuration_proposed: 1.336 requestInterval_proposed: 0.267615 Interval Ratio: 4.99226
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 188 bufferSize_proposed: 16 hasThroughput_proposed: 1048 estimatedBW_proposed: 3266.2 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 188 bufferSize_proposed2: 15 hasThroughput_proposed2: 5746 estimatedBW_proposed2: 3302.65 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 188038 target_proposed2: 3.72064e+06 bpsLastChunk_proposed2: 5706 downloadDuration_proposed2: 1.069 requestInterval_proposed2: 0.201402 Interval Ratio2: 5.30779
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 188929 target_proposed: 3.89599e+06 bpsLastChunk_proposed: 5160 downloadDuration_proposed: 1.182 requestInterval_proposed: 0.198266 Interval Ratio: 5.96169
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 189 bufferSize_proposed: 17 hasThroughput_proposed: 0 estimatedBW_proposed: 3392.16 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 189 bufferSize_proposed2: 16 hasThroughput_proposed2: 3645 estimatedBW_proposed2: 3386.25 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 189386 target_proposed2: 3.90024e+06 bpsLastChunk_proposed2: 5322 downloadDuration_proposed2: 1.146 requestInterval_proposed2: 0.148328 Interval Ratio2: 7.72614
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 190 bufferSize_proposed: 16 hasThroughput_proposed: 4583 estimatedBW_proposed: 3392.16 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 190 bufferSize_proposed2: 17 hasThroughput_proposed2: 2015 estimatedBW_proposed2: 3489.05 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 190291 target_proposed: 4.09457e+06 bpsLastChunk_proposed: 5240 downloadDuration_proposed: 1.164 requestInterval_proposed: 0.326755 Interval Ratio: 3.56231
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 190618 target_proposed2: 4.09276e+06 bpsLastChunk_proposed2: 5627 downloadDuration_proposed2: 1.084 requestInterval_proposed2: 0.289848 Interval Ratio2: 3.73989
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 191 bufferSize_proposed: 17 hasThroughput_proposed: 3018 estimatedBW_proposed: 3532.64 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 191 bufferSize_proposed2: 18 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3609.79 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 191687 target_proposed: 4.29012e+06 bpsLastChunk_proposed: 5706 downloadDuration_proposed: 1.069 requestInterval_proposed: 0.255749 Interval Ratio: 4.17989
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 192 bufferSize_proposed: 18 hasThroughput_proposed: 0 estimatedBW_proposed: 3684.13 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 192 bufferSize_proposed2: 17 hasThroughput_proposed2: 5967 estimatedBW_proposed2: 3609.79 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 192014 target_proposed2: 4.27488e+06 bpsLastChunk_proposed2: 5515 downloadDuration_proposed2: 1.106 requestInterval_proposed2: 0.429792 Interval Ratio2: 2.57334
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 192919 target_proposed: 4.46971e+06 bpsLastChunk_proposed: 6250 downloadDuration_proposed: 0.976 requestInterval_proposed: 0.388025 Interval Ratio: 2.5153
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 193 bufferSize_proposed: 19 hasThroughput_proposed: 0 estimatedBW_proposed: 3841.25 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 193 bufferSize_proposed2: 18 hasThroughput_proposed2: 2822 estimatedBW_proposed2: 3742.81 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 193362 target_proposed2: 4.46068e+06 bpsLastChunk_proposed2: 6644 downloadDuration_proposed2: 0.918 requestInterval_proposed2: 0.369582 Interval Ratio2: 2.48388
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 194 bufferSize_proposed: 18 hasThroughput_proposed: 4726 estimatedBW_proposed: 3841.25 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 194 bufferSize_proposed2: 19 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 3886.38 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 194266 target_proposed: 4.63368e+06 bpsLastChunk_proposed: 6360 downloadDuration_proposed: 0.959 requestInterval_proposed: 0.525101 Interval Ratio: 1.82632
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 194709 target_proposed2: 4.61491e+06 bpsLastChunk_proposed2: 6237 downloadDuration_proposed2: 0.978 requestInterval_proposed2: 0.512863 Interval Ratio2: 1.90694
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 195 bufferSize_proposed: 19 hasThroughput_proposed: 1446 estimatedBW_proposed: 3999.74 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 195 bufferSize_proposed2: 20 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4032.09 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 195744 target_proposed: 4.79479e+06 bpsLastChunk_proposed: 6407 downloadDuration_proposed: 0.952 requestInterval_proposed: 0.466788 Interval Ratio: 2.03947
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 196 bufferSize_proposed: 20 hasThroughput_proposed: 0 estimatedBW_proposed: 4158.75 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 196 bufferSize_proposed2: 19 hasThroughput_proposed2: 4399 estimatedBW_proposed2: 4032.09 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 196187 target_proposed2: 4.77921e+06 bpsLastChunk_proposed2: 6321 downloadDuration_proposed2: 0.965 requestInterval_proposed2: 0.458802 Interval Ratio2: 2.1033
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 197 bufferSize_proposed: 19 hasThroughput_proposed: 5599 estimatedBW_proposed: 4158.75 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 197 bufferSize_proposed2: 20 hasThroughput_proposed2: 1102 estimatedBW_proposed2: 4181.51 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 197164 target_proposed: 4.95473e+06 bpsLastChunk_proposed: 6400 downloadDuration_proposed: 0.953 requestInterval_proposed: 0.61271 Interval Ratio: 1.55538
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 197607 target_proposed2: 4.94133e+06 bpsLastChunk_proposed2: 6347 downloadDuration_proposed2: 0.961 requestInterval_proposed2: 0.607645 Interval Ratio2: 1.58151
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 198 bufferSize_proposed: 20 hasThroughput_proposed: 1581 estimatedBW_proposed: 4317.94 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 198 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4333.48 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 198730 target_proposed: 5.11483e+06 bpsLastChunk_proposed: 6400 downloadDuration_proposed: 0.953 requestInterval_proposed: 0.562422 Interval Ratio: 1.69446
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 199 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 4477.32 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 199 bufferSize_proposed2: 20 hasThroughput_proposed2: 4530 estimatedBW_proposed2: 4333.48 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 199173 target_proposed2: 5.10278e+06 bpsLastChunk_proposed2: 6367 downloadDuration_proposed2: 0.958 requestInterval_proposed2: 0.55938 Interval Ratio2: 1.71261
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 200 bufferSize_proposed: 20 hasThroughput_proposed: 4919 estimatedBW_proposed: 4477.32 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 200 bufferSize_proposed2: 21 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 4487.34 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 200266 target_proposed: 5.27493e+06 bpsLastChunk_proposed: 6262 downloadDuration_proposed: 0.974 requestInterval_proposed: 0.71555 Interval Ratio: 1.36119
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 201 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 4636.84 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 201 bufferSize_proposed2: 20 hasThroughput_proposed2: 5230 estimatedBW_proposed2: 4487.34 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 201210 target_proposed2: 4.57929e+06 bpsLastChunk_proposed2: 4127 downloadDuration_proposed2: 1.478 requestInterval_proposed2: 0.553832 Interval Ratio2: 2.66868
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 202 bufferSize_proposed: 20 hasThroughput_proposed: 3362 estimatedBW_proposed: 4636.84 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 202 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4505.73 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 203 bufferSize_proposed: 19 hasThroughput_proposed: 5574 estimatedBW_proposed: 4636.84 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 203 bufferSize_proposed2: 20 hasThroughput_proposed2: 3031 estimatedBW_proposed2: 4505.73 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 203142 target_proposed: 3.93701e+06 bpsLastChunk_proposed: 2822 downloadDuration_proposed: 2.161 requestInterval_proposed: 0.556498 Interval Ratio: 3.88322
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 204 bufferSize_proposed: 20 hasThroughput_proposed: 68 estimatedBW_proposed: 4496.87 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 204 bufferSize_proposed2: 19 hasThroughput_proposed2: 5963 estimatedBW_proposed2: 4505.73 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 204139 target_proposed2: 2.91459e+06 bpsLastChunk_proposed2: 2568 downloadDuration_proposed2: 2.375 requestInterval_proposed2: 0.456716 Interval Ratio2: 5.20017
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 205 bufferSize_proposed: 19 hasThroughput_proposed: 3526 estimatedBW_proposed: 4496.87 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 205 bufferSize_proposed2: 20 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 4187.5 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 206 bufferSize_proposed: 18 hasThroughput_proposed: 6090 estimatedBW_proposed: 4496.87 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 206 bufferSize_proposed2: 19 hasThroughput_proposed2: 3137 estimatedBW_proposed2: 4187.5 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 206002 target_proposed: 2.37589e+06 bpsLastChunk_proposed: 2647 downloadDuration_proposed: 2.304 requestInterval_proposed: 0.497786 Interval Ratio: 4.6285
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 207 bufferSize_proposed: 19 hasThroughput_proposed: 1048 estimatedBW_proposed: 4072.68 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 207 bufferSize_proposed2: 18 hasThroughput_proposed2: 6094 estimatedBW_proposed2: 4187.5 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 207000 target_proposed2: 2.41107e+06 bpsLastChunk_proposed2: 2536 downloadDuration_proposed2: 2.405 requestInterval_proposed2: 0.591769 Interval Ratio2: 4.06408
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 208 bufferSize_proposed: 18 hasThroughput_proposed: 4190 estimatedBW_proposed: 4072.68 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 208 bufferSize_proposed2: 19 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 3832.21 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 208654 target_proposed: 2.76296e+06 bpsLastChunk_proposed: 2830 downloadDuration_proposed: 2.155 requestInterval_proposed: 0.400741 Interval Ratio: 5.37754
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 209 bufferSize_proposed: 19 hasThroughput_proposed: 0 estimatedBW_proposed: 3810.74 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 209 bufferSize_proposed2: 18 hasThroughput_proposed2: 3145 estimatedBW_proposed2: 3832.21 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 210 bufferSize_proposed: 18 hasThroughput_proposed: 2093 estimatedBW_proposed: 3810.74 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 210 bufferSize_proposed2: 17 hasThroughput_proposed2: 5824 estimatedBW_proposed2: 3832.21 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 210062 target_proposed2: 2.48909e+06 bpsLastChunk_proposed2: 2469 downloadDuration_proposed2: 2.47 requestInterval_proposed2: 0.311757 Interval Ratio2: 7.92283
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 211 bufferSize_proposed: 17 hasThroughput_proposed: 4825 estimatedBW_proposed: 3810.74 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 211 bufferSize_proposed2: 18 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 3563.59 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 211499 target_proposed: 2.43958e+06 bpsLastChunk_proposed: 2495 downloadDuration_proposed: 2.444 requestInterval_proposed: 0.524867 Interval Ratio: 4.65642
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 212 bufferSize_proposed: 18 hasThroughput_proposed: 0 estimatedBW_proposed: 3536.51 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 212 bufferSize_proposed2: 17 hasThroughput_proposed2: 3760 estimatedBW_proposed2: 3563.59 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 212924 target_proposed2: 2.35479e+06 bpsLastChunk_proposed2: 2392 downloadDuration_proposed2: 2.55 requestInterval_proposed2: 0.436337 Interval Ratio2: 5.84411
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 213 bufferSize_proposed: 17 hasThroughput_proposed: 2093 estimatedBW_proposed: 3536.51 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 213 bufferSize_proposed2: 18 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3321.83 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 214 bufferSize_proposed: 16 hasThroughput_proposed: 5255 estimatedBW_proposed: 3536.51 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 214 bufferSize_proposed2: 17 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 3321.83 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 214371 target_proposed: 2.65777e+06 bpsLastChunk_proposed: 2599 downloadDuration_proposed: 2.347 requestInterval_proposed: 0.415067 Interval Ratio: 5.65451
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 215 bufferSize_proposed: 17 hasThroughput_proposed: 0 estimatedBW_proposed: 3360.76 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 215 bufferSize_proposed2: 16 hasThroughput_proposed2: 4186 estimatedBW_proposed2: 3321.83 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 215791 target_proposed2: 2.575e+06 bpsLastChunk_proposed2: 2509 downloadDuration_proposed2: 2.431 requestInterval_proposed2: 0.322795 Interval Ratio2: 7.53109
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 216 bufferSize_proposed: 16 hasThroughput_proposed: 2793 estimatedBW_proposed: 3360.76 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 216 bufferSize_proposed2: 17 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3172.46 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 217 bufferSize_proposed: 15 hasThroughput_proposed: 5234 estimatedBW_proposed: 3360.76 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 217 bufferSize_proposed2: 16 hasThroughput_proposed2: 2027 estimatedBW_proposed2: 3172.46 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 217225 target_proposed: 2.45173e+06 bpsLastChunk_proposed: 2501 downloadDuration_proposed: 2.439 requestInterval_proposed: 0.318872 Interval Ratio: 7.64884
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 218 bufferSize_proposed: 16 hasThroughput_proposed: 1048 estimatedBW_proposed: 3178.95 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 218 bufferSize_proposed2: 15 hasThroughput_proposed2: 4194 estimatedBW_proposed2: 3172.46 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 218652 target_proposed2: 2.34085e+06 bpsLastChunk_proposed2: 2403 downloadDuration_proposed2: 2.538 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 219 bufferSize_proposed: 15 hasThroughput_proposed: 3145 estimatedBW_proposed: 3178.95 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 219 bufferSize_proposed2: 16 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3006.14 videoLevel_proposed2: 1950
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 220 bufferSize_proposed: 14 hasThroughput_proposed: 5242 estimatedBW_proposed: 3178.95 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 220 bufferSize_proposed2: 15 hasThroughput_proposed2: 2683 estimatedBW_proposed2: 3006.14 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 220292 target_proposed: 2.13386e+06 bpsLastChunk_proposed: 2219 downloadDuration_proposed: 2.748 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 220465 target_proposed2: 2.07102e+06 bpsLastChunk_proposed2: 2151 downloadDuration_proposed2: 1.813 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 221 bufferSize_proposed: 15 hasThroughput_proposed: 2744 estimatedBW_proposed: 2969.93 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 221 bufferSize_proposed2: 16 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 2819.12 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 221243 target_proposed: 2.59552e+06 bpsLastChunk_proposed: 4100 downloadDuration_proposed: 0.951 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 221327 target_proposed2: 2.37561e+06 bpsLastChunk_proposed2: 4524 downloadDuration_proposed2: 0.862 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 222 bufferSize_proposed: 16 hasThroughput_proposed: 3215 estimatedBW_proposed: 2895.05 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 222 bufferSize_proposed2: 17 hasThroughput_proposed2: 2875 estimatedBW_proposed2: 2730.41 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 222104 target_proposed: 2.75529e+06 bpsLastChunk_proposed: 4529 downloadDuration_proposed: 0.861 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 222188 target_proposed2: 2.52042e+06 bpsLastChunk_proposed2: 4529 downloadDuration_proposed2: 0.861 requestInterval_proposed2: 0.0506683 Interval Ratio2: 16.9929
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 222966 target_proposed: 2.89994e+06 bpsLastChunk_proposed: 4524 downloadDuration_proposed: 0.862 requestInterval_proposed: 0.157151 Interval Ratio: 5.48518
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 223 bufferSize_proposed: 19 hasThroughput_proposed: 0 estimatedBW_proposed: 2873.67 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 223 bufferSize_proposed2: 18 hasThroughput_proposed2: 3444 estimatedBW_proposed2: 2688.42 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 223049 target_proposed2: 2.66507e+06 bpsLastChunk_proposed2: 4814 downloadDuration_proposed2: 0.81 requestInterval_proposed2: 0.453192 Interval Ratio2: 1.78732
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 223602 target_proposed: 3.04476e+06 bpsLastChunk_proposed: 8141 downloadDuration_proposed: 0.479 requestInterval_proposed: 0.541181 Interval Ratio: 0.885101
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 224 bufferSize_proposed: 20 hasThroughput_proposed: 0 estimatedBW_proposed: 2907.89 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 224 bufferSize_proposed2: 19 hasThroughput_proposed2: 3600 estimatedBW_proposed2: 2683.75 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 224032 target_proposed2: 2.80115e+06 bpsLastChunk_proposed2: 7372 downloadDuration_proposed2: 0.529 requestInterval_proposed2: 0.640588 Interval Ratio2: 0.825803
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 224622 target_proposed: 4.97116e+06 bpsLastChunk_proposed: 8141 downloadDuration_proposed: 0.479 requestInterval_proposed: 0.574508 Interval Ratio: 0.833757
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 225 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 3320.54 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 225 bufferSize_proposed2: 20 hasThroughput_proposed2: 2523 estimatedBW_proposed2: 2707.23 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 225152 target_proposed2: 4.70069e+06 bpsLastChunk_proposed2: 8141 downloadDuration_proposed2: 0.479 requestInterval_proposed2: 0.455667 Interval Ratio2: 1.05121
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 225675 target_proposed: 8.31008e+06 bpsLastChunk_proposed: 8141 downloadDuration_proposed: 0.479 requestInterval_proposed: 0.303102 Interval Ratio: 1.58033
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 226 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 4318.45 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 226 bufferSize_proposed2: 21 hasThroughput_proposed2: 2936 estimatedBW_proposed2: 3105.92 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 226221 target_proposed2: 4.78116e+06 bpsLastChunk_proposed2: 6351 downloadDuration_proposed2: 0.614 requestInterval_proposed2: 0.533402 Interval Ratio2: 1.1511
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 226536 target_proposed: 7.95571e+06 bpsLastChunk_proposed: 6989 downloadDuration_proposed: 0.558 requestInterval_proposed: 1.48454 Interval Ratio: 0.375875
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 227 bufferSize_proposed: 23 hasThroughput_proposed: 0 estimatedBW_proposed: 5045.9 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 227 bufferSize_proposed2: 22 hasThroughput_proposed2: 1785 estimatedBW_proposed2: 3440.97 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 227233 target_proposed2: 4.88431e+06 bpsLastChunk_proposed2: 8141 downloadDuration_proposed2: 0.479 requestInterval_proposed2: 1.23555 Interval Ratio2: 0.387682
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 228 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 5045.9 videoLevel_proposed: 1950
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 228 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3729.64 videoLevel_proposed2: 1950
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 229 bufferSize_proposed: 21 hasThroughput_proposed: 6332 estimatedBW_proposed: 5045.9 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 229 bufferSize_proposed2: 22 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 3729.64 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 229471 target_proposed: 6.21513e+06 bpsLastChunk_proposed: 5862 downloadDuration_proposed: 1.45 requestInterval_proposed: 1.20993 Interval Ratio: 1.19842
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 229682 target_proposed2: 4.98373e+06 bpsLastChunk_proposed2: 5028 downloadDuration_proposed2: 1.213 requestInterval_proposed2: 1.13249 Interval Ratio2: 1.07109
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 230 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 5279.75 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 230 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3980.45 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 231 bufferSize_proposed: 21 hasThroughput_proposed: 1880 estimatedBW_proposed: 5279.75 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 231 bufferSize_proposed2: 22 hasThroughput_proposed2: 570 estimatedBW_proposed2: 3980.45 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 232 bufferSize_proposed: 20 hasThroughput_proposed: 6262 estimatedBW_proposed: 5279.75 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 232 bufferSize_proposed2: 21 hasThroughput_proposed2: 5238 estimatedBW_proposed2: 3980.45 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 232192 target_proposed2: 4.60691e+06 bpsLastChunk_proposed2: 4429 downloadDuration_proposed2: 1.377 requestInterval_proposed2: 0.885723 Interval Ratio2: 1.55466
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 232342 target_proposed: 5.32345e+06 bpsLastChunk_proposed: 5117 downloadDuration_proposed: 1.661 requestInterval_proposed: 1.00727 Interval Ratio: 1.64902
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 233 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 5288.49 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 233 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4105.75 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 234 bufferSize_proposed: 20 hasThroughput_proposed: 2682 estimatedBW_proposed: 5288.49 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 234 bufferSize_proposed2: 21 hasThroughput_proposed2: 5222 estimatedBW_proposed2: 4105.75 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 234147 target_proposed2: 4.83825e+06 bpsLastChunk_proposed2: 5706 downloadDuration_proposed2: 1.069 requestInterval_proposed2: 0.834536 Interval Ratio2: 1.28095
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 234739 target_proposed: 5.6025e+06 bpsLastChunk_proposed: 6115 downloadDuration_proposed: 1.39 requestInterval_proposed: 0.788402 Interval Ratio: 1.76306
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 235 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 5351.29 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 235 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4252.25 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 235819 target_proposed2: 5.01784e+06 bpsLastChunk_proposed2: 7287 downloadDuration_proposed2: 0.837 requestInterval_proposed2: 0.984675 Interval Ratio2: 0.850027
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 236 bufferSize_proposed: 20 hasThroughput_proposed: 2678 estimatedBW_proposed: 5351.29 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 236 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4405.37 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 236643 target_proposed: 5.83602e+06 bpsLastChunk_proposed: 7623 downloadDuration_proposed: 1.115 requestInterval_proposed: 0.960139 Interval Ratio: 1.16129
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 237 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 5448.23 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 237 bufferSize_proposed2: 22 hasThroughput_proposed2: 1339 estimatedBW_proposed2: 4405.37 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 237526 target_proposed2: 8.32361e+06 bpsLastChunk_proposed2: 8448 downloadDuration_proposed2: 0.722 requestInterval_proposed2: 1.23808 Interval Ratio2: 0.583163
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 238 bufferSize_proposed: 20 hasThroughput_proposed: 3154 estimatedBW_proposed: 5448.23 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 238 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5189.01 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 238590 target_proposed: 6.02334e+06 bpsLastChunk_proposed: 8611 downloadDuration_proposed: 0.987 requestInterval_proposed: 0.927883 Interval Ratio: 1.06371
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 239 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 5563.25 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 239 bufferSize_proposed2: 22 hasThroughput_proposed2: 1699 estimatedBW_proposed2: 5189.01 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 239886 target_proposed2: 7.80458e+06 bpsLastChunk_proposed2: 7575 downloadDuration_proposed2: 1.122 requestInterval_proposed2: 1.08806 Interval Ratio2: 1.03119
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 240 bufferSize_proposed: 20 hasThroughput_proposed: 2248 estimatedBW_proposed: 5563.25 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 240 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5712.13 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 241 bufferSize_proposed: 19 hasThroughput_proposed: 7528 estimatedBW_proposed: 5563.25 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 241 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5712.13 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 241310 target_proposed: 5.31567e+06 bpsLastChunk_proposed: 4743 downloadDuration_proposed: 1.792 requestInterval_proposed: 0.741604 Interval Ratio: 2.41638
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 242 bufferSize_proposed: 20 hasThroughput_proposed: 0 estimatedBW_proposed: 5513.74 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 242 bufferSize_proposed2: 21 hasThroughput_proposed2: 3346 estimatedBW_proposed2: 5712.13 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 243 bufferSize_proposed: 19 hasThroughput_proposed: 2093 estimatedBW_proposed: 5513.74 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 243 bufferSize_proposed2: 20 hasThroughput_proposed2: 6348 estimatedBW_proposed2: 5712.13 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 243940 target_proposed2: 4.70094e+06 bpsLastChunk_proposed2: 2865 downloadDuration_proposed2: 2.966 requestInterval_proposed2: 0.74268 Interval Ratio2: 3.99364
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 244 bufferSize_proposed: 18 hasThroughput_proposed: 4268 estimatedBW_proposed: 5513.74 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 244 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5509.89 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 245 bufferSize_proposed: 17 hasThroughput_proposed: 7585 estimatedBW_proposed: 5513.74 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 245 bufferSize_proposed2: 20 hasThroughput_proposed2: 347 estimatedBW_proposed2: 5509.89 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 245306 target_proposed: 2.60248e+06 bpsLastChunk_proposed: 2612 downloadDuration_proposed: 3.254 requestInterval_proposed: 0.523618 Interval Ratio: 6.21445
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 246 bufferSize_proposed: 18 hasThroughput_proposed: 0 estimatedBW_proposed: 4931.49 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 246 bufferSize_proposed2: 19 hasThroughput_proposed2: 3563 estimatedBW_proposed2: 5509.89 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 247 bufferSize_proposed: 17 hasThroughput_proposed: 2342 estimatedBW_proposed: 4931.49 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 247 bufferSize_proposed2: 18 hasThroughput_proposed2: 6242 estimatedBW_proposed2: 5509.89 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 248 bufferSize_proposed: 16 hasThroughput_proposed: 4669 estimatedBW_proposed: 4931.49 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 248 bufferSize_proposed2: 17 hasThroughput_proposed2: 8347 estimatedBW_proposed2: 5509.89 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 248165 target_proposed2: 947268 bpsLastChunk_proposed2: 2441 downloadDuration_proposed2: 3.482 requestInterval_proposed2: 0.448885 Interval Ratio2: 7.757
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 249 bufferSize_proposed: 15 hasThroughput_proposed: 7454 estimatedBW_proposed: 4931.49 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 249 bufferSize_proposed2: 18 hasThroughput_proposed2: 827 estimatedBW_proposed2: 4597.37 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 249427 target_proposed: 2.16609e+06 bpsLastChunk_proposed: 2363 downloadDuration_proposed: 3.597 requestInterval_proposed: 0.341346 Interval Ratio: 10.5377
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 250 bufferSize_proposed: 16 hasThroughput_proposed: 0 estimatedBW_proposed: 4378.41 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 250 bufferSize_proposed2: 17 hasThroughput_proposed2: 3637 estimatedBW_proposed2: 4597.37 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 251 bufferSize_proposed: 15 hasThroughput_proposed: 2605 estimatedBW_proposed: 4378.41 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 251 bufferSize_proposed2: 16 hasThroughput_proposed2: 6062 estimatedBW_proposed2: 4597.37 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 252 bufferSize_proposed: 14 hasThroughput_proposed: 4890 estimatedBW_proposed: 4378.41 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 252 bufferSize_proposed2: 15 hasThroughput_proposed2: 8175 estimatedBW_proposed2: 4597.37 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 252155 target_proposed2: 1.53224e+06 bpsLastChunk_proposed2: 2399 downloadDuration_proposed2: 3.542 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 253 bufferSize_proposed: 13 hasThroughput_proposed: 7331 estimatedBW_proposed: 4378.41 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 253 bufferSize_proposed2: 16 hasThroughput_proposed2: 1302 estimatedBW_proposed2: 3984.34 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 253663 target_proposed: 2.19814e+06 bpsLastChunk_proposed: 2182 downloadDuration_proposed: 3.894 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 254 bufferSize_proposed: 14 hasThroughput_proposed: 0 estimatedBW_proposed: 3942.35 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 254 bufferSize_proposed2: 15 hasThroughput_proposed2: 4128 estimatedBW_proposed2: 3984.34 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 254870 target_proposed2: 2.1273e+06 bpsLastChunk_proposed2: 2246 downloadDuration_proposed2: 2.715 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 255 bufferSize_proposed: 13 hasThroughput_proposed: 2605 estimatedBW_proposed: 3942.35 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 255 bufferSize_proposed2: 16 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3612.93 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 256 bufferSize_proposed: 12 hasThroughput_proposed: 4915 estimatedBW_proposed: 3942.35 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 256 bufferSize_proposed2: 15 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 3612.93 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 256517 target_proposed: 2.06482e+06 bpsLastChunk_proposed: 2137 downloadDuration_proposed: 2.854 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 257 bufferSize_proposed: 13 hasThroughput_proposed: 934 estimatedBW_proposed: 3566.85 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 257 bufferSize_proposed2: 14 hasThroughput_proposed2: 4186 estimatedBW_proposed2: 3612.93 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 257708 target_proposed2: 2.16029e+06 bpsLastChunk_proposed2: 2149 downloadDuration_proposed2: 2.838 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 258 bufferSize_proposed: 12 hasThroughput_proposed: 3137 estimatedBW_proposed: 3566.85 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 258 bufferSize_proposed2: 15 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3322.41 videoLevel_proposed2: 3050
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 259 bufferSize_proposed: 11 hasThroughput_proposed: 5242 estimatedBW_proposed: 3566.85 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 259 bufferSize_proposed2: 14 hasThroughput_proposed2: 2252 estimatedBW_proposed2: 3322.41 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 259381 target_proposed: 2.1674e+06 bpsLastChunk_proposed: 2129 downloadDuration_proposed: 2.864 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 260 bufferSize_proposed: 12 hasThroughput_proposed: 1048 estimatedBW_proposed: 3286.96 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 260 bufferSize_proposed2: 13 hasThroughput_proposed2: 4669 estimatedBW_proposed2: 3322.41 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 260512 target_proposed2: 2.18367e+06 bpsLastChunk_proposed2: 2175 downloadDuration_proposed2: 2.804 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 261 bufferSize_proposed: 11 hasThroughput_proposed: 4415 estimatedBW_proposed: 3286.96 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 261 bufferSize_proposed2: 14 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 3094.66 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 261302 target_proposed: 2.64855e+06 bpsLastChunk_proposed: 3175 downloadDuration_proposed: 1.921 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 261860 target_proposed2: 2.65474e+06 bpsLastChunk_proposed2: 4525 downloadDuration_proposed2: 1.348 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 262 bufferSize_proposed: 12 hasThroughput_proposed: 3158 estimatedBW_proposed: 3159.27 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 262 bufferSize_proposed2: 15 hasThroughput_proposed2: 197 estimatedBW_proposed2: 3006.67 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 262649 target_proposed: 2.97128e+06 bpsLastChunk_proposed: 4528 downloadDuration_proposed: 1.347 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 262733 target_proposed2: 2.8812e+06 bpsLastChunk_proposed2: 4467 downloadDuration_proposed2: 0.873 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 263 bufferSize_proposed: 13 hasThroughput_proposed: 1363 estimatedBW_proposed: 3121.68 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 263 bufferSize_proposed2: 16 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 2981.58 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 263634 target_proposed2: 3.02787e+06 bpsLastChunk_proposed2: 4328 downloadDuration_proposed2: 0.901 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 263953 target_proposed: 3.19757e+06 bpsLastChunk_proposed: 4677 downloadDuration_proposed: 1.304 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 264 bufferSize_proposed: 14 hasThroughput_proposed: 0 estimatedBW_proposed: 3136.86 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 264 bufferSize_proposed2: 17 hasThroughput_proposed2: 1462 estimatedBW_proposed2: 2990.84 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 264499 target_proposed2: 3.17923e+06 bpsLastChunk_proposed2: 4508 downloadDuration_proposed2: 0.865 requestInterval_proposed2: 0 Interval Ratio2: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 265 bufferSize_proposed: 13 hasThroughput_proposed: 4526 estimatedBW_proposed: 3136.86 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 265 bufferSize_proposed2: 18 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 3028.52 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 265289 target_proposed: 3.41665e+06 bpsLastChunk_proposed: 4565 downloadDuration_proposed: 1.336 requestInterval_proposed: 0 Interval Ratio: inf
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 265373 target_proposed2: 3.32455e+06 bpsLastChunk_proposed2: 4462 downloadDuration_proposed2: 0.874 requestInterval_proposed2: 0.0630662 Interval Ratio2: 13.8584
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 266 bufferSize_proposed: 14 hasThroughput_proposed: 3580 estimatedBW_proposed: 3192.81 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 266 bufferSize_proposed2: 19 hasThroughput_proposed2: 2093 estimatedBW_proposed2: 3087.72 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 266338 target_proposed2: 3.47139e+06 bpsLastChunk_proposed2: 4323 downloadDuration_proposed2: 0.902 requestInterval_proposed2: 0.232439 Interval Ratio2: 3.88059
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 266478 target_proposed: 3.64109e+06 bpsLastChunk_proposed: 5130 downloadDuration_proposed: 1.189 requestInterval_proposed: 0.058357 Interval Ratio: 20.3746
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 267 bufferSize_proposed: 15 hasThroughput_proposed: 2093 estimatedBW_proposed: 3282.47 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 267 bufferSize_proposed2: 20 hasThroughput_proposed2: 1671 estimatedBW_proposed2: 3164.46 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 267478 target_proposed2: 3.62292e+06 bpsLastChunk_proposed2: 4299 downloadDuration_proposed2: 0.907 requestInterval_proposed2: 0.397734 Interval Ratio2: 2.28042
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 267689 target_proposed: 3.84085e+06 bpsLastChunk_proposed: 5290 downloadDuration_proposed: 1.153 requestInterval_proposed: 0 Interval Ratio: inf
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 268 bufferSize_proposed: 16 hasThroughput_proposed: 2306 estimatedBW_proposed: 3394.14 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 268 bufferSize_proposed2: 21 hasThroughput_proposed2: 72 estimatedBW_proposed2: 3256.15 videoLevel_proposed2: 1950
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 268778 target_proposed2: 3.7753e+06 bpsLastChunk_proposed2: 4318 downloadDuration_proposed2: 0.903 requestInterval_proposed2: 0.560721 Interval Ratio2: 1.61043
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 268841 target_proposed: 4.03455e+06 bpsLastChunk_proposed: 5295 downloadDuration_proposed: 1.152 requestInterval_proposed: 0.131859 Interval Ratio: 8.73658
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 269 bufferSize_proposed: 17 hasThroughput_proposed: 0 estimatedBW_proposed: 3522.23 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 269 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3359.98 videoLevel_proposed2: 1950
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 270 bufferSize_proposed: 16 hasThroughput_proposed: 6082 estimatedBW_proposed: 3522.23 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 270 bufferSize_proposed2: 21 hasThroughput_proposed2: 2772 estimatedBW_proposed2: 3359.98 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 270024 target_proposed: 4.22809e+06 bpsLastChunk_proposed: 5803 downloadDuration_proposed: 1.051 requestInterval_proposed: 0.265121 Interval Ratio: 3.96423
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 270126 target_proposed2: 3.927e+06 bpsLastChunk_proposed2: 4955 downloadDuration_proposed2: 0.787 requestInterval_proposed2: 0.522824 Interval Ratio2: 1.50529
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 271 bufferSize_proposed: 17 hasThroughput_proposed: 4919 estimatedBW_proposed: 3663.4 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 271 bufferSize_proposed2: 22 hasThroughput_proposed2: 1077 estimatedBW_proposed2: 3473.38 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 271358 target_proposed: 4.40465e+06 bpsLastChunk_proposed: 5706 downloadDuration_proposed: 1.069 requestInterval_proposed: 0.400357 Interval Ratio: 2.67012
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 271442 target_proposed2: 4.05922e+06 bpsLastChunk_proposed2: 4918 downloadDuration_proposed2: 0.793 requestInterval_proposed2: 1.2989 Interval Ratio2: 0.610515
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 272 bufferSize_proposed: 18 hasThroughput_proposed: 1748 estimatedBW_proposed: 3811.65 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 272 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 3590.55 videoLevel_proposed2: 1950
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 272480 target_proposed: 4.58425e+06 bpsLastChunk_proposed: 8448 downloadDuration_proposed: 0.722 requestInterval_proposed: 0.538008 Interval Ratio: 1.34199
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 273 bufferSize_proposed: 19 hasThroughput_proposed: 0 estimatedBW_proposed: 3966.17 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 273 bufferSize_proposed2: 22 hasThroughput_proposed2: 1908 estimatedBW_proposed2: 3590.55 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 273810 target_proposed2: 7.78257e+06 bpsLastChunk_proposed2: 5706 downloadDuration_proposed2: 1.069 requestInterval_proposed2: 0.9773 Interval Ratio2: 1.09383
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 274 bufferSize_proposed: 18 hasThroughput_proposed: 4858 estimatedBW_proposed: 3966.17 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 274 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 4428.96 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 274137 target_proposed: 4.70554e+06 bpsLastChunk_proposed: 5451 downloadDuration_proposed: 1.119 requestInterval_proposed: 0.482726 Interval Ratio: 2.31808
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 275 bufferSize_proposed: 19 hasThroughput_proposed: 2207 estimatedBW_proposed: 4114.04 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 275 bufferSize_proposed2: 22 hasThroughput_proposed2: 801 estimatedBW_proposed2: 4428.96 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 275804 target_proposed: 4.89353e+06 bpsLastChunk_proposed: 5147 downloadDuration_proposed: 1.185 requestInterval_proposed: 0.428591 Interval Ratio: 2.76487
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 276 bufferSize_proposed: 20 hasThroughput_proposed: 0 estimatedBW_proposed: 4269.94 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 276 bufferSize_proposed2: 21 hasThroughput_proposed2: 5955 estimatedBW_proposed2: 4428.96 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 276015 target_proposed2: 6.09706e+06 bpsLastChunk_proposed2: 4967 downloadDuration_proposed2: 1.228 requestInterval_proposed2: 0.88082 Interval Ratio2: 1.39416
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 276955 target_proposed: 5.09261e+06 bpsLastChunk_proposed: 8448 downloadDuration_proposed: 0.722 requestInterval_proposed: 0.575585 Interval Ratio: 1.25438
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 277 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 4434.48 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 277 bufferSize_proposed2: 22 hasThroughput_proposed2: 403 estimatedBW_proposed2: 4762.58 videoLevel_proposed2: 3050
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 277629 target_proposed2: 6.30336e+06 bpsLastChunk_proposed2: 8321 downloadDuration_proposed2: 0.733 requestInterval_proposed2: 1.27629 Interval Ratio2: 0.574323
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 278 bufferSize_proposed: 20 hasThroughput_proposed: 3354 estimatedBW_proposed: 4434.48 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 278 bufferSize_proposed2: 23 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5070.73 videoLevel_proposed2: 3050
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 278303 target_proposed: 5.21391e+06 bpsLastChunk_proposed: 7891 downloadDuration_proposed: 0.773 requestInterval_proposed: 0.728871 Interval Ratio: 1.06054
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 279 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 4590.36 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 279 bufferSize_proposed2: 22 hasThroughput_proposed2: 420 estimatedBW_proposed2: 5070.73 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 280 bufferSize_proposed: 20 hasThroughput_proposed: 4190 estimatedBW_proposed: 4590.36 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 280 bufferSize_proposed2: 21 hasThroughput_proposed2: 5284 estimatedBW_proposed2: 5070.73 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 280409 target_proposed: 4.87284e+06 bpsLastChunk_proposed: 4426 downloadDuration_proposed: 1.378 requestInterval_proposed: 0.712715 Interval Ratio: 1.93345
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 280566 target_proposed2: 5.45544e+06 bpsLastChunk_proposed2: 5117 downloadDuration_proposed2: 1.661 requestInterval_proposed2: 1.05123 Interval Ratio2: 1.58005
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 281 bufferSize_proposed: 21 hasThroughput_proposed: 0 estimatedBW_proposed: 4646.86 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 281 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5147.68 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 281960 target_proposed: 5.10434e+06 bpsLastChunk_proposed: 7279 downloadDuration_proposed: 0.838 requestInterval_proposed: 0.687367 Interval Ratio: 1.21915
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 282 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 4738.36 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 282 bufferSize_proposed2: 21 hasThroughput_proposed2: 1409 estimatedBW_proposed2: 5147.68 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 282899 target_proposed2: 5.73449e+06 bpsLastChunk_proposed2: 6630 downloadDuration_proposed2: 1.282 requestInterval_proposed2: 1.01442 Interval Ratio2: 1.26377
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 283 bufferSize_proposed: 21 hasThroughput_proposed: 1958 estimatedBW_proposed: 4738.36 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 283 bufferSize_proposed2: 22 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5265.04 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 283457 target_proposed: 5.24513e+06 bpsLastChunk_proposed: 7530 downloadDuration_proposed: 0.81 requestInterval_proposed: 0.860406 Interval Ratio: 0.941416
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 284 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 4839.71 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 284 bufferSize_proposed2: 21 hasThroughput_proposed2: 343 estimatedBW_proposed2: 5265.04 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 285 bufferSize_proposed: 21 hasThroughput_proposed: 2945 estimatedBW_proposed: 4839.71 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 285 bufferSize_proposed2: 20 hasThroughput_proposed2: 6451 estimatedBW_proposed2: 5265.04 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 285405 target_proposed2: 5.70758e+06 bpsLastChunk_proposed2: 5697 downloadDuration_proposed2: 1.492 requestInterval_proposed2: 0.787733 Interval Ratio2: 1.89404
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 285574 target_proposed: 5.05764e+06 bpsLastChunk_proposed: 4856 downloadDuration_proposed: 1.256 requestInterval_proposed: 0.849157 Interval Ratio: 1.47911
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 286 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 4883.29 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 286 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5353.55 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 287 bufferSize_proposed: 21 hasThroughput_proposed: 2093 estimatedBW_proposed: 4883.29 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 287 bufferSize_proposed2: 20 hasThroughput_proposed2: 4776 estimatedBW_proposed2: 5353.55 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 287802 target_proposed: 4.61337e+06 bpsLastChunk_proposed: 4426 downloadDuration_proposed: 1.378 requestInterval_proposed: 0.663121 Interval Ratio: 2.07805
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 287854 target_proposed2: 5.21414e+06 bpsLastChunk_proposed2: 5117 downloadDuration_proposed2: 1.661 requestInterval_proposed2: 0.796045 Interval Ratio2: 2.08657
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 288 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 4829.31 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 288 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5325.66 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 289 bufferSize_proposed: 21 hasThroughput_proposed: 3330 estimatedBW_proposed: 4829.31 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 289 bufferSize_proposed2: 20 hasThroughput_proposed2: 1073 estimatedBW_proposed2: 5325.66 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 289650 target_proposed: 4.84487e+06 bpsLastChunk_proposed: 5147 downloadDuration_proposed: 1.185 requestInterval_proposed: 0.662307 Interval Ratio: 1.7892
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 290 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 4832.42 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 290 bufferSize_proposed2: 19 hasThroughput_proposed2: 7348 estimatedBW_proposed2: 5325.66 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 290126 target_proposed2: 5.49319e+06 bpsLastChunk_proposed2: 5758 downloadDuration_proposed2: 1.476 requestInterval_proposed2: 0.586067 Interval Ratio2: 2.51848
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 291 bufferSize_proposed: 21 hasThroughput_proposed: 4739 estimatedBW_proposed: 4832.42 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 291 bufferSize_proposed2: 20 hasThroughput_proposed2: 1048 estimatedBW_proposed2: 5359.17 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 291265 target_proposed: 5.04395e+06 bpsLastChunk_proposed: 6400 downloadDuration_proposed: 0.953 requestInterval_proposed: 0.851352 Interval Ratio: 1.1194
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 291973 target_proposed2: 5.74115e+06 bpsLastChunk_proposed2: 6740 downloadDuration_proposed2: 1.261 requestInterval_proposed2: 0.763775 Interval Ratio2: 1.65101
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 292 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 4874.73 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 292 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5435.57 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 292839 target_proposed: 5.20406e+06 bpsLastChunk_proposed: 8448 downloadDuration_proposed: 0.722 requestInterval_proposed: 0.834669 Interval Ratio: 0.865013
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 293 bufferSize_proposed: 23 hasThroughput_proposed: 0 estimatedBW_proposed: 4940.59 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 293 bufferSize_proposed2: 20 hasThroughput_proposed2: 1458 estimatedBW_proposed2: 5435.57 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 293778 target_proposed2: 5.953e+06 bpsLastChunk_proposed2: 8165 downloadDuration_proposed2: 1.041 requestInterval_proposed2: 0.734558 Interval Ratio2: 1.41718
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 294 bufferSize_proposed: 22 hasThroughput_proposed: 2007 estimatedBW_proposed: 4940.59 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 294 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5539.05 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 294452 target_proposed: 8.57311e+06 bpsLastChunk_proposed: 7830 downloadDuration_proposed: 0.779 requestInterval_proposed: 1.29989 Interval Ratio: 0.599283
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 295 bufferSize_proposed: 23 hasThroughput_proposed: 0 estimatedBW_proposed: 5667.1 videoLevel_proposed: 3050
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 295 bufferSize_proposed2: 20 hasThroughput_proposed2: 3973 estimatedBW_proposed2: 5539.05 videoLevel_proposed2: 4250
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 295500 target_proposed2: 6.12789e+06 bpsLastChunk_proposed2: 8603 downloadDuration_proposed2: 0.988 requestInterval_proposed2: 0.702611 Interval Ratio2: 1.40618
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 296 bufferSize_proposed: 22 hasThroughput_proposed: 1810 estimatedBW_proposed: 5667.1 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 296 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5656.82 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 297 bufferSize_proposed: 21 hasThroughput_proposed: 7717 estimatedBW_proposed: 5667.1 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 297 bufferSize_proposed2: 20 hasThroughput_proposed2: 3141 estimatedBW_proposed2: 5656.82 videoLevel_proposed2: 4250
+=======START_PROPOSED=========== 0xb47410 =================
+Time_proposed: 297202 target_proposed: 6.59959e+06 bpsLastChunk_proposed: 5862 downloadDuration_proposed: 1.45 requestInterval_proposed: 1.0521 Interval Ratio: 1.3782
+=======START_PROPOSED2=========== 0xb47550 =================
+Time_proposed2: 297678 target_proposed2: 5.92324e+06 bpsLastChunk_proposed2: 5758 downloadDuration_proposed2: 1.476 requestInterval_proposed2: 0.688589 Interval Ratio2: 2.14351
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 298 bufferSize_proposed: 22 hasThroughput_proposed: 0 estimatedBW_proposed: 5853.6 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 298 bufferSize_proposed2: 21 hasThroughput_proposed2: 0 estimatedBW_proposed2: 5710.1 videoLevel_proposed2: 4250
+=======BUFFER_PROPOSED========== 0xb47410 =================
+Time_proposed: 299 bufferSize_proposed: 21 hasThroughput_proposed: 3772 estimatedBW_proposed: 5853.6 videoLevel_proposed: 4250
+=======BUFFER_PROPOSED2========== 0xb47550 =================
+Time_proposed2: 299 bufferSize_proposed2: 20 hasThroughput_proposed2: 2543 estimatedBW_proposed2: 5710.1 videoLevel_proposed2: 4250
