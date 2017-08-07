@@ -90,7 +90,7 @@ DashServerApp::~DashServerApp()
 {
     m_socket = 0;
 
-    // Multi-Socket List Reset
+    // Multi-Socket List Reset //
     if (!m_peer_socket_list.empty() && !m_peer_address_list.empty()){
     	m_peer_socket_list.clear();
     	m_peer_address_list.clear();
